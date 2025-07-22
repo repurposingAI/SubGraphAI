@@ -1,0 +1,1682 @@
+[
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Vancomycin",
+            "source": "To evaluate the concurrent use of vancomycin and ε-aminocaproic acid (EACA) in primary total hip arthroplasty (THA).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39889741/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "ε-aminocaproic acid",
+            "source": "To evaluate the concurrent use of vancomycin and ε-aminocaproic acid (EACA) in primary total hip arthroplasty (THA).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39889741/"
+        },
+        "relationship": "Used concurrently",
+        "description": "Vancomycin and ε-aminocaproic acid are used together in primary total hip arthroplasty."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "PCEVs",
+            "source": "A cecal ligation and puncture (CLP)-induced sepsis rat model was used in vivo, and the effects of PCEVs on vascular endothelial cells were studied in vitro. First, proteomic and Gene Ontology enrichment analyses were performed to analyze the therapeutic mechanism of PCEVs, revealing that the angiogenesis-related protein Angpt1 was highly expressed in PCEVs.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940043/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "Angpt1",
+            "source": "First, proteomic and Gene Ontology enrichment analyses were performed to analyze the therapeutic mechanism of PCEVs, revealing that the angiogenesis-related protein Angpt1 was highly expressed in PCEVs.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940043/"
+        },
+        "relationship": "Expressed in",
+        "description": "The angiogenesis-related protein Angpt1 was highly expressed in PCEVs."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "tranexamic acid",
+            "source": "Treatment options for angiotensin-converting enzyme inhibitor-induced angioedema (ACEi-AE) are primarily limited to airway monitoring and protection with intubation. The efficacy of tranexamic acid (TXA) in this context remains poorly understood.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955211/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "angiotensin-converting enzyme inhibitor-induced angioedema",
+            "source": "Treatment options for angiotensin-converting enzyme inhibitor-induced angioedema (ACEi-AE) are primarily limited to airway monitoring and protection with intubation. The efficacy of tranexamic acid (TXA) in this context remains poorly understood.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955211/"
+        },
+        "relationship": "Treats",
+        "description": "Therapeutic"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Angiotensin-converting enzyme inhibitor-induced angioedema",
+            "source": "A retrospective cohort study conducted in two hospitals examined emergency department patients with suspected ACEi-AE from 2017 to 2021.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955211/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Intensive care unit",
+            "source": "Primary outcomes included intensive care unit (ICU) admission, intubation, days intubated, time to administration of TXA, surgical airway required, and death in patients that received TXA compared with those that did not.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955211/"
+        },
+        "relationship": "Located in",
+        "description": "Hospitalized patients with ACEi-AE were admitted to the ICU as part of the study."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "TXA",
+            "source": "Of 336 eligible patients, 37 received TXA and 299 did not. The median time to TXA administration was 51 min (interquartile range 34-131).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955211/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "ICU",
+            "source": "ICU admission rate was significantly higher in the TXA group (57%) vs. the no-TXA group (15%), odds ratio (OR) 7.61 (95% confidence interval [CI] 3.69-15.70).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955211/"
+        },
+        "relationship": "Treats",
+        "description": "ICU admission rate was significantly higher in the TXA group (57%) vs. the no-TXA group (15%), odds ratio (OR) 7.61 (95% confidence interval [CI] 3.69-15.70)."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "TXA",
+            "source": "Of 336 eligible patients, 37 received TXA and 299 did not. The median time to TXA administration was 51 min (interquartile range 34-131).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955211/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "intubations",
+            "source": "There were significantly more intubations in the TXA group (20%) vs. the no-TXA group (5.7%), OR 3.87 (95% CI 1.49-10.08).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955211/"
+        },
+        "relationship": "Treats",
+        "description": "There were significantly more intubations in the TXA group (20%) vs. the no-TXA group (5.7%), OR 3.87 (95% CI 1.49-10.08)."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Tranexamic acid",
+            "source": "TXA use did not improve many of the clinical outcomes involved in the treatment of ACEi-AE. One interpretation of these results may be that TXA use was associated with patients who presented with more severe disease, as TXA use was up to the discretion of the treating physician.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955211/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Angiotensin-converting enzyme inhibitor-induced angioedema",
+            "source": "TXA use did not improve many of the clinical outcomes involved in the treatment of ACEi-AE. One interpretation of these results may be that TXA use was associated with patients who presented with more severe disease, as TXA use was up to the discretion of the treating physician.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955211/"
+        },
+        "relationship": "Treats",
+        "description": "Therapeutic"
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "Endoplasmic reticulum",
+            "source": "Lipopolysaccharide (LPS) was used to establish a cell model based on HK2 cells. Endoplasmic reticulum (ER) stress markers were quantified through western blot analysis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39917002/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ER stress markers",
+            "source": "Endoplasmic reticulum (ER) stress markers were quantified through western blot analysis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39917002/"
+        },
+        "relationship": "Located in",
+        "description": "Endoplasmic reticulum (ER) stress markers are located in the endoplasmic reticulum."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "L-arginine",
+            "source": "A L-arginine (L-Arg) intervention study with 118 participants was carried out using a standardized 24-h exposure protocol, employing a multivariable linear regression model to assess the effects of O<sub>3</sub> exposure on plasma biomarkers, and a generalized linear model to investigate the effects on 24-hour STDE. The possible interactive effects of short-term O<sub>3</sub> exposure and plasma biomarkers on indicators of myocardial ischemia were also investigated by including product interaction terms between ambient O<sub>3</sub> and plasma biomarkers in the models. We also explored whether L-Arg supplementation could alleviate the adverse effects of ambient O<sub>3</sub> exposure.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955872/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "plasma",
+            "source": "A L-arginine (L-Arg) intervention study with 118 participants was carried out using a standardized 24-h exposure protocol, employing a multivariable linear regression model to assess the effects of O<sub>3</sub> exposure on plasma biomarkers, and a generalized linear model to investigate the effects on 24-hour STDE. The possible interactive effects of short-term O<sub>3</sub> exposure and plasma biomarkers on indicators of myocardial ischemia were also investigated by including product interaction terms between ambient O<sub>3</sub> and plasma biomarkers in the models. We also explored whether L-Arg supplementation could alleviate the adverse effects of ambient O<sub>3</sub> exposure.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955872/"
+        },
+        "relationship": "Expressed in",
+        "description": "Exposure"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Therapeutic drug monitoring",
+            "source": "Therapeutic drug monitoring (TDM) is essential for controlling pharmacogenetic and pharmacokinetic variations and for optimizing pharmacotherapy.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39950917/"
+        },
+        "node_2": {
+            "label": "Process",
+            "name": "Controlling pharmacogenetic and pharmacokinetic variations and optimizing pharmacotherapy",
+            "source": "Therapeutic drug monitoring (TDM) is essential for controlling pharmacogenetic and pharmacokinetic variations and for optimizing pharmacotherapy.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39950917/"
+        },
+        "relationship": "Treats",
+        "description": "Therapeutic drug monitoring is used to treat the process of controlling pharmacogenetic and pharmacokinetic variations and optimizing pharmacotherapy."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "psychotropic drugs",
+            "source": "This study proposed a new standard for determining the TRR of psychotropic drugs, thereby enhancing their clinical utility and validity. ",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39950917/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "blood",
+            "source": "Adjusting blood levels to these ranges should improve response rates and medication tolerance. ",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39950917/"
+        },
+        "relationship": "Treats",
+        "description": "The new standard for determining the TRR of psychotropic drugs is used to adjust blood levels, which should improve response rates and medication tolerance."
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "vertebrate social behavior network",
+            "source": "Territorial competition can stimulate secretion of testosterone (T), which is thought to act on neural circuits of aggression to promote further aggression. Here, we test the hypothesis that competition modulates sex steroid sensitivity and conversion in the brain, focused on the female tree swallow (Tachycineta bicolor). In this bird species, exogenous T enhances female aggression, but social competition for limited nesting territories does not stimulate systemic T elevation. We exposed free-living females to simulated territorial intrusions and sampled five regions of the vertebrate social behavior network (SBN).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955841/"
+        },
+        "node_2": {
+            "label": "Hormone",
+            "name": "testosterone",
+            "source": "Territorial competition can stimulate secretion of testosterone (T), which is thought to act on neural circuits of aggression to promote further aggression. Here, we test the hypothesis that competition modulates sex steroid sensitivity and conversion in the brain, focused on the female tree swallow (Tachycineta bicolor). In this bird species, exogenous T enhances female aggression, but social competition for limited nesting territories does not stimulate systemic T elevation.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955841/"
+        },
+        "relationship": "Located in",
+        "description": "The vertebrate social behavior network (SBN) is the region where testosterone (T) is located and acts on neural circuits of aggression."
+    },
+    {
+        "node_1": {
+            "label": "Hormone",
+            "name": "testosterone",
+            "source": "Territorial competition can stimulate secretion of testosterone (T), which is thought to act on neural circuits of aggression to promote further aggression. Here, we test the hypothesis that competition modulates sex steroid sensitivity and conversion in the brain, focused on the female tree swallow (Tachycineta bicolor). In this bird species, exogenous T enhances female aggression, but social competition for limited nesting territories does not stimulate systemic T elevation.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955841/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "neural circuits of aggression",
+            "source": "Territorial competition can stimulate secretion of testosterone (T), which is thought to act on neural circuits of aggression to promote further aggression.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955841/"
+        },
+        "relationship": "Binds to",
+        "description": "Testosterone (T) binds to neural circuits of aggression to promote further aggression."
+    },
+    {
+        "node_1": {
+            "label": "Hormone",
+            "name": "testosterone",
+            "source": "Here, we test the hypothesis that competition modulates sex steroid sensitivity and conversion in the brain, focused on the female tree swallow (Tachycineta bicolor). In this bird species, exogenous T enhances female aggression, but social competition for limited nesting territories does not stimulate systemic T elevation. We exposed free-living females to simulated territorial intrusions and sampled five regions of the vertebrate social behavior network (SBN). Using quantitative PCR, we measured mRNA abundance of: androgen receptor, 5-alpha reductase, estrogen receptor alpha, and aromatase.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955841/"
+        },
+        "node_2": {
+            "label": "Gene",
+            "name": "androgen receptor",
+            "source": "Using quantitative PCR, we measured mRNA abundance of: androgen receptor, 5-alpha reductase, estrogen receptor alpha, and aromatase.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955841/"
+        },
+        "relationship": "Regulates",
+        "description": "Testosterone regulates the androgen receptor gene."
+    },
+    {
+        "node_1": {
+            "label": "Hormone",
+            "name": "testosterone",
+            "source": "Here, we test the hypothesis that competition modulates sex steroid sensitivity and conversion in the brain, focused on the female tree swallow (Tachycineta bicolor). In this bird species, exogenous T enhances female aggression, but social competition for limited nesting territories does not stimulate systemic T elevation. We exposed free-living females to simulated territorial intrusions and sampled five regions of the vertebrate social behavior network (SBN). Using quantitative PCR, we measured mRNA abundance of: androgen receptor, 5-alpha reductase, estrogen receptor alpha, and aromatase.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955841/"
+        },
+        "node_2": {
+            "label": "Gene",
+            "name": "5-alpha reductase",
+            "source": "Using quantitative PCR, we measured mRNA abundance of: androgen receptor, 5-alpha reductase, estrogen receptor alpha, and aromatase.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955841/"
+        },
+        "relationship": "Regulates",
+        "description": "Testosterone regulates the 5-alpha reductase gene."
+    },
+    {
+        "node_1": {
+            "label": "Hormone",
+            "name": "testosterone",
+            "source": "Here, we test the hypothesis that competition modulates sex steroid sensitivity and conversion in the brain, focused on the female tree swallow (Tachycineta bicolor). In this bird species, exogenous T enhances female aggression, but social competition for limited nesting territories does not stimulate systemic T elevation. We exposed free-living females to simulated territorial intrusions and sampled five regions of the vertebrate social behavior network (SBN). Using quantitative PCR, we measured mRNA abundance of: androgen receptor, 5-alpha reductase, estrogen receptor alpha, and aromatase.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955841/"
+        },
+        "node_2": {
+            "label": "Gene",
+            "name": "estrogen receptor alpha",
+            "source": "Using quantitative PCR, we measured mRNA abundance of: androgen receptor, 5-alpha reductase, estrogen receptor alpha, and aromatase.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955841/"
+        },
+        "relationship": "Regulates",
+        "description": "Testosterone regulates the estrogen receptor alpha gene."
+    },
+    {
+        "node_1": {
+            "label": "Hormone",
+            "name": "testosterone",
+            "source": "Here, we test the hypothesis that competition modulates sex steroid sensitivity and conversion in the brain, focused on the female tree swallow (Tachycineta bicolor). In this bird species, exogenous T enhances female aggression, but social competition for limited nesting territories does not stimulate systemic T elevation. We exposed free-living females to simulated territorial intrusions and sampled five regions of the vertebrate social behavior network (SBN). Using quantitative PCR, we measured mRNA abundance of: androgen receptor, 5-alpha reductase, estrogen receptor alpha, and aromatase.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955841/"
+        },
+        "node_2": {
+            "label": "Gene",
+            "name": "aromatase",
+            "source": "Using quantitative PCR, we measured mRNA abundance of: androgen receptor, 5-alpha reductase, estrogen receptor alpha, and aromatase.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955841/"
+        },
+        "relationship": "Regulates",
+        "description": "Testosterone regulates the aromatase gene."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Atorvastatin",
+            "source": "This was an open label, randomized, crossover study conducted in 17 healthy volunteers. Part 1 examined the PK of a 10-mg dose of atorvastatin co-administered with or without a 600-mg dose of sodium bicarbonate in fasted and fed states.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39956861/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "Gastric pH",
+            "source": "Gastric pH was monitored during treatments using Heidelberg capsules.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39956861/"
+        },
+        "relationship": "Located in",
+        "description": "Study location"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Atorvastatin",
+            "source": "According to these results, atorvastatin PK does not appear to be sensitive to changes in gastric pH.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39956861/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Gastric pH",
+            "source": "According to these results, atorvastatin PK does not appear to be sensitive to changes in gastric pH.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39956861/"
+        },
+        "relationship": "Located in",
+        "description": "The pharmacokinetics (PK) of atorvastatin does not appear to be affected by changes in gastric pH."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "gemcitabine",
+            "source": "Direct and indirect co-culture models to investigate gemcitabine-induced apoptotic cells can facilitate the repopulation of residual tumor cells. Mass spectrometry analysis was conducted to assess the impact of gemcitabine treatment on the lipid metabolism of pancreatic cancer cells. ELISA assays confirmed gemcitabine promotes the release of LPA from apoptotic pancreatic cancer cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39903418/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "lipid metabolism of pancreatic cancer cells",
+            "source": "Mass spectrometry analysis was conducted to assess the impact of gemcitabine treatment on the lipid metabolism of pancreatic cancer cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39903418/"
+        },
+        "relationship": "Affects",
+        "description": "Gemcitabine affects the lipid metabolism of pancreatic cancer cells."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "gemcitabine",
+            "source": "Direct and indirect co-culture models to investigate gemcitabine-induced apoptotic cells can facilitate the repopulation of residual tumor cells. Mass spectrometry analysis was conducted to assess the impact of gemcitabine treatment on the lipid metabolism of pancreatic cancer cells. ELISA assays confirmed gemcitabine promotes the release of LPA from apoptotic pancreatic cancer cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39903418/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "apoptotic pancreatic cancer cells",
+            "source": "ELISA assays confirmed gemcitabine promotes the release of LPA from apoptotic pancreatic cancer cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39903418/"
+        },
+        "relationship": "Induces",
+        "description": "Gemcitabine induces apoptosis in pancreatic cancer cells."
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "apoptotic pancreatic cancer cells",
+            "source": "ELISA assays confirmed gemcitabine promotes the release of LPA from apoptotic pancreatic cancer cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39903418/"
+        },
+        "node_2": {
+            "label": "Molecule",
+            "name": "LPA",
+            "source": "ELISA assays confirmed gemcitabine promotes the release of LPA from apoptotic pancreatic cancer cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39903418/"
+        },
+        "relationship": "Releases",
+        "description": "Apoptotic pancreatic cancer cells release LPA."
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Yes-associated protein 1 (YAP1)",
+            "source": "The expression of Yes-associated protein 1 (YAP1) elucidated the underlying mechanism by which dying cells induce tumor repopulation using qRT-PCR and Western blot.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39903418/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "tumor repopulation",
+            "source": "Direct and indirect co-culture models to investigate gemcitabine-induced apoptotic cells can facilitate the repopulation of residual tumor cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39903418/"
+        },
+        "relationship": "Regulates",
+        "description": "YAP1 regulates tumor repopulation."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "PDE5 inhibitor",
+            "source": "A systematic review and meta-analysis was conducted of randomised controlled trials (RCTs) in people with elevated HbA1c (>6%) to assess mean difference in HbA1c levels from baseline versus controls after any PDE5 inhibitor intervention of ≥4 weeks, excluding multiple interventions.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39844934/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Elevated HbA1c",
+            "source": "A systematic review and meta-analysis was conducted of randomised controlled trials (RCTs) in people with elevated HbA1c (>6%) to assess mean difference in HbA1c levels from baseline versus controls after any PDE5 inhibitor intervention of ≥4 weeks, excluding multiple interventions.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39844934/"
+        },
+        "relationship": "Treats",
+        "description": "The PDE5 inhibitor is used to treat elevated HbA1c levels in people with this condition."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Colorectal cancer",
+            "source": "While existing treatment options demonstrate considerable efficacy, they are often constrained by non-selectivity and substantial side effects. Recent studies indicate that lipid metabolism significantly influences carcinogenesis, highlighting it as a promising avenue for developing targeted anticancer therapies. The purpose of the study was to see if acyl-coenzyme A: cholesterol acyltransferase 1 (ACAT1), 3-hydroxy-3-methylglutaryl-CoA reductase (HMGCR), and stearoyl-CoA 9-desaturase (SCD1) are good metabolic targets and whether the use of inhibitors of these enzymes together with 5-fluorouracil (5-FU) would have a synergistic effect on CRC cell viability.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "node_2": {
+            "label": "Gene",
+            "name": "acyl-coenzyme A: cholesterol acyltransferase 1",
+            "source": "To confirm that the correct lipid targets were chosen, the expression levels of ACAT1, HMGCR, and SCD1 were examined in CRC patients and cell models.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "relationship": "Expressed in",
+        "description": "Examined in CRC patients and cell models"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "3-hydroxy-3-methylglutaryl-CoA reductase",
+            "source": "To confirm that the correct lipid targets were chosen, the expression levels of ACAT1, HMGCR, and SCD1 were examined in CRC patients and cell models.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Colorectal cancer",
+            "source": "While existing treatment options demonstrate considerable efficacy, they are often constrained by non-selectivity and substantial side effects. Recent studies indicate that lipid metabolism significantly influences carcinogenesis, highlighting it as a promising avenue for developing targeted anticancer therapies. The purpose of the study was to see if acyl-coenzyme A: cholesterol acyltransferase 1 (ACAT1), 3-hydroxy-3-methylglutaryl-CoA reductase (HMGCR), and stearoyl-CoA 9-desaturase (SCD1) are good metabolic targets and whether the use of inhibitors of these enzymes together with 5-fluorouracil (5-FU) would have a synergistic effect on CRC cell viability.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "relationship": "Expressed in",
+        "description": "Examined in CRC patients and cell models"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "stearoyl-CoA 9-desaturase",
+            "source": "To confirm that the correct lipid targets were chosen, the expression levels of ACAT1, HMGCR, and SCD1 were examined in CRC patients and cell models.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Colorectal cancer",
+            "source": "While existing treatment options demonstrate considerable efficacy, they are often constrained by non-selectivity and substantial side effects. Recent studies indicate that lipid metabolism significantly influences carcinogenesis, highlighting it as a promising avenue for developing targeted anticancer therapies. The purpose of the study was to see if acyl-coenzyme A: cholesterol acyltransferase 1 (ACAT1), 3-hydroxy-3-methylglutaryl-CoA reductase (HMGCR), and stearoyl-CoA 9-desaturase (SCD1) are good metabolic targets and whether the use of inhibitors of these enzymes together with 5-fluorouracil (5-FU) would have a synergistic effect on CRC cell viability.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "relationship": "Expressed in",
+        "description": "Examined in CRC patients and cell models"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "acyl-coenzyme A: cholesterol acyltransferase 1",
+            "source": "Inhibition of any of the selected enzymes reduced CRC cell growth in a dose-dependent manner.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Colorectal cancer",
+            "source": "While existing treatment options demonstrate considerable efficacy, they are often constrained by non-selectivity and substantial side effects. Recent studies indicate that lipid metabolism significantly influences carcinogenesis, highlighting it as a promising avenue for developing targeted anticancer therapies. The purpose of the study was to see if acyl-coenzyme A: cholesterol acyltransferase 1 (ACAT1), 3-hydroxy-3-methylglutaryl-CoA reductase (HMGCR), and stearoyl-CoA 9-desaturase (SCD1) are good metabolic targets and whether the use of inhibitors of these enzymes together with 5-fluorouracil (5-FU) would have a synergistic effect on CRC cell viability.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "relationship": "Inhibits",
+        "description": "Reduced CRC cell growth in a dose-dependent manner"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "stearoyl-CoA 9-desaturase",
+            "source": "The combination of 5-FU + Avasimibe (an ACAT1 inhibitor) and 5-FU + MF-438 (an SCD1 inhibitor) produced a stronger antiproliferative effect than the inhibitors alone.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Colorectal cancer",
+            "source": "While existing treatment options demonstrate considerable efficacy, they are often constrained by non-selectivity and substantial side effects. Recent studies indicate that lipid metabolism significantly influences carcinogenesis, highlighting it as a promising avenue for developing targeted anticancer therapies. The purpose of the study was to see if acyl-coenzyme A: cholesterol acyltransferase 1 (ACAT1), 3-hydroxy-3-methylglutaryl-CoA reductase (HMGCR), and stearoyl-CoA 9-desaturase (SCD1) are good metabolic targets and whether the use of inhibitors of these enzymes together with 5-fluorouracil (5-FU) would have a synergistic effect on CRC cell viability.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "relationship": "Involved in",
+        "description": "Produced a stronger antiproliferative effect"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "5-fluorouracil",
+            "source": "The combination of 5-FU + Avasimibe (an ACAT1 inhibitor) and 5-FU + MF-438 (an SCD1 inhibitor) produced a stronger antiproliferative effect than the inhibitors alone.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Colorectal cancer",
+            "source": "While existing treatment options demonstrate considerable efficacy, they are often constrained by non-selectivity and substantial side effects. Recent studies indicate that lipid metabolism significantly influences carcinogenesis, highlighting it as a promising avenue for developing targeted anticancer therapies. The purpose of the study was to see if acyl-coenzyme A: cholesterol acyltransferase 1 (ACAT1), 3-hydroxy-3-methylglutaryl-CoA reductase (HMGCR), and stearoyl-CoA 9-desaturase (SCD1) are good metabolic targets and whether the use of inhibitors of these enzymes together with 5-fluorouracil (5-FU) would have a synergistic effect on CRC cell viability.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "relationship": "Treats",
+        "description": "Produced a stronger antiproliferative effect"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Avasimibe",
+            "source": "The combination of 5-FU + Avasimibe (an ACAT1 inhibitor) and 5-FU + MF-438 (an SCD1 inhibitor) produced a stronger antiproliferative effect than the inhibitors alone.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Colorectal cancer",
+            "source": "While existing treatment options demonstrate considerable efficacy, they are often constrained by non-selectivity and substantial side effects. Recent studies indicate that lipid metabolism significantly influences carcinogenesis, highlighting it as a promising avenue for developing targeted anticancer therapies. The purpose of the study was to see if acyl-coenzyme A: cholesterol acyltransferase 1 (ACAT1), 3-hydroxy-3-methylglutaryl-CoA reductase (HMGCR), and stearoyl-CoA 9-desaturase (SCD1) are good metabolic targets and whether the use of inhibitors of these enzymes together with 5-fluorouracil (5-FU) would have a synergistic effect on CRC cell viability.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "relationship": "Treats",
+        "description": "Produced a stronger antiproliferative effect"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "MF-438",
+            "source": "The combination of 5-FU + Avasimibe (an ACAT1 inhibitor) and 5-FU + MF-438 (an SCD1 inhibitor) produced a stronger antiproliferative effect than the inhibitors alone.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Colorectal cancer",
+            "source": "While existing treatment options demonstrate considerable efficacy, they are often constrained by non-selectivity and substantial side effects. Recent studies indicate that lipid metabolism significantly influences carcinogenesis, highlighting it as a promising avenue for developing targeted anticancer therapies. The purpose of the study was to see if acyl-coenzyme A: cholesterol acyltransferase 1 (ACAT1), 3-hydroxy-3-methylglutaryl-CoA reductase (HMGCR), and stearoyl-CoA 9-desaturase (SCD1) are good metabolic targets and whether the use of inhibitors of these enzymes together with 5-fluorouracil (5-FU) would have a synergistic effect on CRC cell viability.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39940954/"
+        },
+        "relationship": "Treats",
+        "description": "Produced a stronger antiproliferative effect"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Early-PD",
+            "source": "Early-PD was diagnosed in 102 patients, and was more common in those who had not undergone nephrectomy (p < 0.001), those treated with a TKI for a short period (p < 0.001), and those in the International Metastatic Renal Cell Carcinoma Database Consortium (IMDC) poor risk category for mRCC (p < 0.001). Multivariate analysis showed that these were independent risk factors for early-PD (all p < 0.001). Of those with early-PD, 52 changed to next-line treatment. The progression-free survival periods were 5.5 (95% confidence interval (CI) 2.4-8.6) months for patients administered TKIs, 4.2 (95% CI 0.3-8.1) months for those on nivolumab, and 2.2 (1.8-2.6) months for those on mammalian target of rapamycin inhibitors (p = 0.030).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39951188/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "kidney",
+            "source": "Early-PD was diagnosed in 102 patients, and was more common in those who had not undergone nephrectomy (p < 0.001)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39951188/"
+        },
+        "relationship": "Located in",
+        "description": "Early-PD was more common in those who had not undergone nephrectomy, indicating a relationship between the disease and the kidney."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Acne",
+            "source": "This was a multisite, retrospective study of patients obtaining acne care at PS and SNS outpatient dermatology facilities in Los Angeles over a one-year period.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954091/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Skin",
+            "source": "This was a multisite, retrospective study of patients obtaining acne care at PS and SNS outpatient dermatology facilities in Los Angeles over a one-year period.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954091/"
+        },
+        "relationship": "Affects",
+        "description": "The study focused on patients with acne, a skin condition."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Azelaic acid",
+            "source": "Despite similar acne severity, SNS patients were less often prescribed azelaic acid, benzoyl peroxide/clindamycin, benzoyl peroxide/adapalene, sulfacetamide, topical dapsone, and salicylic acid than PS patients (p < 0.001).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954091/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Acne",
+            "source": "Despite similar acne severity, SNS patients were less often prescribed azelaic acid, benzoyl peroxide/clindamycin, benzoyl peroxide/adapalene, sulfacetamide, topical dapsone, and salicylic acid than PS patients (p < 0.001).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954091/"
+        },
+        "relationship": "Treats",
+        "description": "Azelaic acid is prescribed less frequently for the treatment of acne in SNS patients compared to PS patients."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "acne",
+            "source": "Findings from this study highlight differences in acne prescribing patterns by race/ethnicity and hospital system, which can impact the ability of patients to have successful treatment of their acne and its sequelae.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954091/"
+        },
+        "node_2": {
+            "label": "Treats",
+            "name": "medications, drugs, or pharmaceutical substances used for treatment",
+            "source": "Findings from this study highlight differences in acne prescribing patterns by race/ethnicity and hospital system, which can impact the ability of patients to have successful treatment of their acne and its sequelae.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954091/"
+        },
+        "relationship": "Treats",
+        "description": "Prescribing"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "antihypertensive medication",
+            "source": "Adherence to antihypertensive medication, especially in free-dose combinations, poses a significant challenge.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "elevated blood pressure",
+            "source": "Elevated blood pressure is a major risk factor for severe medical conditions.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "relationship": "Treats",
+        "description": "Medication used for managing elevated blood pressure"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "antihypertensive therapy",
+            "source": "A register-based cohort study was conducted on individuals aged 65 years or older in Denmark who initiated antihypertensive therapy from 1996 to 2016 and followed for 730 days from the index date.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "individuals aged 65 years or older in Denmark",
+            "source": "A register-based cohort study was conducted on individuals aged 65 years or older in Denmark who initiated antihypertensive therapy from 1996 to 2016 and followed for 730 days from the index date.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "relationship": "Treats",
+        "description": "Therapy"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "bendroflumethiazide and potassium",
+            "source": "The method achieved 100% accuracy in identifying co-exposure periods. During the early stage of the follow-up (0-180 days), 54.1% of individuals were co-exposed to at least two antihypertensive medications, while 37.5% were co-exposed during the late stage of the follow-up period (181-730 days). The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the early (13.2% and 12.5% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "amlodipine",
+            "source": "The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the early (13.2% and 12.5% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "relationship": "Co-exposed",
+        "description": "13.2% of patients were co-exposed to bendroflumethiazide and potassium with amlodipine in the early stage of the follow-up period"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "bendroflumethiazide and potassium",
+            "source": "The method achieved 100% accuracy in identifying co-exposure periods. During the early stage of the follow-up (0-180 days), 54.1% of individuals were co-exposed to at least two antihypertensive medications, while 37.5% were co-exposed during the late stage of the follow-up period (181-730 days). The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the early (13.2% and 12.5% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "enalapril",
+            "source": "The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the early (13.2% and 12.5% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "relationship": "Co-exposed",
+        "description": "12.5% of patients were co-exposed to bendroflumethiazide and potassium with enalapril in the early stage of the follow-up period"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "bendroflumethiazide and potassium",
+            "source": "The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the late stage (16.9% and 15.0% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "amlodipine",
+            "source": "The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the late stage (16.9% and 15.0% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "relationship": "Co-exposed",
+        "description": "16.9% of patients were co-exposed to bendroflumethiazide and potassium with amlodipine in the late stage of the follow-up period"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "bendroflumethiazide and potassium",
+            "source": "The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the late stage (16.9% and 15.0% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "enalapril",
+            "source": "The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the late stage (16.9% and 15.0% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "relationship": "Co-exposed",
+        "description": "15.0% of patients were co-exposed to bendroflumethiazide and potassium with enalapril in the late stage of the follow-up period"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "antihypertensive medications",
+            "source": "The newly developed method effectively assesses co-exposure to antihypertensive medications, overcoming previous limitations.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "older individuals",
+            "source": "The findings reveal common co-exposure combinations and evolving trends in antihypertensive medication use among older individuals, reflecting changes in clinical practice and guidelines over two decades.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "relationship": "Treats",
+        "description": "Therapeutic"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "pancreatolithiasis",
+            "source": "We retrospectively reviewed 165 patients with pancreatolithiasis who underwent nonsurgical treatment between 1992 and 2020.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/35835109/"
+        },
+        "node_2": {
+            "label": "Treatment",
+            "name": "nonsurgical treatment",
+            "source": "We retrospectively reviewed 165 patients with pancreatolithiasis who underwent nonsurgical treatment between 1992 and 2020.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/35835109/"
+        },
+        "relationship": "Treats",
+        "description": "The relationship between pancreatolithiasis and nonsurgical treatment is that the latter is used to manage the former."
+    },
+    {
+        "node_1": {
+            "label": "Treatment",
+            "name": "Nonsurgical treatment",
+            "source": "Nonsurgical treatment for patients with asymptomatic pancreatolithiasis had a 63% stone clearance rate, lower than 84% for symptomatic pancreatolithiasis but comparable to outcomes at other institutions.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/35835109/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Asymptomatic pancreatolithiasis",
+            "source": "Nonsurgical treatment for patients with asymptomatic pancreatolithiasis had a 63% stone clearance rate, lower than 84% for symptomatic pancreatolithiasis but comparable to outcomes at other institutions.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/35835109/"
+        },
+        "relationship": "Treats",
+        "description": "Therapeutic intervention"
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "Red blood cells",
+            "source": "Cryopreservation is a long-term storage strategy for maintaining the quality of red blood cells (RBCs) used for clinical and industrial purposes. However, cryopreservation can induce osmotic stress, leading to a 15 to 20% loss of RBCs during freezing/thawing and cryoprotectant addition/removal. This study investigated how the biological aging of RBCs influences their osmotic characteristics. We hypothesized that biologically older RBCs (O-RBCs) would exhibit diminished osmotic features compared to biologically younger RBCs (Y-RBCs), thereby contributing to their loss during cryopreservation.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955662/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Rheological parameters",
+            "source": "Rheological parameters (O<sub>hyper</sub>, EI<sub>max</sub>, EI<sub>hyper,</sub> K<sub>EI</sub>) were measured with laser ektacytometry.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955662/"
+        },
+        "relationship": "Involved in",
+        "description": "Measurement of rheological parameters of RBCs"
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "Rheological parameters",
+            "source": "Rheological parameters (O<sub>hyper</sub>, EI<sub>max</sub>, EI<sub>hyper,</sub> K<sub>EI</sub>) were measured with laser ektacytometry.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955662/"
+        },
+        "node_2": {
+            "label": "Method",
+            "name": "Laser ektacytometry",
+            "source": "Rheological parameters (O<sub>hyper</sub>, EI<sub>max</sub>, EI<sub>hyper,</sub> K<sub>EI</sub>) were measured with laser ektacytometry.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955662/"
+        },
+        "relationship": "Used for",
+        "description": "Laser ektacytometry used for measuring rheological parameters of RBCs"
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "Subpopulations",
+            "source": "Osmotic fragility and hemolysis tests were performed to assess subpopulation responses to osmotic stress.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955662/"
+        },
+        "node_2": {
+            "label": "Test",
+            "name": "Osmotic fragility and hemolysis tests",
+            "source": "Osmotic fragility and hemolysis tests were performed to assess subpopulation responses to osmotic stress.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955662/"
+        },
+        "relationship": "Involved in",
+        "description": "Osmotic fragility and hemolysis tests assess subpopulation responses to osmotic stress"
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "Subpopulations",
+            "source": "Water (L<sub>p</sub>) and solute permeability (P<sub>s</sub>) of these subpopulations, in addition to unseparated RBCs (U-RBCs), were measured using stopped-flow spectroscopy.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955662/"
+        },
+        "node_2": {
+            "label": "Method",
+            "name": "Stopped-flow spectroscopy",
+            "source": "Water (L<sub>p</sub>) and solute permeability (P<sub>s</sub>) of these subpopulations, in addition to unseparated RBCs (U-RBCs), were measured using stopped-flow spectroscopy.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955662/"
+        },
+        "relationship": "Used for",
+        "description": "Stopped-flow spectroscopy used for measuring water and solute permeability of RBC subpopulations"
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "Y-RBCs and O-RBCs",
+            "source": "Aliquots of Y- and O-RBCs were differentially labeled with biotin and spiked back into a pooled unit. The pooled unit was split into five, and cryopreserved via a high glycerol/slow-cooling method, a standard method adopted by international blood banks. Glycerolization and deglycerolization were conducted using the Haemonetics ACP 215 Automated Cell Processor. Flow cytometry was used to assess the recovery of biotinylated RBCs (BioRBCs) before glycerolization and following post-thaw deglycerolization on days 1 and 14.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955662/"
+        },
+        "node_2": {
+            "label": "Method",
+            "name": "Cryopreservation",
+            "source": "Aliquots of Y- and O-RBCs were differentially labeled with biotin and spiked back into a pooled unit. The pooled unit was split into five, and cryopreserved via a high glycerol/slow-cooling method, a standard method adopted by international blood banks. Glycerolization and deglycerolization were conducted using the Haemonetics ACP 215 Automated Cell Processor. Flow cytometry was used to assess the recovery of biotinylated RBCs (BioRBCs) before glycerolization and following post-thaw deglycerolization on days 1 and 14.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955662/"
+        },
+        "relationship": "Undergoes",
+        "description": "Y-RBCs and O-RBCs undergo cryopreservation"
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "Y-RBCs and O-RBCs",
+            "source": "Aliquots of Y- and O-RBCs were differentially labeled with biotin and spiked back into a pooled unit. The pooled unit was split into five, and cryopreserved via a high glycerol/slow-cooling method, a standard method adopted by international blood banks. Glycerolization and deglycerolization were conducted using the Haemonetics ACP 215 Automated Cell Processor. Flow cytometry was used to assess the recovery of biotinylated RBCs (BioRBCs) before glycerolization and following post-thaw deglycerolization on days 1 and 14.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955662/"
+        },
+        "node_2": {
+            "label": "Method",
+            "name": "Glycerolization and deglycerolization",
+            "source": "Aliquots of Y- and O-RBCs were differentially labeled with biotin and spiked back into a pooled unit. The pooled unit was split into five, and cryopreserved via a high glycerol/slow-cooling method, a standard method adopted by international blood banks. Glycerolization and deglycerolization were conducted using the Haemonetics ACP 215 Automated Cell Processor. Flow cytometry was used to assess the recovery of biotinylated RBCs (BioRBCs) before glycerolization and following post-thaw deglycerolization on days 1 and 14.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955662/"
+        },
+        "relationship": "Undergoes",
+        "description": "Y-RBCs and O-RBCs undergo glycerolization and deglycerolization"
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "BioRBCs",
+            "source": "Aliquots of Y- and O-RBCs were differentially labeled with biotin and spiked back into a pooled unit. The pooled unit was split into five, and cryopreserved via a high glycerol/slow-cooling method, a standard method adopted by international blood banks. Glycerolization and deglycerolization were conducted using the Haemonetics ACP 215 Automated Cell Processor. Flow cytometry was used to assess the recovery of biotinylated RBCs (BioRBCs) before glycerolization and following post-thaw deglycerolization on days 1 and 14.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955662/"
+        },
+        "node_2": {
+            "label": "Method",
+            "name": "Flow cytometry",
+            "source": "Aliquots of Y- and O-RBCs were differentially labeled with biotin and spiked back into a pooled unit. The pooled unit was split into five, and cryopreserved via a high glycerol/slow-cooling method, a standard method adopted by international blood banks. Glycerolization and deglycerolization were conducted using the Haemonetics ACP 215 Automated Cell Processor. Flow cytometry was used to assess the recovery of biotinylated RBCs (BioRBCs) before glycerolization and following post-thaw deglycerolization on days 1 and 14.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955662/"
+        },
+        "relationship": "Assessed by",
+        "description": "Recovery of BioRBCs assessed by flow cytometry"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Bio-AMS",
+            "source": "The antibacterial agent Bio-AMS is metabolized in vivo through hydrolysis of the central acyl-sulfamide linker leading to high clearance and release of a moderately cytotoxic metabolite M1.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39823202/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "central acyl-sulfamide linker",
+            "source": "The antibacterial agent Bio-AMS is metabolized in vivo through hydrolysis of the central acyl-sulfamide linker leading to high clearance and release of a moderately cytotoxic metabolite M1.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39823202/"
+        },
+        "relationship": "Metabolized by",
+        "description": "Hydrolysis"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "central acyl-sulfamide linker",
+            "source": "Analogues designed to prevent the metabolism of the central acyl-sulfamide moiety through steric hindrance or attenuation of the acyl-sulfamide electrophilicity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39823202/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "Bio-9",
+            "source": "Bio-9 was identified as a metabolically stable analogue with a single-digit nanomolar dissociation constant for biotin protein ligase (BPL) and minimum inhibitory concentrations (MICs) against Mycobacterium tuberculosis and Staphylococcus aureus ranging from 0.2 to 20 μM.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39823202/"
+        },
+        "relationship": "Involves",
+        "description": "Prevention of metabolism"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Bio-9",
+            "source": "Bio-9 was identified as a metabolically stable analogue with a single-digit nanomolar dissociation constant for biotin protein ligase (BPL) and minimum inhibitory concentrations (MICs) against Mycobacterium tuberculosis and Staphylococcus aureus ranging from 0.2 to 20 μM.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39823202/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "biotin protein ligase (BPL)",
+            "source": "Bio-9 was identified as a metabolically stable analogue with a single-digit nanomolar dissociation constant for biotin protein ligase (BPL) and minimum inhibitory concentrations (MICs) against Mycobacterium tuberculosis and Staphylococcus aureus ranging from 0.2 to 20 μM.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39823202/"
+        },
+        "relationship": "Binds to",
+        "description": "Single-digit nanomolar dissociation constant"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Bio-9",
+            "source": "Minimum inhibitory concentrations (MICs) against Mycobacterium tuberculosis and Staphylococcus aureus ranging from 0.2 to 20 μM.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39823202/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Mycobacterium tuberculosis",
+            "source": "Minimum inhibitory concentrations (MICs) against Mycobacterium tuberculosis and Staphylococcus aureus ranging from 0.2 to 20 μM.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39823202/"
+        },
+        "relationship": "Treats",
+        "description": "Minimum inhibitory concentrations"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Bio-9",
+            "source": "Minimum inhibitory concentrations (MICs) against Mycobacterium tuberculosis and Staphylococcus aureus ranging from 0.2 to 20 μM.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39823202/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Staphylococcus aureus",
+            "source": "Minimum inhibitory concentrations (MICs) against Mycobacterium tuberculosis and Staphylococcus aureus ranging from 0.2 to 20 μM.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39823202/"
+        },
+        "relationship": "Treats",
+        "description": "Minimum inhibitory concentrations"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Bio-9",
+            "source": "The antibacterial activity of Bio-9 was dependent on BPL expression level and was more than 70-fold better against a strain underexpressing BPL and, conversely, more than 5-fold less effective against a strain overexpressing BPL.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39823202/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "BPL",
+            "source": "The antibacterial activity of Bio-9 was dependent on BPL expression level and was more than 70-fold better against a strain underexpressing BPL and, conversely, more than 5-fold less effective against a strain overexpressing BPL.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39823202/"
+        },
+        "relationship": "Regulates",
+        "description": "Expression level-dependent antibacterial activity"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Bio-9",
+            "source": "Pharmacokinetic and metabolic studies demonstrated that Bio-9 was metabolically stable in vivo, showing negligible hydrolysis that translated to substantially reduced clearance and concomitantly boosted drug exposure and half-life compared to Bio-AMS.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39823202/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "central acyl-sulfamide linker",
+            "source": "Analogues designed to prevent the metabolism of the central acyl-sulfamide moiety through steric hindrance or attenuation of the acyl-sulfamide electrophilicity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39823202/"
+        },
+        "relationship": "Does not metabolize",
+        "description": "Metabolically stable with negligible hydrolysis"
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "Drosophila model",
+            "source": "Here, we developed an adult Drosophila model of Mn toxicity that recapitulated key parkinsonian features, spanning behavioral deficits, neuronal loss, and dysfunctions in lysosomes and mitochondria.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+        },
+        "node_2": {
+            "label": "Metal",
+            "name": "Manganese (Mn)",
+            "source": "Here, we developed an adult Drosophila model of Mn toxicity that recapitulated key parkinsonian features, spanning behavioral deficits, neuronal loss, and dysfunctions in lysosomes and mitochondria.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+        },
+        "relationship": "Located in",
+        "description": "Model"
+    },
+    {
+        "node_1": {
+            "label": "Metal",
+            "name": "Manganese (Mn)",
+            "source": "Chronic exposure to manganese (Mn) induces manganism and has been widely implicated as a contributing environmental factor to Parkinson's disease (PD), featuring notable overlaps between the two in motor symptoms and clinical hallmarks.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Parkinson's disease (PD)",
+            "source": "Chronic exposure to manganese (Mn) induces manganism and has been widely implicated as a contributing environmental factor to Parkinson's disease (PD), featuring notable overlaps between the two in motor symptoms and clinical hallmarks.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+        },
+        "relationship": "Causes",
+        "description": "Environmental factor"
+    },
+    {
+        "node_1": {
+            "label": "Metabolite",
+            "name": "Biotin",
+            "source": "Metabolomics analysis of the brain and body tissues of these flies at an early stage of toxicity identified systemic changes in the metabolism of biotin (also known as vitamin B<sub>7</sub>) in Mn-treated groups.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+        },
+        "node_2": {
+            "label": "Metal",
+            "name": "Manganese (Mn)",
+            "source": "Metabolomics analysis of the brain and body tissues of these flies at an early stage of toxicity identified systemic changes in the metabolism of biotin (also known as vitamin B<sub>7</sub>) in Mn-treated groups.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+        },
+        "relationship": "Metabolized by",
+        "description": "Systemic changes"
+    },
+    {
+        "node_1": {
+            "label": "Enzyme",
+            "name": "Biotinidase",
+            "source": "Biotinidase-deficient flies showed exacerbated Mn-induced neurotoxicity, parkinsonism, and mitochondrial dysfunction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+        },
+        "node_2": {
+            "label": "Metal",
+            "name": "Manganese (Mn)",
+            "source": "Biotinidase-deficient flies showed exacerbated Mn-induced neurotoxicity, parkinsonism, and mitochondrial dysfunction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+        },
+        "relationship": "Affects",
+        "description": "Exacerbated neurotoxicity"
+    },
+    {
+        "node_1": {
+            "label": "Metabolite",
+            "name": "Biotin",
+            "source": "Supplementing the diet of wild-type flies with biotin ameliorated the pathological phenotypes of concurrent exposure to Mn.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+        },
+        "node_2": {
+            "label": "Metal",
+            "name": "Manganese (Mn)",
+            "source": "Supplementing the diet of wild-type flies with biotin ameliorated the pathological phenotypes of concurrent exposure to Mn.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+        },
+        "relationship": "Requires",
+        "description": "Ameliorated pathological phenotypes"
+    },
+    {
+        "node_1": {
+            "label": "Metabolite",
+            "name": "Biotin",
+            "source": "Supplementing the culture media of human induced stem cells (iPSCs) differentiated midbrain dopaminergic neurons with biotin protected against Mn-induced mitochondrial dysregulation, cytotoxicity, and neuronal loss.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+        },
+        "node_2": {
+            "label": "Metal",
+            "name": "Manganese (Mn)",
+            "source": "Supplementing the culture media of human induced stem cells (iPSCs) differentiated midbrain dopaminergic neurons with biotin protected against Mn-induced mitochondrial dysregulation, cytotoxicity, and neuronal loss.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+        },
+        "relationship": "Requires",
+        "description": "Protection against mitochondrial dysregulation, cytotoxicity, and neuronal loss"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "biotin-related proteins",
+            "source": "Analysis of the expression of genes encoding biotin-related proteins in patients with PD revealed increased amounts of biotin transporters in the substantia nigra compared with healthy controls, suggesting a potential role of altered biotin metabolism in PD.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Parkinson's disease (PD)",
+            "source": "Analysis of the expression of genes encoding biotin-related proteins in patients with PD revealed increased amounts of biotin transporters in the substantia nigra compared with healthy controls, suggesting a potential role of altered biotin metabolism in PD.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+        },
+        "relationship": "Expressed in",
+        "description": "Increased amounts of biotin transporters"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Internal medicine ward",
+            "source": "A prospective observational study was conducted in the internal medicine ward for six months.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931321/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Ward",
+            "source": "A prospective observational study was conducted in the internal medicine ward for six months.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931321/"
+        },
+        "relationship": "Located in",
+        "description": "The study was conducted in the internal medicine ward."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Infectious diseases",
+            "source": "This study observed the prevalence of DDIs in hospitalized patients with infectious diseases of 'moderate' severity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931321/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Hospitalized patients",
+            "source": "This study observed the prevalence of DDIs in hospitalized patients with infectious diseases of 'moderate' severity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931321/"
+        },
+        "relationship": "Affects",
+        "description": "Influence or impact"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Bone morphogenetic protein receptor type-1B",
+            "source": "Bone morphogenetic protein receptor type-1B (BMPR1B) is a receptor of the bone morphogenetic protein (BMP) family that has been identified as a candidate gene for reproductive traits in pigs. In our previous study, we used whole-genome resequencing to identify BMPR1B as a candidate gene affecting sow litter size in Taihu pigs and revealed the transcriptional regulation of BMPR1B in the endometrium. However, the functional role of BMPR1B in the growth and development of the endometrium in pigs has not been comprehensively elucidated.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39732258/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "endometrial stromal cells",
+            "source": "BMPR1B promoted cell proliferation and migration of endometrial stromal cells but inhibited that of endometrial epithelial cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39732258/"
+        },
+        "relationship": "Activates",
+        "description": "Promotion"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Bone morphogenetic protein receptor type-1B",
+            "source": "BMPR1B promoted cell proliferation and migration of endometrial stromal cells but inhibited that of endometrial epithelial cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39732258/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "endometrial epithelial cells",
+            "source": "BMPR1B promoted cell proliferation and migration of endometrial stromal cells but inhibited that of endometrial epithelial cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39732258/"
+        },
+        "relationship": "Inhibits",
+        "description": "Inhibition"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Bone morphogenetic protein receptor type-1B",
+            "source": "Transcriptome sequencing revealed potential pathways through which BMPR1B influences the growth and development of endometrial cells, including vascular system development, gland morphology, cell migration and adhesion, and reproductive system development.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39732258/"
+        },
+        "node_2": {
+            "label": "Pathway",
+            "name": "vascular system development",
+            "source": "Transcriptome sequencing revealed potential pathways through which BMPR1B influences the growth and development of endometrial cells, including vascular system development, gland morphology, cell migration and adhesion, and reproductive system development.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39732258/"
+        },
+        "relationship": "Involved in",
+        "description": "Involvement"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Bone morphogenetic protein receptor type-1B",
+            "source": "Transcriptome sequencing revealed potential pathways through which BMPR1B influences the growth and development of endometrial cells, including vascular system development, gland morphology, cell migration and adhesion, and reproductive system development.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39732258/"
+        },
+        "node_2": {
+            "label": "Pathway",
+            "name": "gland morphology",
+            "source": "Transcriptome sequencing revealed potential pathways through which BMPR1B influences the growth and development of endometrial cells, including vascular system development, gland morphology, cell migration and adhesion, and reproductive system development.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39732258/"
+        },
+        "relationship": "Involved in",
+        "description": "Involvement"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Bone morphogenetic protein receptor type-1B",
+            "source": "Transcriptome sequencing revealed potential pathways through which BMPR1B influences the growth and development of endometrial cells, including vascular system development, gland morphology, cell migration and adhesion, and reproductive system development.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39732258/"
+        },
+        "node_2": {
+            "label": "Pathway",
+            "name": "cell migration and adhesion",
+            "source": "Transcriptome sequencing revealed potential pathways through which BMPR1B influences the growth and development of endometrial cells, including vascular system development, gland morphology, cell migration and adhesion, and reproductive system development.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39732258/"
+        },
+        "relationship": "Involved in",
+        "description": "Involvement"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Bone morphogenetic protein receptor type-1B",
+            "source": "Transcriptome sequencing revealed potential pathways through which BMPR1B influences the growth and development of endometrial cells, including vascular system development, gland morphology, cell migration and adhesion, and reproductive system development.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39732258/"
+        },
+        "node_2": {
+            "label": "Pathway",
+            "name": "reproductive system development",
+            "source": "Transcriptome sequencing revealed potential pathways through which BMPR1B influences the growth and development of endometrial cells, including vascular system development, gland morphology, cell migration and adhesion, and reproductive system development.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39732258/"
+        },
+        "relationship": "Involved in",
+        "description": "Involvement"
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "uterus",
+            "source": "Most biological processes, including reproductive system development, embryonic morphogenesis, and angiogenesis, were enriched by genes that were differentially bound by enhancer markers. These findings provide a valuable resource for future research on the mechanisms underlying the excellent uterine function in Meishan pigs.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39732258/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "excellent uterine function",
+            "source": "Most biological processes, including reproductive system development, embryonic morphogenesis, and angiogenesis, were enriched by genes that were differentially bound by enhancer markers. These findings provide a valuable resource for future research on the mechanisms underlying the excellent uterine function in Meishan pigs.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39732258/"
+        },
+        "relationship": "Treats",
+        "description": "Treatment"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "PF-07328948",
+            "source": "Inhibition of branched-chain ketoacid dehydrogenase kinase (BDK or BCKDK), a negative regulator of branched-chain amino acid (BCAA) metabolism, is hypothesized to treat cardio-metabolic diseases. From a starting point with potential idiosyncratic toxicity risk, modification to a benzothiophene core and discovery of a cryptic pocket allowed for improved potency with 3-aryl substitution to arrive at PF-07328948, which was largely devoid of protein covalent binding liability. This BDK inhibitor was shown also to be a BDK degrader in cells and in vivo rodent studies. Plasma biomarkers, including BCAAs and branched-chain ketoacids (BCKAs), were lowered in vivo with enhanced pharmacodynamic effect upon chronic dosing due to BDK degradation. This molecule improves metabolic and heart failure end points in rodent models. PF-07328948 is the first known selective BDK inhibitor candidate to be examined in clinical studies, with Phase 1 single ascending dose data showing good tolerability and a pharmacokinetic profile commensurate with once-daily dosing.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39560668/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "branched-chain ketoacid dehydrogenase kinase (BDK or BCKDK)",
+            "source": "Inhibition of branched-chain ketoacid dehydrogenase kinase (BDK or BCKDK), a negative regulator of branched-chain amino acid (BCAA) metabolism, is hypothesized to treat cardio-metabolic diseases. From a starting point with potential idiosyncratic toxicity risk, modification to a benzothiophene core and discovery of a cryptic pocket allowed for improved potency with 3-aryl substitution to arrive at PF-07328948, which was largely devoid of protein covalent binding liability. This BDK inhibitor was shown also to be a BDK degrader in cells and in vivo rodent studies. Plasma biomarkers, including BCAAs and branched-chain ketoacids (BCKAs), were lowered in vivo with enhanced pharmacodynamic effect upon chronic dosing due to BDK degradation. This molecule improves metabolic and heart failure end points in rodent models. PF-07328948 is the first known selective BDK inhibitor candidate to be examined in clinical studies, with Phase 1 single ascending dose data showing good tolerability and a pharmacokinetic profile commensurate with once-daily dosing.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39560668/"
+        },
+        "relationship": "Inhibits",
+        "description": "Inhibition"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Branched-chain aminotransferase isozymes cytosolic",
+            "source": "Branched-chain amino acids (BCAAs) play vital roles in metabolic and physiological processes, with their catabolism initiated by two branched-chain aminotransferase isozymes: cytosolic (BCATc) and mitochondrial (BCATm). These enzymes have tissue and cell-specific compartmentalization and are believed to shuttle metabolites between cells and tissues.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "neuronal cells of the retina",
+            "source": "As expected, BCATc was highly expressed in the neuronal cells of the retina, particularly in the ganglion cell layers, inner nuclear layer, and plexiform layer, with little to no expression in Müller cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "relationship": "Expressed in",
+        "description": "BCATc is highly expressed in the neuronal cells of the retina."
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Branched-chain aminotransferase isozymes cytosolic",
+            "source": "BCATc was also present in the cornea, retinal pigment epithelium (RPE), choroid, ciliary body, and iris but not in the lens.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "cornea",
+            "source": "BCATc was also present in the cornea, retinal pigment epithelium (RPE), choroid, ciliary body, and iris but not in the lens.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "relationship": "Located in",
+        "description": "BCATc is located in the cornea."
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Branched-chain aminotransferase isozymes cytosolic",
+            "source": "BCATc was also present in the cornea, retinal pigment epithelium (RPE), choroid, ciliary body, and iris but not in the lens.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "retinal pigment epithelium (RPE)",
+            "source": "BCATc was also present in the cornea, retinal pigment epithelium (RPE), choroid, ciliary body, and iris but not in the lens.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "relationship": "Located in",
+        "description": "BCATc is located in the retinal pigment epithelium (RPE)."
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Branched-chain aminotransferase isozymes cytosolic",
+            "source": "BCATc was also present in the cornea, retinal pigment epithelium (RPE), choroid, ciliary body, and iris but not in the lens.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "choroid",
+            "source": "BCATc was also present in the cornea, retinal pigment epithelium (RPE), choroid, ciliary body, and iris but not in the lens.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "relationship": "Located in",
+        "description": "BCATc is located in the choroid."
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Branched-chain aminotransferase isozymes cytosolic",
+            "source": "BCATc was also present in the cornea, retinal pigment epithelium (RPE), choroid, ciliary body, and iris but not in the lens.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "ciliary body",
+            "source": "BCATc was also present in the cornea, retinal pigment epithelium (RPE), choroid, ciliary body, and iris but not in the lens.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "relationship": "Located in",
+        "description": "BCATc is located in the ciliary body."
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Branched-chain aminotransferase isozymes cytosolic",
+            "source": "BCATc was also present in the cornea, retinal pigment epithelium (RPE), choroid, ciliary body, and iris but not in the lens.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "iris",
+            "source": "BCATc was also present in the cornea, retinal pigment epithelium (RPE), choroid, ciliary body, and iris but not in the lens.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "relationship": "Located in",
+        "description": "BCATc is located in the iris."
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Branched-chain aminotransferase isozymes mitochondrial",
+            "source": "In contrast, BCATm was expressed across all ocular tissues, with strong expression in the Muller cells of the retina, the endothelial and epithelial layers of the cornea, the choroid and iris, and the epithelial cells at the lens's front.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Muller cells of the retina",
+            "source": "In contrast, BCATm was expressed across all ocular tissues, with strong expression in the Muller cells of the retina, the endothelial and epithelial layers of the cornea, the choroid and iris, and the epithelial cells at the lens's front.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "relationship": "Expressed in",
+        "description": "BCATm is expressed in the Muller cells of the retina."
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Branched-chain aminotransferase isozymes mitochondrial",
+            "source": "In contrast, BCATm was expressed across all ocular tissues, with strong expression in the Muller cells of the retina, the endothelial and epithelial layers of the cornea, the choroid and iris, and the epithelial cells at the lens's front.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "endothelial and epithelial layers of the cornea",
+            "source": "In contrast, BCATm was expressed across all ocular tissues, with strong expression in the Muller cells of the retina, the endothelial and epithelial layers of the cornea, the choroid and iris, and the epithelial cells at the lens's front.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "relationship": "Expressed in",
+        "description": "BCATm is expressed in the endothelial and epithelial layers of the cornea."
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Branched-chain aminotransferase isozymes mitochondrial",
+            "source": "In contrast, BCATm was expressed across all ocular tissues, with strong expression in the Muller cells of the retina, the endothelial and epithelial layers of the cornea, the choroid and iris, and the epithelial cells at the lens's front.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "choroid and iris",
+            "source": "In contrast, BCATm was expressed across all ocular tissues, with strong expression in the Muller cells of the retina, the endothelial and epithelial layers of the cornea, the choroid and iris, and the epithelial cells at the lens's front.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "relationship": "Expressed in",
+        "description": "BCATm is expressed in the choroid and iris."
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Branched-chain aminotransferase isozymes mitochondrial",
+            "source": "In contrast, BCATm was expressed across all ocular tissues, with strong expression in the Muller cells of the retina, the endothelial and epithelial layers of the cornea, the choroid and iris, and the epithelial cells at the lens's front.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "epithelial cells at the lens's front",
+            "source": "In contrast, BCATm was expressed across all ocular tissues, with strong expression in the Muller cells of the retina, the endothelial and epithelial layers of the cornea, the choroid and iris, and the epithelial cells at the lens's front.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39212098/"
+        },
+        "relationship": "Expressed in",
+        "description": "BCATm is expressed in the epithelial cells at the lens's front."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Branched-chain amino acids",
+            "source": "Branched-chain amino acids (BCAAs) are essential amino acids for humans and play an indispensable role in many physiological and pathological processes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "node_2": {
+            "label": "Enzyme",
+            "name": "Branched-chain amino acid aminotransferase",
+            "source": "Branched-chain amino acid aminotransferase (BCAT) is a key enzyme that catalyzes the metabolism of BCAAs.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "relationship": "Catalyzes",
+        "description": "Catalysis of the metabolism of BCAAs by BCAT"
+    },
+    {
+        "node_1": {
+            "label": "Enzyme",
+            "name": "Branched-chain amino acid aminotransferase",
+            "source": "BCAT is upregulated in many cancers and implicated in the development and progress of some other diseases, such as metabolic and neurological diseases; and therefore, targeting BCAT might be a potential therapeutic approach for these diseases.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Cancer",
+            "source": "BCAT is upregulated in many cancers and implicated in the development and progress of some other diseases, such as metabolic and neurological diseases; and therefore, targeting BCAT might be a potential therapeutic approach for these diseases.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "relationship": "Upregulated in",
+        "description": "Upregulation of BCAT in cancer"
+    },
+    {
+        "node_1": {
+            "label": "Enzyme",
+            "name": "Branched-chain amino acid aminotransferase",
+            "source": "Branched-chain amino acid aminotransferase (BCAT) is a key enzyme that catalyzes the metabolism of BCAAs.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Metabolic disease",
+            "source": "BCAT is upregulated in many cancers and implicated in the development and progress of some other diseases, such as metabolic and neurological diseases; and therefore, targeting BCAT might be a potential therapeutic approach for these diseases.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "relationship": "Implicated in",
+        "description": "Implication of BCAT in metabolic disease"
+    },
+    {
+        "node_1": {
+            "label": "Enzyme",
+            "name": "Branched-chain amino acid aminotransferase",
+            "source": "Branched-chain amino acid aminotransferase (BCAT) is a key enzyme that catalyzes the metabolism of BCAAs.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Neurological disease",
+            "source": "BCAT is upregulated in many cancers and implicated in the development and progress of some other diseases, such as metabolic and neurological diseases; and therefore, targeting BCAT might be a potential therapeutic approach for these diseases.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "relationship": "Implicated in",
+        "description": "Implication of BCAT in neurological disease"
+    },
+    {
+        "node_1": {
+            "label": "Enzyme",
+            "name": "Branched-chain amino acid aminotransferase",
+            "source": "The discovery of BCAT inhibitors was initiated by Warner-Lambert, a subsidiary of Pfizer, in 2000, followed by many other pharmaceutical companies, such as GlaxoSmithKline (GSK), Ergon, Icagen, Agios, and Bayer.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "BCAT inhibitors",
+            "source": "The discovery of BCAT inhibitors was initiated by Warner-Lambert, a subsidiary of Pfizer, in 2000, followed by many other pharmaceutical companies, such as GlaxoSmithKline (GSK), Ergon, Icagen, Agios, and Bayer.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "relationship": "Discovered",
+        "description": "Discovery of BCAT inhibitors by pharmaceutical companies"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "BCAT inhibitors",
+            "source": "Strategies of high-throughput screening (HTS), DNA-Encoded library technology (ELT), and fragment-based screening (FBS) have been employed for hit identification, followed by structural optimization.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "node_2": {
+            "label": "Strategy",
+            "name": "High-throughput screening (HTS), DNA-Encoded library technology (ELT), and fragment-based screening (FBS)",
+            "source": "Strategies of high-throughput screening (HTS), DNA-Encoded library technology (ELT), and fragment-based screening (FBS) have been employed for hit identification, followed by structural optimization.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "relationship": "Employed for",
+        "description": "Employment of HTS, ELT, and FBS for hit identification of BCAT inhibitors"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "BCAT inhibitors",
+            "source": "Despite low selectivity, both BCAT1 and BCAT2 selective inhibitors were individually developed, each with a few chemical structural classes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "node_2": {
+            "label": "Enzyme",
+            "name": "BCAT1 and BCAT2",
+            "source": "Despite low selectivity, both BCAT1 and BCAT2 selective inhibitors were individually developed, each with a few chemical structural classes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "relationship": "Selective inhibitors of",
+        "description": "Development of selective inhibitors for BCAT1 and BCAT2"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "BCAT1 inhibitor",
+            "source": "The most advanced BCAT1 inhibitor is BAY-069, discovered by Bayer, which has a potent enzymatic inhibitory activity against BCAT1 and a decent in vitro and in vivo pharmacokinetic profile but displayed weaker cellular inhibitory activity and almost no anti-proliferative activity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "node_2": {
+            "label": "Enzyme",
+            "name": "BCAT1",
+            "source": "The most advanced BCAT1 inhibitor is BAY-069, discovered by Bayer, which has a potent enzymatic inhibitory activity against BCAT1 and a decent in vitro and in vivo pharmacokinetic profile but displayed weaker cellular inhibitory activity and almost no anti-proliferative activity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "relationship": "Inhibitor of",
+        "description": "BAY-069 as an inhibitor of BCAT1"
+    },
+    {
+        "node_1": {
+            "label": "Enzyme",
+            "name": "BCAT1",
+            "source": "The most advanced BCAT1 inhibitor is BAY-069, discovered by Bayer, which has a potent enzymatic inhibitory activity against BCAT1 and a decent in vitro and in vivo pharmacokinetic profile but displayed weaker cellular inhibitory activity and almost no anti-proliferative activity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "BAY-069",
+            "source": "The most advanced BCAT1 inhibitor is BAY-069, discovered by Bayer, which has a potent enzymatic inhibitory activity against BCAT1 and a decent in vitro and in vivo pharmacokinetic profile but displayed weaker cellular inhibitory activity and almost no anti-proliferative activity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39791161/"
+        },
+        "relationship": "Inhibited by",
+        "description": "Inhibition of BCAT1 by BAY-069"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Tyrosine kinase inhibitors",
+            "source": "Tyrosine kinase inhibitors (TKIs), which are highly potent in targeting BCR-ABL, are currently used as first-line treatment.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "BCR-ABL kinase",
+            "source": "BCR-ABL kinase is the major oncogenic driver of chronic myeloid leukemia (CML).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "relationship": "Treats",
+        "description": "Tyrosine kinase inhibitors are used as a first-line treatment for chronic myeloid leukemia and are highly potent in targeting BCR-ABL kinase."
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "BCR-ABL kinase",
+            "source": "BCR-ABL kinase is the major oncogenic driver of chronic myeloid leukemia (CML).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Chronic myeloid leukemia",
+            "source": "BCR-ABL kinase is the major oncogenic driver of chronic myeloid leukemia (CML).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "relationship": "Drives",
+        "description": "BCR-ABL kinase is the major oncogenic driver of chronic myeloid leukemia."
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "BCR-ABL kinase",
+            "source": "Tyrosine kinase inhibitors (TKIs), which are highly potent in targeting BCR-ABL, are currently used as first-line treatment.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "node_2": {
+            "label": "Mutation",
+            "name": "E255V",
+            "source": "Two candidate peptides derived from the E255V and the T315I mutation (designated ABL-E255V and ABL-T315I) were selected for study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "relationship": "Has mutation",
+        "description": "BCR-ABL kinase has a mutation at position E255."
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "BCR-ABL kinase",
+            "source": "Two candidate peptides derived from the E255V and the T315I mutation (designated ABL-E255V and ABL-T315I) were selected for study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "node_2": {
+            "label": "Peptide",
+            "name": "ABL-E255V",
+            "source": "Two candidate peptides derived from the E255V and the T315I mutation (designated ABL-E255V and ABL-T315I) were selected for study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "relationship": "Encodes",
+        "description": "ABL-E255V is a peptide derived from the E255V mutation in BCR-ABL kinase."
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "BCR-ABL kinase",
+            "source": "Two candidate peptides derived from the E255V and the T315I mutation (designated ABL-E255V and ABL-T315I) were selected for study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "node_2": {
+            "label": "Peptide",
+            "name": "ABL-T315I",
+            "source": "Two candidate peptides derived from the E255V and the T315I mutation (designated ABL-E255V and ABL-T315I) were selected for study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "relationship": "Encodes",
+        "description": "ABL-T315I is a peptide derived from the T315I mutation in BCR-ABL kinase."
+    },
+    {
+        "node_1": {
+            "label": "Peptide",
+            "name": "ABL-E255V",
+            "source": "By immunizing transgenic mice that express a diverse human T cell receptor (TCR) repertoire restricted to HLA-A2, we detected CD8+ T cell responses against the ABL-E255V, but not the ABL-T315I peptide.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "node_2": {
+            "label": "Cell",
+            "name": "CD8+ T cells",
+            "source": "By immunizing transgenic mice that express a diverse human T cell receptor (TCR) repertoire restricted to HLA-A2, we detected CD8+ T cell responses against the ABL-E255V, but not the ABL-T315I peptide.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "relationship": "Stimulates",
+        "description": "ABL-E255V peptide stimulates CD8+ T cells."
+    },
+    {
+        "node_1": {
+            "label": "Peptide",
+            "name": "ABL-E255V",
+            "source": "Two E255V-specific TCRs were isolated from immune responding mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "node_2": {
+            "label": "Molecule",
+            "name": "TCRs",
+            "source": "Two E255V-specific TCRs were isolated from immune responding mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "relationship": "Binds to",
+        "description": "ABL-E255V peptide binds to E255V-specific TCRs."
+    },
+    {
+        "node_1": {
+            "label": "Molecule",
+            "name": "TCRs",
+            "source": "Human CD8+ T cells were engineered to express the specific TCRs for characterization, in which one TCR was identified as a therapeutic candidate due to its superior avidity and lack of detectable off-target reactivity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "node_2": {
+            "label": "Cell",
+            "name": "Human CD8+ T cells",
+            "source": "Human CD8+ T cells were engineered to express the specific TCRs for characterization, in which one TCR was identified as a therapeutic candidate due to its superior avidity and lack of detectable off-target reactivity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "relationship": "Expressed in",
+        "description": "TCRs are expressed in human CD8+ T cells."
+    },
+    {
+        "node_1": {
+            "label": "Molecule",
+            "name": "TCR",
+            "source": "Importantly, we demonstrated that the ABL-E255V neoepitope was naturally processed and presented.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "HLA-A2+ CML cells",
+            "source": "Importantly, we demonstrated that the ABL-E255V neoepitope was naturally processed and presented.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931057/"
+        },
+        "relationship": "Presented on",
+        "description": "TCR is presented on HLA-A2+ CML cells."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Brinzolamide",
+            "source": "Here, we describe a rare case of drug-induced unilateral ciliary body effusion precipitated by topical brinzolamide, presenting acutely with pain, angle closure and myopic shift. Brinzolamide is a sulfonamide-derived carbonic anhydrase inhibitor (CAI) commonly used in the treatment of glaucoma. Sulfite derivates can rarely cause ciliary and suprachoroidal effusions, so if ocular pain or visual changes develop, these need to be promptly assessed.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39870471/"
+        },
+        "node_2": {
+            "label": "Side Effect",
+            "name": "Ciliary body effusion",
+            "source": "Here, we describe a rare case of drug-induced unilateral ciliary body effusion precipitated by topical brinzolamide, presenting acutely with pain, angle closure and myopic shift. Ciliary body effusion was suspected clinically and confirmed by ultrasound biomicroscopy.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39870471/"
+        },
+        "relationship": "Treats",
+        "description": "Precipitates"
+    }
+]

@@ -1,0 +1,2578 @@
+[
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Macrophage migration inhibitory factor",
+            "source": "Macrophage migration inhibitory factor (MIF) exhibits tautomerase activity on phenylpyruvate and has E-stereochemistry preference. To investigate the binding modes of its competitive inhibitors and evaluate their binding affinities, molecular dynamics simulations together with MM-PBSA (molecular mechanics Poisson-Boltzmann surface area) analysis were performed on MIF complexed with (E)-2-fluoro-p-hydroxycinnamate and five analogues. Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "Pro-1",
+            "source": "Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "relationship": "Binds",
+        "description": "Bifurcated hydrogen bond"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Macrophage migration inhibitory factor",
+            "source": "Macrophage migration inhibitory factor (MIF) exhibits tautomerase activity on phenylpyruvate and has E-stereochemistry preference. To investigate the binding modes of its competitive inhibitors and evaluate their binding affinities, molecular dynamics simulations together with MM-PBSA (molecular mechanics Poisson-Boltzmann surface area) analysis were performed on MIF complexed with (E)-2-fluoro-p-hydroxycinnamate and five analogues. Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Tyr-36",
+            "source": "Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "relationship": "Binds",
+        "description": "Hydrogen bond"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Macrophage migration inhibitory factor",
+            "source": "Macrophage migration inhibitory factor (MIF) exhibits tautomerase activity on phenylpyruvate and has E-stereochemistry preference. To investigate the binding modes of its competitive inhibitors and evaluate their binding affinities, molecular dynamics simulations together with MM-PBSA (molecular mechanics Poisson-Boltzmann surface area) analysis were performed on MIF complexed with (E)-2-fluoro-p-hydroxycinnamate and five analogues. Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "node_2": {
+            "label": "Compound",
+            "name": "(E)-2-fluoro-p-hydroxycinnamate",
+            "source": "Macrophage migration inhibitory factor (MIF) exhibits tautomerase activity on phenylpyruvate and has E-stereochemistry preference. To investigate the binding modes of its competitive inhibitors and evaluate their binding affinities, molecular dynamics simulations together with MM-PBSA (molecular mechanics Poisson-Boltzmann surface area) analysis were performed on MIF complexed with (E)-2-fluoro-p-hydroxycinnamate and five analogues.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "relationship": "Binds",
+        "description": "Complexed"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Macrophage migration inhibitory factor",
+            "source": "Macrophage migration inhibitory factor (MIF) exhibits tautomerase activity on phenylpyruvate and has E-stereochemistry preference. To investigate the binding modes of its competitive inhibitors and evaluate their binding affinities, molecular dynamics simulations together with MM-PBSA (molecular mechanics Poisson-Boltzmann surface area) analysis were performed on MIF complexed with (E)-2-fluoro-p-hydroxycinnamate and five analogues. Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "node_2": {
+            "label": "Compound",
+            "name": "E-ligands",
+            "source": "Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "relationship": "Binds",
+        "description": "Hydrogen bond"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Macrophage migration inhibitory factor",
+            "source": "Macrophage migration inhibitory factor (MIF) exhibits tautomerase activity on phenylpyruvate and has E-stereochemistry preference. To investigate the binding modes of its competitive inhibitors and evaluate their binding affinities, molecular dynamics simulations together with MM-PBSA (molecular mechanics Poisson-Boltzmann surface area) analysis were performed on MIF complexed with (E)-2-fluoro-p-hydroxycinnamate and five analogues. Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "node_2": {
+            "label": "Compound",
+            "name": "Z-ligands",
+            "source": "Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "relationship": "Does not bind",
+        "description": "No hydrogen bonds"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Macrophage migration inhibitory factor",
+            "source": "Macrophage migration inhibitory factor (MIF) exhibits tautomerase activity on phenylpyruvate and has E-stereochemistry preference. To investigate the binding modes of its competitive inhibitors and evaluate their binding affinities, molecular dynamics simulations together with MM-PBSA (molecular mechanics Poisson-Boltzmann surface area) analysis were performed on MIF complexed with (E)-2-fluoro-p-hydroxycinnamate and five analogues. Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "node_2": {
+            "label": "Compound",
+            "name": "Five analogues",
+            "source": "Macrophage migration inhibitory factor (MIF) exhibits tautomerase activity on phenylpyruvate and has E-stereochemistry preference. To investigate the binding modes of its competitive inhibitors and evaluate their binding affinities, molecular dynamics simulations together with MM-PBSA (molecular mechanics Poisson-Boltzmann surface area) analysis were performed on MIF complexed with (E)-2-fluoro-p-hydroxycinnamate and five analogues.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "relationship": "Binds",
+        "description": "Complexed"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Macrophage migration inhibitory factor",
+            "source": "Macrophage migration inhibitory factor (MIF) exhibits tautomerase activity on phenylpyruvate and has E-stereochemistry preference. To investigate the binding modes of its competitive inhibitors and evaluate their binding affinities, molecular dynamics simulations together with MM-PBSA (molecular mechanics Poisson-Boltzmann surface area) analysis were performed on MIF complexed with (E)-2-fluoro-p-hydroxycinnamate and five analogues. Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "node_2": {
+            "label": "Compound",
+            "name": "Pro-1",
+            "source": "Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "relationship": "Binds",
+        "description": "Hydrogen bond"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Macrophage migration inhibitory factor",
+            "source": "Macrophage migration inhibitory factor (MIF) exhibits tautomerase activity on phenylpyruvate and has E-stereochemistry preference. To investigate the binding modes of its competitive inhibitors and evaluate their binding affinities, molecular dynamics simulations together with MM-PBSA (molecular mechanics Poisson-Boltzmann surface area) analysis were performed on MIF complexed with (E)-2-fluoro-p-hydroxycinnamate and five analogues. Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Tyr-36",
+            "source": "Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "relationship": "Interacts",
+        "description": "Hydrogen bond"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Macrophage migration inhibitory factor",
+            "source": "Macrophage migration inhibitory factor (MIF) exhibits tautomerase activity on phenylpyruvate and has E-stereochemistry preference. To investigate the binding modes of its competitive inhibitors and evaluate their binding affinities, molecular dynamics simulations together with MM-PBSA (molecular mechanics Poisson-Boltzmann surface area) analysis were performed on MIF complexed with (E)-2-fluoro-p-hydroxycinnamate and five analogues. Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "node_2": {
+            "label": "Compound",
+            "name": "E-ligands",
+            "source": "Pro-1 was discovered to form a bifurcated hydrogen bond between its protonated nitrogen and carboxylate oxygens of E-ligands and Tyr-36. No hydrogen bonds were found between Pro-1 and Z-ligands. This distinct binding characteristic of E- and Z-ligands with Pro-1 may be the main factor for the large difference in their binding affinities, which is consistent with the previous report that Pro-1 is essential for the catalytic activity of MIF.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/16279779/"
+        },
+        "relationship": "Regulates",
+        "description": "Catalytic activity"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "flavanol enriched grape seed polyphenol extract",
+            "source": "Flavanols, which exert several health benefits, are metabolized after ingestion. Factors such as the host physiological condition could affect the metabolism and bioavailability of flavanols, influencing their bioactivities. This study aimed to qualitatively evaluate whether a pathological state influenced flavanol plasma bioavailability. Standard and cafeteria (CAF) diet fed rats, a robust model of metabolic syndrome (MeS), were administered 1000mg/kg of flavanol enriched grape seed polyphenol extract (GSPE).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/28450008/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "plasma",
+            "source": "Flavanols and their metabolites were quantified by HPLC-MS/MS in plasma before and at 2, 4, 7, 24, and 48h after GSPE ingestion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/28450008/"
+        },
+        "relationship": "Located in",
+        "description": "GSPE is located in plasma after ingestion."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "HTR1B-based therapies",
+            "source": "This study provides a foundation for targeted HTR1B-based migraine therapies",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39936416/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "migraine",
+            "source": "This study provides a foundation for targeted HTR1B-based migraine therapies",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39936416/"
+        },
+        "relationship": "Treats",
+        "description": "The HTR1B-based therapies are used to treat migraine, as indicated in the study's conclusion."
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "HTGPCR gene",
+            "source": "A significant difference in HTGPCR expression was found between normal tissues and tumors. HTGPCR gene expression was correlated with prognosis in many cancers. HTR1D/2C were associated with poorer overall survival for head and neck squamous cell carcinoma. Additionally, the expression of HTR2A/2B/7 was correlated significantly with immune cells and immune checkpoint genes in a variety of cancers, such as BRCA, brain lower-grade glioma, and lung adenocarcinoma. Moreover, drug sensitivity and HTR4 were significantly correlated. Furthermore, we validated results in breast cancer and found knockdown of HTR1D inhibited breast cancer cell growth and metastasis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39766808/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "cancer",
+            "source": "A significant difference in HTGPCR expression was found between normal tissues and tumors. HTR1D/2C expressed higher levels in breast invasive carcinoma (BRCA), colon adenocarcinoma, and liver hepatocellular carcinoma. HTR1D/2C were associated with poorer overall survival for head and neck squamous cell carcinoma. Additionally, the expression of HTR2A/2B/7 was correlated significantly with immune cells and immune checkpoint genes in a variety of cancers, such as BRCA, brain lower-grade glioma, and lung adenocarcinoma. Moreover, drug sensitivity and HTR4 were significantly correlated. Furthermore, we validated results in breast cancer and found knockdown of HTR1D inhibited breast cancer cell growth and metastasis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39766808/"
+        },
+        "relationship": "Expressed in",
+        "description": "Expression"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "HTR1D/2C",
+            "source": "A significant difference in HTGPCR expression was found between normal tissues and tumors. HTR1D/2C expressed higher levels in breast invasive carcinoma (BRCA), colon adenocarcinoma, and liver hepatocellular carcinoma. HTR1D/2C were associated with poorer overall survival for head and neck squamous cell carcinoma.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39766808/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "breast invasive carcinoma, colon adenocarcinoma, liver hepatocellular carcinoma, head and neck squamous cell carcinoma",
+            "source": "A significant difference in HTGPCR expression was found between normal tissues and tumors. HTR1D/2C expressed higher levels in breast invasive carcinoma (BRCA), colon adenocarcinoma, and liver hepatocellular carcinoma. HTR1D/2C were associated with poorer overall survival for head and neck squamous cell carcinoma.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39766808/"
+        },
+        "relationship": "Expressed in",
+        "description": "Expression"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "HTR1D",
+            "source": "HTR1D were associated with poorer overall survival for head and neck squamous cell carcinoma. Furthermore, we validated results in breast cancer and found knockdown of HTR1D inhibited breast cancer cell growth and metastasis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39766808/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "head and neck squamous cell carcinoma",
+            "source": "HTR1D were associated with poorer overall survival for head and neck squamous cell carcinoma. Furthermore, we validated results in breast cancer and found knockdown of HTR1D inhibited breast cancer cell growth and metastasis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39766808/"
+        },
+        "relationship": "Associated with",
+        "description": "Association"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "HTR1D",
+            "source": "Furthermore, we validated results in breast cancer and found knockdown of HTR1D inhibited breast cancer cell growth and metastasis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39766808/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "breast cancer",
+            "source": "Furthermore, we validated results in breast cancer and found knockdown of HTR1D inhibited breast cancer cell growth and metastasis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39766808/"
+        },
+        "relationship": "Inhibited",
+        "description": "Inhibition"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "HTR2A/2B/7",
+            "source": "Additionally, the expression of HTR2A/2B/7 was correlated significantly with immune cells and immune checkpoint genes in a variety of cancers, such as BRCA, brain lower-grade glioma, and lung adenocarcinoma.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39766808/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "immune cells, immune checkpoint genes",
+            "source": "Additionally, the expression of HTR2A/2B/7 was correlated significantly with immune cells and immune checkpoint genes in a variety of cancers, such as BRCA, brain lower-grade glioma, and lung adenocarcinoma.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39766808/"
+        },
+        "relationship": "Correlated with",
+        "description": "Correlation"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "HTR4",
+            "source": "Moreover, drug sensitivity and HTR4 were significantly correlated.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39766808/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "drug sensitivity",
+            "source": "Moreover, drug sensitivity and HTR4 were significantly correlated.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39766808/"
+        },
+        "relationship": "Correlated with",
+        "description": "Correlation"
+    },
+    {
+        "node_1": {
+            "label": "HTGPCRs",
+            "name": "High-throughput gene expression profiling by real-time PCR",
+            "source": "As prognostic indicators, HTGPCRs hold considerable promise and offer insights into the therapeutic targets for malignancy.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39766808/"
+        },
+        "node_2": {
+            "label": "Therapeutic targets",
+            "name": "Therapeutic targets",
+            "source": "As prognostic indicators, HTGPCRs hold considerable promise and offer insights into the therapeutic targets for malignancy.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39766808/"
+        },
+        "relationship": "Involved in",
+        "description": "High-throughput gene expression profiling by real-time PCR (HTGPCRs) is involved in identifying therapeutic targets for malignancy."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "2C drugs",
+            "source": "To circumvent strict international drug control regulations, there is a growing trend in the development and market introduction of novel psychoactive substances (NPS), encompassing a wide range of compounds with psychoactive properties. This includes, among other classes of drugs, the phenethylamines. Originally derived from natural sources, these drugs have garnered particular attention due to their psychedelic effects. They comprise a broad spectrum of compounds, including 2,5-dimethoxyphenylethylamine (2C) drugs.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39867514/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "serotonin receptors",
+            "source": "These substances primarily interact with serotonin receptors, particularly the 5-HT<sub>2A</sub> subtype, resulting in alterations in sensory perception, mood, and introspective experiences.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39867514/"
+        },
+        "relationship": "Binds to",
+        "description": "Interaction"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "5-HT<sub>2A</sub> subtype",
+            "source": "These substances primarily interact with serotonin receptors, particularly the 5-HT<sub>2A</sub> subtype, resulting in alterations in sensory perception, mood, and introspective experiences.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39867514/"
+        },
+        "node_2": {
+            "label": "Side Effect",
+            "name": "alterations in sensory perception, mood, and introspective experiences",
+            "source": "These substances primarily interact with serotonin receptors, particularly the 5-HT<sub>2A</sub> subtype, resulting in alterations in sensory perception, mood, and introspective experiences.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39867514/"
+        },
+        "relationship": "Activates",
+        "description": "Alterations"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "2C drugs",
+            "source": "In addition to their psychedelic properties, 2C and NBOMe drugs have been associated with a multitude of adverse effects, such as cardiovascular complications and neurotoxicity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39867514/"
+        },
+        "node_2": {
+            "label": "Side Effect",
+            "name": "cardiovascular complications",
+            "source": "In addition to their psychedelic properties, 2C and NBOMe drugs have been associated with a multitude of adverse effects, such as cardiovascular complications and neurotoxicity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39867514/"
+        },
+        "relationship": "Has side effect",
+        "description": "Cardiovascular complications"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "2C drugs",
+            "source": "In addition to their psychedelic properties, 2C and NBOMe drugs have been associated with a multitude of adverse effects, such as cardiovascular complications and neurotoxicity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39867514/"
+        },
+        "node_2": {
+            "label": "Side Effect",
+            "name": "neurotoxicity",
+            "source": "In addition to their psychedelic properties, 2C and NBOMe drugs have been associated with a multitude of adverse effects, such as cardiovascular complications and neurotoxicity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39867514/"
+        },
+        "relationship": "Has side effect",
+        "description": "Neurotoxicity"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "HTR1B-based therapies",
+            "source": "This study provides a foundation for targeted HTR1B-based migraine therapies",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39936416/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "migraine",
+            "source": "This study provides a foundation for targeted HTR1B-based migraine therapies",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39936416/"
+        },
+        "relationship": "Treats",
+        "description": "The HTR1B-based therapies are used to treat migraine, as indicated in the study's conclusion."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "compounds",
+            "source": "39953553: RESULTS: IC<sub>50</sub> characterization confirmed that 93.75% of the compounds tested exhibited antimalarial activity at concentrations below 2 micromolar (µM), with 5 compounds showing IC<sub>50</sub> values below 50 nM (nM) (15.21 ± 5.97 nM to 45.82 ± 5.11 nM). Furthermore, 12 compounds presented IC<sub>50</sub> values between 50 and 100 nM (57.43 ± 12.25 nM to 100.6 ± 22.89 nM), highlighting their potent in vitro efficacy against P. falciparum. Cytotoxicity evaluation in HEK293 cells revealed that 12 from 17 compounds did not significantly reduce cell viability.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953553/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "P. falciparum",
+            "source": "39953553: RESULTS: IC<sub>50</sub> characterization confirmed that 93.75% of the compounds tested exhibited antimalarial activity at concentrations below 2 micromolar (µM), with 5 compounds showing IC<sub>50</sub> values below 50 nM (nM) (15.21 ± 5.97 nM to 45.82 ± 5.11 nM). Furthermore, 12 compounds presented IC<sub>50</sub> values between 50 and 100 nM (57.43 ± 12.25 nM to 100.6 ± 22.89 nM), highlighting their potent in vitro efficacy against P. falciparum.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953553/"
+        },
+        "relationship": "Treats",
+        "description": "Antimalarial activity"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "compounds",
+            "source": "39953553: RESULTS: IC<sub>50</sub> characterization confirmed that 93.75% of the compounds tested exhibited antimalarial activity at concentrations below 2 micromolar (µM), with 5 compounds showing IC<sub>50</sub> values below 50 nM (nM) (15.21 ± 5.97 nM to 45.82 ± 5.11 nM). Furthermore, 12 compounds presented IC<sub>50</sub> values between 50 and 100 nM (57.43 ± 12.25 nM to 100.6 ± 22.89 nM), highlighting their potent in vitro efficacy against P. falciparum. Cytotoxicity evaluation in HEK293 cells revealed that 12 from 17 compounds did not significantly reduce cell viability.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953553/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "P. falciparum",
+            "source": "39953553: RESULTS: IC<sub>50</sub> characterization confirmed that 93.75% of the compounds tested exhibited antimalarial activity at concentrations below 2 micromolar (µM), with 5 compounds showing IC<sub>50</sub> values below 50 nM (nM) (15.21 ± 5.97 nM to 45.82 ± 5.11 nM). Furthermore, 12 compounds presented IC<sub>50</sub> values between 50 and 100 nM (57.43 ± 12.25 nM to 100.6 ± 22.89 nM), highlighting their potent in vitro efficacy against P. falciparum.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953553/"
+        },
+        "relationship": "Treats",
+        "description": "Antimalarial activity"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Acebutolol hydrochloride",
+            "source": "Reaction between Acebutolol hydrochloride and sodium tetraphenylborate in water afforded an Acebutolol-tetraphenyl-borate complex. This ion-pair was characterized by a variety of analytical and spectroscopic tools including X-ray crystallographic analysis. Comprehensive theoretical studies including ground-state geometry optimization, Mulliken atomic charges, and vibrational analysis were executed to get an insight into the nature of the charge transfer between the donor and acceptor ions.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39906637/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "B(Ph)4-",
+            "source": "The crystal structure demonstrated that three inter- and intramolecular hydrogen-bonds stabilize the molecular packing in the solid state. Natural bond orbital analysis confirmed the presence of many interactions between B(Ph)4- and particular Acebutolol functional groups, such as NH and OH groups.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39906637/"
+        },
+        "relationship": "Binds to",
+        "description": "Interaction"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαq/11",
+            "source": "Activation of PLCβ enzymes by G<sub>iβγ</sub> and G<sub>αq/11</sub> proteins is a common mechanism to trigger cytosolic Ca2+ increase. We and others reported that G<sub>αq/11</sub> inhibitor FR900359 (FR) can inhibit both G<sub>αq</sub>- and, surprisingly, G<sub>iβγ</sub>-mediated intracellular Ca2+ mobilization. Thus, the G<sub>αi</sub>-G<sub>βγ</sub>-PLCβ-Ca2+ signaling axis depends entirely on the presence of active G<sub>αq</sub>. However, the conclusion that G<sub>iβγ</sub> signaling is controlled by G<sub>αq</sub> derives mostly from HEK293 cells. Here we show that indeed in HEK293 cells both G<sub>αq/11</sub> siRNA and G<sub>αq/11</sub> inhibitors diminished Ca2+ increase triggered by native G<sub>q</sub>-coupled P2Y<sub>1</sub> receptors, or by transfected G<sub>i</sub>-coupled A<sub>1</sub>- or G<sub>s</sub>-coupled A<sub>2B</sub> adenosine receptors (ARs). However, in T24 bladder cancer cells, G<sub>i</sub> inhibitor PTX, but not G<sub>αq/11</sub> inhibitors, FR, YM254890 (YM) or G<sub>q/11</sub> siRNA, inhibited Ca2+ increase triggered by native A<sub>2B</sub>AR activation. Simultaneous inactivation of G<sub>i</sub> and G<sub>s</sub> further suppressed A<sub>2B</sub>AR-triggered Ca2+ increase in T24 cells. The G<sub>αq/11</sub> inhibitor YM fully and partially inhibited endogenous P2Y<sub>1</sub>- and β<sub>2</sub>-adrenergic receptor-induced Ca2+ increase in T24 cells, respectively.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "PLCβ",
+            "source": "Activation of PLCβ enzymes by G<sub>iβγ</sub> and G<sub>αq/11</sub> proteins is a common mechanism to trigger cytosolic Ca2+ increase. We and others reported that G<sub>αq/11</sub> inhibitor FR900359 (FR) can inhibit both G<sub>αq</sub>- and, surprisingly, G<sub>iβγ</sub>-mediated intracellular Ca2+ mobilization. Thus, the G<sub>αi</sub>-G<sub>βγ</sub>-PLCβ-Ca2+ signaling axis depends entirely on the presence of active G<sub>αq</sub>.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Activates",
+        "description": "PLCβ activation by Gαq/11 proteins"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαq/11",
+            "source": "Activation of PLCβ enzymes by G<sub>iβγ</sub> and G<sub>αq/11</sub> proteins is a common mechanism to trigger cytosolic Ca2+ increase. We and others reported that G<sub>αq/11</sub> inhibitor FR900359 (FR) can inhibit both G<sub>αq</sub>- and, surprisingly, G<sub>iβγ</sub>-mediated intracellular Ca2+ mobilization. Thus, the G<sub>αi</sub>-G<sub>βγ</sub>-PLCβ-Ca2+ signaling axis depends entirely on the presence of active G<sub>αq</sub>.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "G Protein",
+            "name": "Giβγ",
+            "source": "Activation of PLCβ enzymes by G<sub>iβγ</sub> and G<sub>αq/11</sub> proteins is a common mechanism to trigger cytosolic Ca2+ increase. We and others reported that G<sub>αq/11</sub> inhibitor FR900359 (FR) can inhibit both G<sub>αq</sub>- and, surprisingly, G<sub>iβγ</sub>-mediated intracellular Ca2+ mobilization. Thus, the G<sub>αi</sub>-G<sub>βγ</sub>-PLCβ-Ca2+ signaling axis depends entirely on the presence of active G<sub>αq</sub>.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Interacts",
+        "description": "Gαq/11 and Giβγ interaction"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαq/11",
+            "source": "We and others reported that G<sub>αq/11</sub> inhibitor FR900359 (FR) can inhibit both G<sub>αq</sub>- and, surprisingly, G<sub>iβγ</sub>-mediated intracellular Ca2+ mobilization. Thus, the G<sub>αi</sub>-G<sub>βγ</sub>-PLCβ-Ca2+ signaling axis depends entirely on the presence of active G<sub>αq</sub>.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "Inhibitor",
+            "name": "FR900359",
+            "source": "We and others reported that G<sub>αq/11</sub> inhibitor FR900359 (FR) can inhibit both G<sub>αq</sub>- and, surprisingly, G<sub>iβγ</sub>-mediated intracellular Ca2+ mobilization. Thus, the G<sub>αi</sub>-G<sub>βγ</sub>-PLCβ-Ca2+ signaling axis depends entirely on the presence of active G<sub>αq</sub>.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Inhibits",
+        "description": "FR900359 inhibition of Gαq/11"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαi",
+            "source": "However, the conclusion that G<sub>iβγ</sub> signaling is controlled by G<sub>αq</sub> derives mostly from HEK293 cells. Here we show that indeed in HEK293 cells both G<sub>αq/11</sub> siRNA and G<sub>αq/11</sub> inhibitors diminished Ca2+ increase triggered by native G<sub>q</sub>-coupled P2Y<sub>1</sub> receptors, or by transfected G<sub>i</sub>-coupled A<sub>1</sub>- or G<sub>s</sub>-coupled A<sub>2B</sub> adenosine receptors (ARs). However, in T24 bladder cancer cells, G<sub>i</sub> inhibitor PTX, but not G<sub>αq/11</sub> inhibitors, FR, YM254890 (YM) or G<sub>q/11</sub> siRNA, inhibited Ca2+ increase triggered by native A<sub>2B</sub>AR activation. Simultaneous inactivation of G<sub>i</sub> and G<sub>s</sub> further suppressed A<sub>2B</sub>AR-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "G Protein",
+            "name": "Gβγ",
+            "source": "However, the conclusion that G<sub>iβγ</sub> signaling is controlled by G<sub>αq</sub> derives mostly from HEK293 cells. Here we show that indeed in HEK293 cells both G<sub>αq/11</sub> siRNA and G<sub>αq/11</sub> inhibitors diminished Ca2+ increase triggered by native G<sub>q</sub>-coupled P2Y<sub>1</sub> receptors, or by transfected G<sub>i</sub>-coupled A<sub>1</sub>- or G<sub>s</sub>-coupled A<sub>2B</sub> adenosine receptors (ARs). However, in T24 bladder cancer cells, G<sub>i</sub> inhibitor PTX, but not G<sub>αq/11</sub> inhibitors, FR, YM254890 (YM) or G<sub>q/11</sub> siRNA, inhibited Ca2+ increase triggered by native A<sub>2B</sub>AR activation. Simultaneous inactivation of G<sub>i</sub> and G<sub>s</sub> further suppressed A<sub>2B</sub>AR-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Inhibits",
+        "description": "Gi inhibition of Gβγ"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαq/11",
+            "source": "However, the conclusion that G<sub>iβγ</sub> signaling is controlled by G<sub>αq</sub> derives mostly from HEK293 cells. Here we show that indeed in HEK293 cells both G<sub>αq/11</sub> siRNA and G<sub>αq/11</sub> inhibitors diminished Ca2+ increase triggered by native G<sub>q</sub>-coupled P2Y<sub>1</sub> receptors, or by transfected G<sub>i</sub>-coupled A<sub>1</sub>- or G<sub>s</sub>-coupled A<sub>2B</sub> adenosine receptors (ARs). However, in T24 bladder cancer cells, G<sub>i</sub> inhibitor PTX, but not G<sub>αq/11</sub> inhibitors, FR, YM254890 (YM) or G<sub>q/11</sub> siRNA, inhibited Ca2+ increase triggered by native A<sub>2B</sub>AR activation. Simultaneous inactivation of G<sub>i</sub> and G<sub>s</sub> further suppressed A<sub>2B</sub>AR-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "G Protein",
+            "name": "Gαq",
+            "source": "However, the conclusion that G<sub>iβγ</sub> signaling is controlled by G<sub>αq</sub> derives mostly from HEK293 cells. Here we show that indeed in HEK293 cells both G<sub>αq/11</sub> siRNA and G<sub>αq/11</sub> inhibitors diminished Ca2+ increase triggered by native G<sub>q</sub>-coupled P2Y<sub>1</sub> receptors, or by transfected G<sub>i</sub>-coupled A<sub>1</sub>- or G<sub>s</sub>-coupled A<sub>2B</sub> adenosine receptors (ARs). However, in T24 bladder cancer cells, G<sub>i</sub> inhibitor PTX, but not G<sub>αq/11</sub> inhibitors, FR, YM254890 (YM) or G<sub>q/11</sub> siRNA, inhibited Ca2+ increase triggered by native A<sub>2B</sub>AR activation. Simultaneous inactivation of G<sub>i</sub> and G<sub>s</sub> further suppressed A<sub>2B</sub>AR-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Inhibits",
+        "description": "Gαq/11 inhibition of Gαq"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαq/11",
+            "source": "However, the conclusion that G<sub>iβγ</sub> signaling is controlled by G<sub>αq</sub> derives mostly from HEK293 cells. Here we show that indeed in HEK293 cells both G<sub>αq/11</sub> siRNA and G<sub>αq/11</sub> inhibitors diminished Ca2+ increase triggered by native G<sub>q</sub>-coupled P2Y<sub>1</sub> receptors, or by transfected G<sub>i</sub>-coupled A<sub>1</sub>- or G<sub>s</sub>-coupled A<sub>2B</sub> adenosine receptors (ARs). However, in T24 bladder cancer cells, G<sub>i</sub> inhibitor PTX, but not G<sub>αq/11</sub> inhibitors, FR, YM254890 (YM) or G<sub>q/11</sub> siRNA, inhibited Ca2+ increase triggered by native A<sub>2B</sub>AR activation. Simultaneous inactivation of G<sub>i</sub> and G<sub>s</sub> further suppressed A<sub>2B</sub>AR-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "G Protein",
+            "name": "Gαi",
+            "source": "However, the conclusion that G<sub>iβγ</sub> signaling is controlled by G<sub>αq</sub> derives mostly from HEK293 cells. Here we show that indeed in HEK293 cells both G<sub>αq/11</sub> siRNA and G<sub>αq/11</sub> inhibitors diminished Ca2+ increase triggered by native G<sub>q</sub>-coupled P2Y<sub>1</sub> receptors, or by transfected G<sub>i</sub>-coupled A<sub>1</sub>- or G<sub>s</sub>-coupled A<sub>2B</sub> adenosine receptors (ARs). However, in T24 bladder cancer cells, G<sub>i</sub> inhibitor PTX, but not G<sub>αq/11</sub> inhibitors, FR, YM254890 (YM) or G<sub>q/11</sub> siRNA, inhibited Ca2+ increase triggered by native A<sub>2B</sub>AR activation. Simultaneous inactivation of G<sub>i</sub> and G<sub>s</sub> further suppressed A<sub>2B</sub>AR-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Inhibits",
+        "description": "Gαq/11 inhibition of Gαi"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαq/11",
+            "source": "The G<sub>αq/11</sub> inhibitor YM fully and partially inhibited endogenous P2Y<sub>1</sub>- and β<sub>2</sub>-adrenergic receptor-induced Ca2+ increase in T24 cells, respectively.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "Receptor",
+            "name": "P2Y1 receptor",
+            "source": "The G<sub>αq/11</sub> inhibitor YM fully and partially inhibited endogenous P2Y<sub>1</sub>- and β<sub>2</sub>-adrenergic receptor-induced Ca2+ increase in T24 cells, respectively.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Inhibits",
+        "description": "YM inhibition of P2Y1 receptor"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαq/11",
+            "source": "The G<sub>αq/11</sub> inhibitor YM fully and partially inhibited endogenous P2Y<sub>1</sub>- and β<sub>2</sub>-adrenergic receptor-induced Ca2+ increase in T24 cells, respectively.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "Receptor",
+            "name": "β2-adrenergic receptor",
+            "source": "The G<sub>αq/11</sub> inhibitor YM fully and partially inhibited endogenous P2Y<sub>1</sub>- and β<sub>2</sub>-adrenergic receptor-induced Ca2+ increase in T24 cells, respectively.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Inhibits",
+        "description": "YM inhibition of β2-adrenergic receptor"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "PKC",
+            "source": "PKC activator PMA partially diminished A<sub>2B</sub>AR-triggered but completely diminished β<sub>2</sub>-adrenergic receptor-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "Receptor",
+            "name": "A2B adenosine receptor",
+            "source": "PKC activator PMA partially diminished A<sub>2B</sub>AR-triggered but completely diminished β<sub>2</sub>-adrenergic receptor-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Modulates",
+        "description": "PKC modulation of A2B adenosine receptor"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "PKC",
+            "source": "PKC activator PMA partially diminished A<sub>2B</sub>AR-triggered but completely diminished β<sub>2</sub>-adrenergic receptor-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "Receptor",
+            "name": "β2-adrenergic receptor",
+            "source": "PKC activator PMA partially diminished A<sub>2B</sub>AR-triggered but completely diminished β<sub>2</sub>-adrenergic receptor-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Modulates",
+        "description": "PKC modulation of β2-adrenergic receptor"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "autoimmune-driven cystitis",
+            "source": "URO-OVA mice, a transgenic model that expresses ovalbumin (OVA) in the bladder urothelium leading to autoimmune-driven cystitis, were randomly divided into four groups",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39945803/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "bladder urothelium",
+            "source": "URO-OVA mice, a transgenic model that expresses ovalbumin (OVA) in the bladder urothelium leading to autoimmune-driven cystitis, were randomly divided into four groups",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39945803/"
+        },
+        "relationship": "Expressed in",
+        "description": "The ovalbumin (OVA) is expressed in the bladder urothelium leading to autoimmune-driven cystitis in URO-OVA mice."
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "ovalbumin",
+            "source": "URO-OVA mice, a transgenic model that expresses ovalbumin (OVA) in the bladder urothelium leading to autoimmune-driven cystitis, were randomly divided into four groups",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39945803/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "autoimmune-driven cystitis",
+            "source": "URO-OVA mice, a transgenic model that expresses ovalbumin (OVA) in the bladder urothelium leading to autoimmune-driven cystitis, were randomly divided into four groups",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39945803/"
+        },
+        "relationship": "Causes",
+        "description": "The expression of ovalbumin (OVA) in the bladder urothelium leads to autoimmune-driven cystitis in URO-OVA mice."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "regadenoson",
+            "source": "inflammation-induced treated with the A2AR agonist regadenoson (a selective A2AR agonist commonly used in cardiac stress tests)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39945803/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "bladder",
+            "source": "Bladder inflammation was assessed via histological analysis, western blot, and RT-PCR of inflammatory markers (IL-6, TNF-α, CD11b, GFAP, HMGB1). Bladder pain was measured using bladder distention-evoked visceromotor responses (VMR) and von Frey filament-based pelvic nociception tests.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39945803/"
+        },
+        "relationship": "Treats",
+        "description": "Regadenoson is used to treat bladder inflammation in mice with cystitis."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "ZM241385",
+            "source": "inflammation-induced treated with the A2AR antagonist ZM241385",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39945803/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "bladder",
+            "source": "Bladder inflammation was assessed via histological analysis, western blot, and RT-PCR of inflammatory markers (IL-6, TNF-α, CD11b, GFAP, HMGB1). Bladder pain was measured using bladder distention-evoked visceromotor responses (VMR) and von Frey filament-based pelvic nociception tests.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39945803/"
+        },
+        "relationship": "Treats",
+        "description": "ZM241385 is used to treat bladder inflammation in mice with cystitis."
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "A2AR",
+            "source": "A2AR downregulation correlates with increased inflammation in the URO-OVA model of BPS. Activation of A2AR via regadenoson significantly suppresses inflammatory responses and bladder pain, suggesting A2AR is a promising therapeutic target for BPS.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39945803/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Bladder pain syndrome",
+            "source": "A2AR downregulation correlates with increased inflammation in the URO-OVA model of BPS. Activation of A2AR via regadenoson significantly suppresses inflammatory responses and bladder pain, suggesting A2AR is a promising therapeutic target for BPS.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39945803/"
+        },
+        "relationship": "Regulates",
+        "description": "Regulation of BPS by A2AR is demonstrated through the correlation between A2AR downregulation and increased inflammation in the URO-OVA model of BPS. Activation of A2AR via regadenoson suppresses inflammatory responses and bladder pain, indicating its potential as a therapeutic target for BPS."
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαq/11",
+            "source": "Activation of PLCβ enzymes by G<sub>iβγ</sub> and G<sub>αq/11</sub> proteins is a common mechanism to trigger cytosolic Ca2+ increase. We and others reported that G<sub>αq/11</sub> inhibitor FR900359 (FR) can inhibit both G<sub>αq</sub>- and, surprisingly, G<sub>iβγ</sub>-mediated intracellular Ca2+ mobilization. Thus, the G<sub>αi</sub>-G<sub>βγ</sub>-PLCβ-Ca2+ signaling axis depends entirely on the presence of active G<sub>αq</sub>. However, the conclusion that G<sub>iβγ</sub> signaling is controlled by G<sub>αq</sub> derives mostly from HEK293 cells. Here we show that indeed in HEK293 cells both G<sub>αq/11</sub> siRNA and G<sub>αq/11</sub> inhibitors diminished Ca2+ increase triggered by native G<sub>q</sub>-coupled P2Y<sub>1</sub> receptors, or by transfected G<sub>i</sub>-coupled A<sub>1</sub>- or G<sub>s</sub>-coupled A<sub>2B</sub> adenosine receptors (ARs). However, in T24 bladder cancer cells, G<sub>i</sub> inhibitor PTX, but not G<sub>αq/11</sub> inhibitors, FR, YM254890 (YM) or G<sub>q/11</sub> siRNA, inhibited Ca2+ increase triggered by native A<sub>2B</sub>AR activation. Simultaneous inactivation of G<sub>i</sub> and G<sub>s</sub> further suppressed A<sub>2B</sub>AR-triggered Ca2+ increase in T24 cells. The G<sub>αq/11</sub> inhibitor YM fully and partially inhibited endogenous P2Y<sub>1</sub>- and β<sub>2</sub>-adrenergic receptor-induced Ca2+ increase in T24 cells, respectively.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "PLCβ",
+            "source": "Activation of PLCβ enzymes by G<sub>iβγ</sub> and G<sub>αq/11</sub> proteins is a common mechanism to trigger cytosolic Ca2+ increase. We and others reported that G<sub>αq/11</sub> inhibitor FR900359 (FR) can inhibit both G<sub>αq</sub>- and, surprisingly, G<sub>iβγ</sub>-mediated intracellular Ca2+ mobilization. Thus, the G<sub>αi</sub>-G<sub>βγ</sub>-PLCβ-Ca2+ signaling axis depends entirely on the presence of active G<sub>αq</sub>.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Activates",
+        "description": "PLCβ activation by Gαq/11 proteins"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαq/11",
+            "source": "Activation of PLCβ enzymes by G<sub>iβγ</sub> and G<sub>αq/11</sub> proteins is a common mechanism to trigger cytosolic Ca2+ increase. We and others reported that G<sub>αq/11</sub> inhibitor FR900359 (FR) can inhibit both G<sub>αq</sub>- and, surprisingly, G<sub>iβγ</sub>-mediated intracellular Ca2+ mobilization. Thus, the G<sub>αi</sub>-G<sub>βγ</sub>-PLCβ-Ca2+ signaling axis depends entirely on the presence of active G<sub>αq</sub>.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "G Protein",
+            "name": "Giβγ",
+            "source": "Activation of PLCβ enzymes by G<sub>iβγ</sub> and G<sub>αq/11</sub> proteins is a common mechanism to trigger cytosolic Ca2+ increase. We and others reported that G<sub>αq/11</sub> inhibitor FR900359 (FR) can inhibit both G<sub>αq</sub>- and, surprisingly, G<sub>iβγ</sub>-mediated intracellular Ca2+ mobilization. Thus, the G<sub>αi</sub>-G<sub>βγ</sub>-PLCβ-Ca2+ signaling axis depends entirely on the presence of active G<sub>αq</sub>.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Interacts",
+        "description": "Gαq/11 and Giβγ interaction"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαq/11",
+            "source": "We and others reported that G<sub>αq/11</sub> inhibitor FR900359 (FR) can inhibit both G<sub>αq</sub>- and, surprisingly, G<sub>iβγ</sub>-mediated intracellular Ca2+ mobilization. Thus, the G<sub>αi</sub>-G<sub>βγ</sub>-PLCβ-Ca2+ signaling axis depends entirely on the presence of active G<sub>αq</sub>.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "Inhibitor",
+            "name": "FR900359",
+            "source": "We and others reported that G<sub>αq/11</sub> inhibitor FR900359 (FR) can inhibit both G<sub>αq</sub>- and, surprisingly, G<sub>iβγ</sub>-mediated intracellular Ca2+ mobilization. Thus, the G<sub>αi</sub>-G<sub>βγ</sub>-PLCβ-Ca2+ signaling axis depends entirely on the presence of active G<sub>αq</sub>.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Inhibits",
+        "description": "FR900359 inhibition of Gαq/11"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαi",
+            "source": "However, the conclusion that G<sub>iβγ</sub> signaling is controlled by G<sub>αq</sub> derives mostly from HEK293 cells. Here we show that indeed in HEK293 cells both G<sub>αq/11</sub> siRNA and G<sub>αq/11</sub> inhibitors diminished Ca2+ increase triggered by native G<sub>q</sub>-coupled P2Y<sub>1</sub> receptors, or by transfected G<sub>i</sub>-coupled A<sub>1</sub>- or G<sub>s</sub>-coupled A<sub>2B</sub> adenosine receptors (ARs). However, in T24 bladder cancer cells, G<sub>i</sub> inhibitor PTX, but not G<sub>αq/11</sub> inhibitors, FR, YM254890 (YM) or G<sub>q/11</sub> siRNA, inhibited Ca2+ increase triggered by native A<sub>2B</sub>AR activation. Simultaneous inactivation of G<sub>i</sub> and G<sub>s</sub> further suppressed A<sub>2B</sub>AR-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "G Protein",
+            "name": "Gβγ",
+            "source": "However, the conclusion that G<sub>iβγ</sub> signaling is controlled by G<sub>αq</sub> derives mostly from HEK293 cells. Here we show that indeed in HEK293 cells both G<sub>αq/11</sub> siRNA and G<sub>αq/11</sub> inhibitors diminished Ca2+ increase triggered by native G<sub>q</sub>-coupled P2Y<sub>1</sub> receptors, or by transfected G<sub>i</sub>-coupled A<sub>1</sub>- or G<sub>s</sub>-coupled A<sub>2B</sub> adenosine receptors (ARs). However, in T24 bladder cancer cells, G<sub>i</sub> inhibitor PTX, but not G<sub>αq/11</sub> inhibitors, FR, YM254890 (YM) or G<sub>q/11</sub> siRNA, inhibited Ca2+ increase triggered by native A<sub>2B</sub>AR activation. Simultaneous inactivation of G<sub>i</sub> and G<sub>s</sub> further suppressed A<sub>2B</sub>AR-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Inhibits",
+        "description": "Gi inhibition of Gβγ"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαq/11",
+            "source": "However, the conclusion that G<sub>iβγ</sub> signaling is controlled by G<sub>αq</sub> derives mostly from HEK293 cells. Here we show that indeed in HEK293 cells both G<sub>αq/11</sub> siRNA and G<sub>αq/11</sub> inhibitors diminished Ca2+ increase triggered by native G<sub>q</sub>-coupled P2Y<sub>1</sub> receptors, or by transfected G<sub>i</sub>-coupled A<sub>1</sub>- or G<sub>s</sub>-coupled A<sub>2B</sub> adenosine receptors (ARs). However, in T24 bladder cancer cells, G<sub>i</sub> inhibitor PTX, but not G<sub>αq/11</sub> inhibitors, FR, YM254890 (YM) or G<sub>q/11</sub> siRNA, inhibited Ca2+ increase triggered by native A<sub>2B</sub>AR activation. Simultaneous inactivation of G<sub>i</sub> and G<sub>s</sub> further suppressed A<sub>2B</sub>AR-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "G Protein",
+            "name": "Gαq",
+            "source": "However, the conclusion that G<sub>iβγ</sub> signaling is controlled by G<sub>αq</sub> derives mostly from HEK293 cells. Here we show that indeed in HEK293 cells both G<sub>αq/11</sub> siRNA and G<sub>αq/11</sub> inhibitors diminished Ca2+ increase triggered by native G<sub>q</sub>-coupled P2Y<sub>1</sub> receptors, or by transfected G<sub>i</sub>-coupled A<sub>1</sub>- or G<sub>s</sub>-coupled A<sub>2B</sub> adenosine receptors (ARs). However, in T24 bladder cancer cells, G<sub>i</sub> inhibitor PTX, but not G<sub>αq/11</sub> inhibitors, FR, YM254890 (YM) or G<sub>q/11</sub> siRNA, inhibited Ca2+ increase triggered by native A<sub>2B</sub>AR activation. Simultaneous inactivation of G<sub>i</sub> and G<sub>s</sub> further suppressed A<sub>2B</sub>AR-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Inhibits",
+        "description": "Gαq/11 inhibition of Gαq"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαq/11",
+            "source": "However, the conclusion that G<sub>iβγ</sub> signaling is controlled by G<sub>αq</sub> derives mostly from HEK293 cells. Here we show that indeed in HEK293 cells both G<sub>αq/11</sub> siRNA and G<sub>αq/11</sub> inhibitors diminished Ca2+ increase triggered by native G<sub>q</sub>-coupled P2Y<sub>1</sub> receptors, or by transfected G<sub>i</sub>-coupled A<sub>1</sub>- or G<sub>s</sub>-coupled A<sub>2B</sub> adenosine receptors (ARs). However, in T24 bladder cancer cells, G<sub>i</sub> inhibitor PTX, but not G<sub>αq/11</sub> inhibitors, FR, YM254890 (YM) or G<sub>q/11</sub> siRNA, inhibited Ca2+ increase triggered by native A<sub>2B</sub>AR activation. Simultaneous inactivation of G<sub>i</sub> and G<sub>s</sub> further suppressed A<sub>2B</sub>AR-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "G Protein",
+            "name": "Gαi",
+            "source": "However, the conclusion that G<sub>iβγ</sub> signaling is controlled by G<sub>αq</sub> derives mostly from HEK293 cells. Here we show that indeed in HEK293 cells both G<sub>αq/11</sub> siRNA and G<sub>αq/11</sub> inhibitors diminished Ca2+ increase triggered by native G<sub>q</sub>-coupled P2Y<sub>1</sub> receptors, or by transfected G<sub>i</sub>-coupled A<sub>1</sub>- or G<sub>s</sub>-coupled A<sub>2B</sub> adenosine receptors (ARs). However, in T24 bladder cancer cells, G<sub>i</sub> inhibitor PTX, but not G<sub>αq/11</sub> inhibitors, FR, YM254890 (YM) or G<sub>q/11</sub> siRNA, inhibited Ca2+ increase triggered by native A<sub>2B</sub>AR activation. Simultaneous inactivation of G<sub>i</sub> and G<sub>s</sub> further suppressed A<sub>2B</sub>AR-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Inhibits",
+        "description": "Gαq/11 inhibition of Gαi"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαq/11",
+            "source": "The G<sub>αq/11</sub> inhibitor YM fully and partially inhibited endogenous P2Y<sub>1</sub>- and β<sub>2</sub>-adrenergic receptor-induced Ca2+ increase in T24 cells, respectively.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "Receptor",
+            "name": "P2Y1 receptor",
+            "source": "The G<sub>αq/11</sub> inhibitor YM fully and partially inhibited endogenous P2Y<sub>1</sub>- and β<sub>2</sub>-adrenergic receptor-induced Ca2+ increase in T24 cells, respectively.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Inhibits",
+        "description": "YM inhibition of P2Y1 receptor"
+    },
+    {
+        "node_1": {
+            "label": "G Protein",
+            "name": "Gαq/11",
+            "source": "The G<sub>αq/11</sub> inhibitor YM fully and partially inhibited endogenous P2Y<sub>1</sub>- and β<sub>2</sub>-adrenergic receptor-induced Ca2+ increase in T24 cells, respectively.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "Receptor",
+            "name": "β2-adrenergic receptor",
+            "source": "The G<sub>αq/11</sub> inhibitor YM fully and partially inhibited endogenous P2Y<sub>1</sub>- and β<sub>2</sub>-adrenergic receptor-induced Ca2+ increase in T24 cells, respectively.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Inhibits",
+        "description": "YM inhibition of β2-adrenergic receptor"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "PKC",
+            "source": "PKC activator PMA partially diminished A<sub>2B</sub>AR-triggered but completely diminished β<sub>2</sub>-adrenergic receptor-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "Receptor",
+            "name": "A2B adenosine receptor",
+            "source": "PKC activator PMA partially diminished A<sub>2B</sub>AR-triggered but completely diminished β<sub>2</sub>-adrenergic receptor-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Modulates",
+        "description": "PKC modulation of A2B adenosine receptor"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "PKC",
+            "source": "PKC activator PMA partially diminished A<sub>2B</sub>AR-triggered but completely diminished β<sub>2</sub>-adrenergic receptor-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "node_2": {
+            "label": "Receptor",
+            "name": "β2-adrenergic receptor",
+            "source": "PKC activator PMA partially diminished A<sub>2B</sub>AR-triggered but completely diminished β<sub>2</sub>-adrenergic receptor-triggered Ca2+ increase in T24 cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39934472/"
+        },
+        "relationship": "Modulates",
+        "description": "PKC modulation of β2-adrenergic receptor"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "RET tyrosine kinase inhibitors",
+            "source": "Spontaneous chylous effusions are rare; however, they have been observed by independent investigators in patients treated with RET tyrosine kinase inhibitors (TKIs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/35788405/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Spontaneous chylous effusions",
+            "source": "Spontaneous chylous effusions are rare; however, they have been observed by independent investigators in patients treated with RET tyrosine kinase inhibitors (TKIs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/35788405/"
+        },
+        "relationship": "Treats",
+        "description": "Spontaneous chylous effusions have been observed in patients treated with RET tyrosine kinase inhibitors (TKIs), indicating a treatment relationship."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Clonidine",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Binds to",
+        "description": "Binding"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Located in",
+        "description": "Presence"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Involved in",
+        "description": "Function"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Regulates",
+        "description": "Control"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Activates",
+        "description": "Stimulation"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Inhibits",
+        "description": "Suppression"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Interacts with",
+        "description": "Communication"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Treats",
+        "description": "Medication"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Causes",
+        "description": "Effect"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Repurposed",
+        "description": "Alternative use"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Affects",
+        "description": "Influence"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Induces",
+        "description": "Trigger"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Requires",
+        "description": "Dependence"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Enhances",
+        "description": "Improvement"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Suppresses",
+        "description": "Reduction"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Increases",
+        "description": "Augmentation"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Decreases",
+        "description": "Diminution"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Detected in",
+        "description": "Presence"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Involves",
+        "description": "Participation"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "T2D",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Treats",
+        "description": "Medication"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "T2D",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Causes",
+        "description": "Effect"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "T2D",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Repurposed",
+        "description": "Alternative use"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "T2D",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Affects",
+        "description": "Influence"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "T2D",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Induces",
+        "description": "Trigger"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "T2D",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Requires",
+        "description": "Dependence"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "T2D",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Enhances",
+        "description": "Improvement"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "T2D",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Suppresses",
+        "description": "Reduction"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "T2D",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Increases",
+        "description": "Augmentation"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "T2D",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Decreases",
+        "description": "Diminution"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "T2D",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Detected in",
+        "description": "Presence"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "T2D",
+            "source": "T2D mice were treated with non-treated control or Adra2α knockdown T2D ASCs (namely NC ASCs or KD ASCs).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Involves",
+        "description": "Participation"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Clonidine",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Binds to",
+        "description": "Binding"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Located in",
+        "description": "Presence"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Involved in",
+        "description": "Function"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Regulates",
+        "description": "Control"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Activates",
+        "description": "Stimulation"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Inhibits",
+        "description": "Suppression"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Interacts with",
+        "description": "Communication"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Treats",
+        "description": "Medication"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Causes",
+        "description": "Effect"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Repurposed",
+        "description": "Alternative use"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Affects",
+        "description": "Influence"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Induces",
+        "description": "Trigger"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Requires",
+        "description": "Dependence"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Enhances",
+        "description": "Improvement"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Suppresses",
+        "description": "Reduction"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Increases",
+        "description": "Augmentation"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Decreases",
+        "description": "Diminution"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Detected in",
+        "description": "Presence"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Involves",
+        "description": "Participation"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Has side effect",
+        "description": "Adverse reaction"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Clonidine",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Binds to",
+        "description": "Binding"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Located in",
+        "description": "Presence"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Involved in",
+        "description": "Function"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Regulates",
+        "description": "Control"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Activates",
+        "description": "Stimulation"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Inhibits",
+        "description": "Suppression"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Interacts with",
+        "description": "Communication"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Treats",
+        "description": "Medication"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Causes",
+        "description": "Effect"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Repurposed",
+        "description": "Alternative use"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Affects",
+        "description": "Influence"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Induces",
+        "description": "Trigger"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Requires",
+        "description": "Dependence"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Enhances",
+        "description": "Improvement"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Suppresses",
+        "description": "Reduction"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Increases",
+        "description": "Augmentation"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Decreases",
+        "description": "Diminution"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Detected in",
+        "description": "Presence"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Involves",
+        "description": "Participation"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Adra2α",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "ASCs",
+            "source": "Clonidine (an Adra2α agonist) or si-RNA was used to observe Adra2α on ASCs proliferation, migration, growth factors (HGF, TGF-β1 and VEGF) expression and secretion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948679/"
+        },
+        "relationship": "Has side effect",
+        "description": "Adverse reaction"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Proton pump inhibitors",
+            "source": "Proton pump inhibitors were the most common potentially inappropriate prescriptions (PIPs) detected using MedStopper and Deprescribing.org.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "stomach",
+            "source": "Proton pump inhibitors were the most common potentially inappropriate prescriptions (PIPs) detected using MedStopper and Deprescribing.org.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "relationship": "Treats",
+        "description": "Treats gastric acid-related conditions"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "furosemide",
+            "source": "Of which, furosemide, alprazolam and digoxin were identified exclusively by this online software with appropriate substantiating evidence.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "kidneys",
+            "source": "Of which, furosemide, alprazolam and digoxin were identified exclusively by this online software with appropriate substantiating evidence.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "relationship": "Treats",
+        "description": "Treats kidney-related conditions"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "alprazolam",
+            "source": "Of which, furosemide, alprazolam and digoxin were identified exclusively by this online software with appropriate substantiating evidence.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "anxiety disorders",
+            "source": "Of which, furosemide, alprazolam and digoxin were identified exclusively by this online software with appropriate substantiating evidence.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "relationship": "Treats",
+        "description": "Treats anxiety disorders"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "digoxin",
+            "source": "Of which, furosemide, alprazolam and digoxin were identified exclusively by this online software with appropriate substantiating evidence.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "heart failure",
+            "source": "Of which, furosemide, alprazolam and digoxin were identified exclusively by this online software with appropriate substantiating evidence.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "relationship": "Treats",
+        "description": "Treats heart failure"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Alprostadil",
+            "source": "Alprostadil is a synthetic prostaglandin E1 analog primarily used as a second-line treatment for erectile dysfunction in males when oral therapy has failed. This drug is also utilized in specific cases to temporarily maintain the patency of the ductus arteriosus in newborns with congenital heart defects until surgical intervention. For erectile dysfunction, alprostadil is administered via intracavernosal injection or intraurethral suppository, with combination therapies such as Trimix offering enhanced efficacy. In neonates, alprostadil’s vasodilatory properties help maintain ductal patency in conditions such as transposition of the great arteries or coarctation of the aorta. The use of this drug requires careful hemodynamic monitoring due to risks of instability. Common adverse effects include hypotension, flushing, and priapism, which require immediate intervention if prolonged. ",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31194374/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Erectile dysfunction",
+            "source": "Alprostadil is a synthetic prostaglandin E1 analog primarily used as a second-line treatment for erectile dysfunction in males when oral therapy has failed. This drug is also utilized in specific cases to temporarily maintain the patency of the ductus arteriosus in newborns with congenital heart defects until surgical intervention. For erectile dysfunction, alprostadil is administered via intracavernosal injection or intraurethral suppository, with combination therapies such as Trimix offering enhanced efficacy. In neonates, alprostadil’s vasodilatory properties help maintain ductal patency in conditions such as transposition of the great arteries or coarctation of the aorta. The use of this drug requires careful hemodynamic monitoring due to risks of instability. Common adverse effects include hypotension, flushing, and priapism, which require immediate intervention if prolonged. ",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31194374/"
+        },
+        "relationship": "Treats",
+        "description": "Therapeutic"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Atrial fibrillation",
+            "source": "This study aims to gather French expert experience on current practices and treatment strategies for managing arrhythmias and conduction disorders in CA. The main areas of interest included atrial fibrillation (AF) management, anticoagulation therapy, and criteria for implanting cardiac rhythm devices.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "node_2": {
+            "label": "Treatment",
+            "name": "Management of arrhythmias and conduction disorders",
+            "source": "This study aims to gather French expert experience on current practices and treatment strategies for managing arrhythmias and conduction disorders in CA. The main areas of interest included atrial fibrillation (AF) management, anticoagulation therapy, and criteria for implanting cardiac rhythm devices.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "relationship": "Treats",
+        "description": "Management of atrial fibrillation as a specific instance of treating arrhythmias and conduction disorders"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Cardiac Arrhythmia",
+            "source": "A modified Delphi method was employed, involving a panel of 56 cardiologists and electrophysiologists specializing in CA. The panel evaluated 248 statements over 2 rounds. Consensus was defined as agreement from at least 66.7% of the panel, with strong consensus requiring more than 50% complete agreement.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "node_2": {
+            "label": "Profession",
+            "name": "Cardiologists and electrophysiologists",
+            "source": "A modified Delphi method was employed, involving a panel of 56 cardiologists and electrophysiologists specializing in CA. The panel evaluated 248 statements over 2 rounds. Consensus was defined as agreement from at least 66.7% of the panel, with strong consensus requiring more than 50% complete agreement.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "relationship": "Treats",
+        "description": "The panel of cardiologists and electrophysiologists specializes in treating Cardiac Arrhythmia."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "amiodarone",
+            "source": "Consensus was achieved on 177 out of 248 statements across 2 rounds (71%). Key agreements included 1) the necessity for regular Holter monitoring and anticoagulation therapy in high-risk scenarios; 2) a rhythm control management strategy, including the use of amiodarone and AF ablation, particularly in the early stages of the disease; and 3) the use of cardiac devices for advanced conduction disorders, with decisions influenced by disease staging and left ventricular ejection fraction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "atrial fibrillation",
+            "source": "Consensus was achieved on 177 out of 248 statements across 2 rounds (71%). Key agreements included 1) the necessity for regular Holter monitoring and anticoagulation therapy in high-risk scenarios; 2) a rhythm control management strategy, including the use of amiodarone and AF ablation, particularly in the early stages of the disease; and 3) the use of cardiac devices for advanced conduction disorders, with decisions influenced by disease staging and left ventricular ejection fraction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "relationship": "Treats",
+        "description": "rhythm control management strategy"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Atrial fibrillation",
+            "source": "Approximately 70% of the proposed statements achieved agreement among the experts, reflecting reasonable alignment on anticoagulation therapy, AF management, and implantable cardiac devices.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "node_2": {
+            "label": "Treats",
+            "name": "Anticoagulation therapy",
+            "source": "Approximately 70% of the proposed statements achieved agreement among the experts, reflecting reasonable alignment on anticoagulation therapy, AF management, and implantable cardiac devices.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "relationship": "Treats",
+        "description": "Anticoagulation therapy is used to manage atrial fibrillation."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Octatropine-methyl-bromide and sulglycotide salt",
+            "source": "Forty outpatients with endoscopically confirmed duodenal ulcers were entered in a double blind trial. They were randomly allocated to octatropine-methyl-bromide and sulglycotide salt (GVP) or placebo.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/2694331/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Duodenal ulcers",
+            "source": "Forty outpatients with endoscopically confirmed duodenal ulcers were entered in a double blind trial. They were randomly allocated to octatropine-methyl-bromide and sulglycotide salt (GVP) or placebo.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/2694331/"
+        },
+        "relationship": "Treats",
+        "description": "The combination of octatropine-methyl-bromide and sulglycotide salt is used to treat duodenal ulcers, but it is less efficacious than the two constituent substances taken separately and is not more efficacious than placebo in ulcer healing."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "L-arginine",
+            "source": "A L-arginine (L-Arg) intervention study with 118 participants was carried out using a standardized 24-h exposure protocol, employing a multivariable linear regression model to assess the effects of O<sub>3</sub> exposure on plasma biomarkers, and a generalized linear model to investigate the effects on 24-hour STDE. The possible interactive effects of short-term O<sub>3</sub> exposure and plasma biomarkers on indicators of myocardial ischemia were also investigated by including product interaction terms between ambient O<sub>3</sub> and plasma biomarkers in the models. We also explored whether L-Arg supplementation could alleviate the adverse effects of ambient O<sub>3</sub> exposure.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955872/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "plasma",
+            "source": "A L-arginine (L-Arg) intervention study with 118 participants was carried out using a standardized 24-h exposure protocol, employing a multivariable linear regression model to assess the effects of O<sub>3</sub> exposure on plasma biomarkers, and a generalized linear model to investigate the effects on 24-hour STDE. The possible interactive effects of short-term O<sub>3</sub> exposure and plasma biomarkers on indicators of myocardial ischemia were also investigated by including product interaction terms between ambient O<sub>3</sub> and plasma biomarkers in the models. We also explored whether L-Arg supplementation could alleviate the adverse effects of ambient O<sub>3</sub> exposure.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955872/"
+        },
+        "relationship": "Expressed in",
+        "description": "Exposure"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Therapeutic drug monitoring",
+            "source": "Therapeutic drug monitoring (TDM) is essential for controlling pharmacogenetic and pharmacokinetic variations and for optimizing pharmacotherapy.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39950917/"
+        },
+        "node_2": {
+            "label": "Process",
+            "name": "Controlling pharmacogenetic and pharmacokinetic variations and optimizing pharmacotherapy",
+            "source": "Therapeutic drug monitoring (TDM) is essential for controlling pharmacogenetic and pharmacokinetic variations and for optimizing pharmacotherapy.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39950917/"
+        },
+        "relationship": "Treats",
+        "description": "Therapeutic drug monitoring is used to treat the process of controlling pharmacogenetic and pharmacokinetic variations and optimizing pharmacotherapy."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "psychotropic drugs",
+            "source": "This study proposed a new standard for determining the TRR of psychotropic drugs, thereby enhancing their clinical utility and validity. ",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39950917/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "blood",
+            "source": "Adjusting blood levels to these ranges should improve response rates and medication tolerance. ",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39950917/"
+        },
+        "relationship": "Treats",
+        "description": "The new standard for determining the TRR of psychotropic drugs is used to adjust blood levels, which should improve response rates and medication tolerance."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "sotalol",
+            "source": "The limit of detection (LOD) and limit of quantification (LOQ) stand elements in the validation of analytical and bioanalytical methods as emphasized in numerous guidelines. Despite this, the absence of a universal protocol for establishing these limits has led to varied approaches among researchers and analysts in literature. In this work we present the latest graphical strategy of validation known as the uncertainty profile to assess the LOQ and LOD. Then, we conducted a comparative study of this approach with those based on accuracy profile and parameters of the calibration curve. We realize the uncertainty profile from the uncertainty parameter calculated from the tolerance interval. Furthermore, we provide a succinct overview of alternative methods for computing these limits. This includes the classical strategy based on statistical concepts and graphical one using the method of accuracy profile. In pursuit of this objective, these strategies are implemented in the same experimental results of an HPLC method dedicated for the determination of sotalol in plasma using atenolol as internal standard. The classical strategy based on statistical concepts provides underestimated values of LOD and LOQ. In the other side, the two graphical tools give a relevant and realistic assessment, and the values LOD and LOQ found by uncertainty and accuracy profiles are in the same order of magnitude, especially the method of uncertainty profile. It provides precise estimate of the measurement uncertainty. The graphical strategies of validation, uncertainty profile and accuracy profile, based on tolerance interval are a reliable alternative to the classic strategy, based on classical concepts, for assessment of LOD and LOQ. https://pubmed.ncbi.nlm.nih.gov/39952988/",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39952988/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "plasma",
+            "source": "The limit of detection (LOD) and limit of quantification (LOQ) stand elements in the validation of analytical and bioanalytical methods as emphasized in numerous guidelines. Despite this, the absence of a universal protocol for establishing these limits has led to varied approaches among researchers and analysts in literature. In this work we present the latest graphical strategy of validation known as the uncertainty profile to assess the LOQ and LOD. Then, we conducted a comparative study of this approach with those based on accuracy profile and parameters of the calibration curve. We realize the uncertainty profile from the uncertainty parameter calculated from the tolerance interval. Furthermore, we provide a succinct overview of alternative methods for computing these limits. This includes the classical strategy based on statistical concepts and graphical one using the method of accuracy profile. In pursuit of this objective, these strategies are implemented in the same experimental results of an HPLC method dedicated for the determination of sotalol in plasma using atenolol as internal standard. The classical strategy based on statistical concepts provides underestimated values of LOD and LOQ. In the other side, the two graphical tools give a relevant and realistic assessment, and the values LOD and LOQ found by uncertainty and accuracy profiles are in the same order of magnitude, especially the method of uncertainty profile. It provides precise estimate of the measurement uncertainty. The graphical strategies of validation, uncertainty profile and accuracy profile, based on tolerance interval are a reliable alternative to the classic strategy, based on classical concepts, for assessment of LOD and LOQ. https://pubmed.ncbi.nlm.nih.gov/39952988/",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39952988/"
+        },
+        "relationship": "Detected in",
+        "description": "Determination"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "thiamylal",
+            "source": "Intravenous atropine (0.01 mg/kg) and midazolam (0.08 mg/kg) were administered as premedications. An induction intravenous dose of 2-5 mg/kg thiamylal was administered, with additional doses administered as needed. The induction dose was defined as the total amount of thiamylal administered before the scan. Once adequate sedation was achieved, MRI was performed. Any additional doses of thiamylal required because of scan interruption were recorded as rescue doses.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955559/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "MRI",
+            "source": "This study included patients aged < 18 years who underwent MRI under thiamylal sedation between January 2021 and December 2022. Once adequate sedation was achieved, MRI was performed. Any additional doses of thiamylal required because of scan interruption were recorded as rescue doses.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955559/"
+        },
+        "relationship": "Treats",
+        "description": "Thiamylal is used as a sedative for MRI scans in pediatric patients."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "thiamylal",
+            "source": "A total of 566 patients, with a median age of 56.4 months (range: 24.0-79.2 months) and median weight of 16.0 kg (range: 10.3-21.0 kg), were included in the analysis. The median induction and total dose of thiamylal per body weight were 4.7 (3.8-5.8) mg/kg and 6.0 (4.6-8.1) mg/kg, respectively.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955559/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "body",
+            "source": "The median induction and total dose of thiamylal per body weight were 4.7 (3.8-5.8) mg/kg and 6.0 (4.6-8.1) mg/kg, respectively.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39955559/"
+        },
+        "relationship": "Located in",
+        "description": "Thiamylal is administered per body weight, indicating its presence and activity within the body."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "pancreatolithiasis",
+            "source": "We retrospectively reviewed 165 patients with pancreatolithiasis who underwent nonsurgical treatment between 1992 and 2020.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/35835109/"
+        },
+        "node_2": {
+            "label": "Treatment",
+            "name": "nonsurgical treatment",
+            "source": "We retrospectively reviewed 165 patients with pancreatolithiasis who underwent nonsurgical treatment between 1992 and 2020.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/35835109/"
+        },
+        "relationship": "Treats",
+        "description": "The treatment of pancreatolithiasis with nonsurgical methods."
+    },
+    {
+        "node_1": {
+            "label": "Treatment",
+            "name": "Nonsurgical treatment",
+            "source": "Nonsurgical treatment for patients with asymptomatic pancreatolithiasis had a 63% stone clearance rate, lower than 84% for symptomatic pancreatolithiasis but comparable to outcomes at other institutions.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/35835109/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Asymptomatic pancreatolithiasis",
+            "source": "Nonsurgical treatment for patients with asymptomatic pancreatolithiasis had a 63% stone clearance rate, lower than 84% for symptomatic pancreatolithiasis but comparable to outcomes at other institutions.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/35835109/"
+        },
+        "relationship": "Treats",
+        "description": "Therapeutic intervention"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Stress-induced cardiac injury",
+            "source": "Stress-induced cardiac injury (SICI) was modeled on female Wistar rats using a 24-h immobilization. SICI was quantified by 99mTc-pyrophosphate accumulation in the myocardium.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "myocardium",
+            "source": "SICI was quantified by 99mTc-pyrophosphate accumulation in the myocardium.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "relationship": "Located in",
+        "description": "The stress-induced cardiac injury is located in the myocardium."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Stress-induced cardiac injury",
+            "source": "Blockade of β<sub>1</sub>- and β<sub>2</sub>-adrenergic receptors (AR) led to a decrease in SICI. β<sub>1</sub>-AR antagonists nebivolol and atenolol almost completely prevented SICI.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "β<sub>1</sub>-adrenergic receptors",
+            "source": "Blockade of β<sub>1</sub>- and β<sub>2</sub>-adrenergic receptors (AR) led to a decrease in SICI. β<sub>1</sub>-AR antagonists nebivolol and atenolol almost completely prevented SICI.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "relationship": "Treats",
+        "description": "Blockade and antagonism of β<sub>1</sub>-adrenergic receptors decrease the stress-induced cardiac injury."
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "β<sub>1</sub>-adrenergic receptors",
+            "source": "The selective β<sub>2</sub>-AR antagonist ICI 118,551 increased SICI, while the selective β<sub>3</sub>-AR antagonist L-748337 did not affect heart damage. The selective β<sub>2</sub>-AR agonist formoterol increased cardiac tolerance to stress.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Stress-induced cardiac injury",
+            "source": "The selective β<sub>2</sub>-AR antagonist ICI 118,551 increased SICI, while the selective β<sub>3</sub>-AR antagonist L-748337 did not affect heart damage. The selective β<sub>2</sub>-AR agonist formoterol increased cardiac tolerance to stress.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "relationship": "Affects",
+        "description": "Activation and antagonism of β<sub>2</sub>-adrenergic receptors influence the stress-induced cardiac injury."
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "β<sub>2</sub>-adrenergic receptors",
+            "source": "The selective β<sub>2</sub>-AR antagonist ICI 118,551 increased SICI, while the selective β<sub>3</sub>-AR antagonist L-748337 did not affect heart damage. The selective β<sub>2</sub>-AR agonist formoterol increased cardiac tolerance to stress.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Stress-induced cardiac injury",
+            "source": "The selective β<sub>2</sub>-AR antagonist ICI 118,551 increased SICI, while the selective β<sub>3</sub>-AR antagonist L-748337 did not affect heart damage. The selective β<sub>2</sub>-AR agonist formoterol increased cardiac tolerance to stress.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "relationship": "Affects",
+        "description": "Activation and antagonism of β<sub>2</sub>-adrenergic receptors influence the stress-induced cardiac injury."
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "β<sub>3</sub>-adrenergic receptors",
+            "source": "The selective β<sub>2</sub>-AR antagonist ICI 118,551 increased SICI, while the selective β<sub>3</sub>-AR antagonist L-748337 did not affect heart damage. The selective β<sub>2</sub>-AR agonist formoterol increased cardiac tolerance to stress.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Stress-induced cardiac injury",
+            "source": "The selective β<sub>2</sub>-AR antagonist ICI 118,551 increased SICI, while the selective β<sub>3</sub>-AR antagonist L-748337 did not affect heart damage. The selective β<sub>2</sub>-AR agonist formoterol increased cardiac tolerance to stress.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "relationship": "Not involved in",
+        "description": "The selective β<sub>3</sub>-AR antagonist L-748337 does not affect the stress-induced cardiac injury."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Osteoporosis",
+            "source": "Osteoporosis is a complex multifactorial bone disease with a strong genetic component. Among the various genes implicated in the progression of osteoporosis, those encoding G-protein-coupled receptors (GPCRs) play a crucial role in its pathogenesis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "node_2": {
+            "label": "Gene",
+            "name": "G-protein-coupled receptors",
+            "source": "Among the various genes implicated in the progression of osteoporosis, those encoding G-protein-coupled receptors (GPCRs) play a crucial role in its pathogenesis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "relationship": "Regulates",
+        "description": "Regulation of osteoporosis by G-protein-coupled receptors"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Beta-2-adrenergic receptor",
+            "source": "Beta-2-adrenergic receptor (a member of the GPCR superfamily) mediates cues from sympathetic nervous system to the bone tissue being expressed on both types of bone cells osteoblasts and osteoclasts.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Bone tissue",
+            "source": "Beta-2-adrenergic receptor (a member of the GPCR superfamily) mediates cues from sympathetic nervous system to the bone tissue being expressed on both types of bone cells osteoblasts and osteoclasts.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "relationship": "Expressed in",
+        "description": "Expression of beta-2-adrenergic receptor in bone tissue"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "Beta-2-adrenergic receptor",
+            "source": "While the impact of this receptor typically investigated using animal models, the human gene ADRB2 coding beta-2-adrenergic receptor harbors numerous non-synonymous single-nucleotide polymorphisms (SNPs) that alter the activity of the receptor.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Bone tissue",
+            "source": "While the impact of this receptor typically investigated using animal models, the human gene ADRB2 coding beta-2-adrenergic receptor harbors numerous non-synonymous single-nucleotide polymorphisms (SNPs) that alter the activity of the receptor.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "relationship": "Located in",
+        "description": "Location of beta-2-adrenergic receptor in bone tissue"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "ADRB2",
+            "source": "One of the most prevalent SNP is c.46G > A; however, its impact on bone homeostasis has only been explored in epidemiological studies with results showing considerable variability.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Osteoporosis",
+            "source": "One of the most prevalent SNP is c.46G > A; however, its impact on bone homeostasis has only been explored in epidemiological studies with results showing considerable variability.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "relationship": "Has side effect",
+        "description": "Impact of ADRB2 SNP on osteoporosis"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "ADRB2",
+            "source": "In this study, we generated for the first time induced pluripotent stem cells (iPSCs) line from the patient with osteoporosis carrying c.46G > A in ADRB2.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "node_2": {
+            "label": "Cellular Component",
+            "name": "Induced pluripotent stem cells",
+            "source": "In this study, we generated for the first time induced pluripotent stem cells (iPSCs) line from the patient with osteoporosis carrying c.46G > A in ADRB2.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "relationship": "Expressed in",
+        "description": "Expression of ADRB2 in induced pluripotent stem cells (iPSCs)"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "Induced pluripotent stem cells",
+            "source": "This new cell line exhibits hallmarks of pluripotency, normal karyotype, and ability to differentiate into three-germ layers.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Three-germ layers",
+            "source": "This new cell line exhibits hallmarks of pluripotency, normal karyotype, and ability to differentiate into three-germ layers.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "relationship": "Involved in",
+        "description": "Involvement of induced pluripotent stem cells (iPSCs) in differentiation into three-germ layers"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "Mesenchymal stem cells",
+            "source": "Furthermore, we conducted a comparative analysis of ADRB2 expression between newly obtained iPSCs and those derived from healthy donors. This comparison extended to mesenchymal stem cells (iMSCs) derived from these iPSC lines, assessing both basal and osteogenic conditions at the mRNA and protein levels.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "node_2": {
+            "label": "Gene",
+            "name": "ADRB2",
+            "source": "Furthermore, we conducted a comparative analysis of ADRB2 expression between newly obtained iPSCs and those derived from healthy donors. This comparison extended to mesenchymal stem cells (iMSCs) derived from these iPSC lines, assessing both basal and osteogenic conditions at the mRNA and protein levels.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "relationship": "Expressed in",
+        "description": "Expression of ADRB2 in mesenchymal stem cells (iMSCs)"
+    },
+    {
+        "node_1": {
+            "label": "Cellular Component",
+            "name": "Mesenchymal stem cells",
+            "source": "Our findings revealed that iMSCs from an osteoporotic patient with the c.46G > A in ADRB2 exhibited decreased ADRB2 expression, which correlated with a diminished potential for osteogenic differentiation.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "node_2": {
+            "label": "Gene",
+            "name": "ADRB2",
+            "source": "Our findings revealed that iMSCs from an osteoporotic patient with the c.46G > A in ADRB2 exhibited decreased ADRB2 expression, which correlated with a diminished potential for osteogenic differentiation.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953189/"
+        },
+        "relationship": "Regulates",
+        "description": "Regulation of ADRB2 expression by mesenchymal stem cells (iMSCs)"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Stress-induced cardiac injury",
+            "source": "Stress-induced cardiac injury (SICI) was modeled on female Wistar rats using a 24-h immobilization. SICI was quantified by 99mTc-pyrophosphate accumulation in the myocardium.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "myocardium",
+            "source": "SICI was quantified by 99mTc-pyrophosphate accumulation in the myocardium.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "relationship": "Located in",
+        "description": "The stress-induced cardiac injury is located in the myocardium."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Stress-induced cardiac injury",
+            "source": "Blockade of β<sub>1</sub>- and β<sub>2</sub>-adrenergic receptors (AR) led to a decrease in SICI. β<sub>1</sub>-AR antagonists nebivolol and atenolol almost completely prevented SICI.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "β<sub>1</sub>-adrenergic receptors",
+            "source": "Blockade of β<sub>1</sub>- and β<sub>2</sub>-adrenergic receptors (AR) led to a decrease in SICI. β<sub>1</sub>-AR antagonists nebivolol and atenolol almost completely prevented SICI.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "relationship": "Treats",
+        "description": "Blockade and antagonism of β<sub>1</sub>-adrenergic receptors decrease the stress-induced cardiac injury."
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "β<sub>1</sub>-adrenergic receptors",
+            "source": "The selective β<sub>2</sub>-AR antagonist ICI 118,551 increased SICI, while the selective β<sub>3</sub>-AR antagonist L-748337 did not affect heart damage. The selective β<sub>2</sub>-AR agonist formoterol increased cardiac tolerance to stress.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Stress-induced cardiac injury",
+            "source": "The selective β<sub>2</sub>-AR antagonist ICI 118,551 increased SICI, while the selective β<sub>3</sub>-AR antagonist L-748337 did not affect heart damage. The selective β<sub>2</sub>-AR agonist formoterol increased cardiac tolerance to stress.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "relationship": "Affects",
+        "description": "Activation and antagonism of β<sub>2</sub>-adrenergic receptors influence the stress-induced cardiac injury."
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "β<sub>2</sub>-adrenergic receptors",
+            "source": "The selective β<sub>2</sub>-AR antagonist ICI 118,551 increased SICI, while the selective β<sub>3</sub>-AR antagonist L-748337 did not affect heart damage. The selective β<sub>2</sub>-AR agonist formoterol increased cardiac tolerance to stress.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Stress-induced cardiac injury",
+            "source": "The selective β<sub>2</sub>-AR antagonist ICI 118,551 increased SICI, while the selective β<sub>3</sub>-AR antagonist L-748337 did not affect heart damage. The selective β<sub>2</sub>-AR agonist formoterol increased cardiac tolerance to stress.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "relationship": "Affects",
+        "description": "Activation and antagonism of β<sub>2</sub>-adrenergic receptors influence the stress-induced cardiac injury."
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "β<sub>3</sub>-adrenergic receptors",
+            "source": "The selective β<sub>2</sub>-AR antagonist ICI 118,551 increased SICI, while the selective β<sub>3</sub>-AR antagonist L-748337 did not affect heart damage. The selective β<sub>2</sub>-AR agonist formoterol increased cardiac tolerance to stress.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Stress-induced cardiac injury",
+            "source": "The selective β<sub>2</sub>-AR antagonist ICI 118,551 increased SICI, while the selective β<sub>3</sub>-AR antagonist L-748337 did not affect heart damage. The selective β<sub>2</sub>-AR agonist formoterol increased cardiac tolerance to stress.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39948180/"
+        },
+        "relationship": "Not involved in",
+        "description": "The selective β<sub>3</sub>-AR antagonist L-748337 does not affect the stress-induced cardiac injury."
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "medial prefrontal cortex",
+            "source": "In the second part, rats were exposed to RS for 14 days, and BET (5 mg/kg, p. o.) was administered during the last 8 days immediately after RS. The impact of RS and BET on the expression of p(Y530)/t Fyn and p (S133)/t CREB in the mPFC was measured via Western blotting.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39834820/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "p(Y530)/t Fyn and p (S133)/t CREB",
+            "source": "The impact of RS and BET on the expression of p(Y530)/t Fyn and p (S133)/t CREB in the mPFC was measured via Western blotting.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39834820/"
+        },
+        "relationship": "Expressed in",
+        "description": "The expression of p(Y530)/t Fyn and p (S133)/t CREB in the medial prefrontal cortex was measured via Western blotting."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Bethanidine",
+            "source": "In order to inhibit SENP1 using Bethanidine, molecular docking and molecular dynamics (MD) simulation of SENP1 with Bethanidine were performed. Molecular docking showed that Bethanidine can inhibit SENP1.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/34748762/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "SENP1",
+            "source": "In order to inhibit SENP1 using Bethanidine, molecular docking and molecular dynamics (MD) simulation of SENP1 with Bethanidine were performed. Molecular docking showed that Bethanidine can inhibit SENP1.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/34748762/"
+        },
+        "relationship": "Inhibits",
+        "description": "Inhibition"
+    }
+]

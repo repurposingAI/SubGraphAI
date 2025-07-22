@@ -1,0 +1,1458 @@
+[
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "DOI",
+            "source": "We further performed analyses of the MD trajectories, including Principal Component Analysis (PCA), hydrogen bond, salt bridge, and hydrophobic interaction network analyses, and correlation between residues to identify key elements of receptor activation. Our results suggest that in order to trigger receptor activation, DOI must interact with 5HT2A through residues V5.39, G5.42, S5.43, and S5.46 on TM5, inducing significant conformational changes in the backbone angles of G5.42 and S5.43. DOI also interacted with residues W6.48 (toggle switch) and F6.51 on TM6, causing major conformational shifts in the backbone angles of F6.44 and V6.45. These structural changes were transmitted to the intracellular ends of TM5, TM6, and ICL3, resulting in the breaking of the ionic lock and subsequent G protein activation.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39459303/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "5HT2A",
+            "source": "We further performed analyses of the MD trajectories, including Principal Component Analysis (PCA), hydrogen bond, salt bridge, and hydrophobic interaction network analyses, and correlation between residues to identify key elements of receptor activation. Our results suggest that in order to trigger receptor activation, DOI must interact with 5HT2A through residues V5.39, G5.42, S5.43, and S5.46 on TM5, inducing significant conformational changes in the backbone angles of G5.42 and S5.43. DOI also interacted with residues W6.48 (toggle switch) and F6.51 on TM6, causing major conformational shifts in the backbone angles of F6.44 and V6.45. These structural changes were transmitted to the intracellular ends of TM5, TM6, and ICL3, resulting in the breaking of the ionic lock and subsequent G protein activation.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39459303/"
+        },
+        "relationship": "Interacts",
+        "description": "Interaction"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Irritable bowel syndrome",
+            "source": "Irritable bowel syndrome (IBS) is a gut-brain disorder of multifactorial origin. Evidence of disturbed serotonergic function in IBS accumulated for the 5-HT<sub>3</sub> receptor family. 5-HT<sub>3</sub>Rs are encoded by HTR3 genes and control GI function, and peristalsis and secretion, in particular.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36121467/"
+        },
+        "node_2": {
+            "label": "Gene",
+            "name": "HTR3E",
+            "source": "Complementary expression studies of four GI regions (jejunum, ileum, colon, sigmoid colon) of 66 IBS patients and 42 controls revealed only HTR3E to be robustly expressed. On top, HTR3E transcript levels were significantly reduced in the sigma of IBS patients (p = 0.0187); more specifically, in those diagnosed with IBS-D (p = 0.0145).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36121467/"
+        },
+        "relationship": "Expressed in",
+        "description": "HTR3E is robustly expressed in four GI regions of IBS patients and controls, but HTR3E transcript levels are significantly reduced in the sigmoid colon of IBS patients, particularly in those diagnosed with IBS-D."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Brugada syndrome",
+            "source": "Treatment of manifestations: Implantable cardioverter defibrillator (ICD) in individuals with a history of syncope or cardiac arrest; isoproterenol for electrical storms. During surgery and in the postsurgical recovery period persons with Brugada syndrome should be monitored by EKG. Prevention of primary manifestations: Quinidine (1-2 g daily). Treatment of asymptomatic individuals is controversial. Surveillance: EKG monitoring every one to two years for at-risk individuals with a family history of Brugada syndrome or who have a known pathogenic variant that can lead to Brugada syndrome. Agents/circumstances to avoid: High fever, vagotonic agents, alpha-adrenergic agonists, beta-adrenergic antagonists, tricyclic antidepressants; first-generation antihistamines (dimenhydrinate); cocaine; class 1C antiarrhythmic drugs (flecainide, propafenone) and class 1A agents (procainamide, disopyramide). Evaluation of relatives at risk: Identification of relatives at risk using EKG or (if the pathogenic variant in the family is known) molecular genetic testing enables use of preventive measures and avoidance of medications that can induce ventricular arrhythmias.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301690/"
+        },
+        "node_2": {
+            "label": "Treatment",
+            "name": "Implantable cardioverter defibrillator (ICD)",
+            "source": "Treatment of manifestations: Implantable cardioverter defibrillator (ICD) in individuals with a history of syncope or cardiac arrest; isoproterenol for electrical storms. During surgery and in the postsurgical recovery period persons with Brugada syndrome should be monitored by EKG. Prevention of primary manifestations: Quinidine (1-2 g daily). Treatment of asymptomatic individuals is controversial. Surveillance: EKG monitoring every one to two years for at-risk individuals with a family history of Brugada syndrome or who have a known pathogenic variant that can lead to Brugada syndrome. Agents/circumstances to avoid: High fever, vagotonic agents, alpha-adrenergic agonists, beta-adrenergic antagonists, tricyclic antidepressants; first-generation antihistamines (dimenhydrinate); cocaine; class 1C antiarrhythmic drugs (flecainide, propafenone) and class 1A agents (procainamide, disopyramide). Evaluation of relatives at risk: Identification of relatives at risk using EKG or (if the pathogenic variant in the family is known) molecular genetic testing enables use of preventive measures and avoidance of medications that can induce ventricular arrhythmias.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301690/"
+        },
+        "relationship": "Treats",
+        "description": "Therapeutic intervention"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Brugada syndrome",
+            "source": "20301690: GENETIC COUNSELING: In most instances Brugada syndrome is inherited in an autosomal dominant manner; the exception is KCNE5-related Brugada syndrome, which is inherited in an X-linked manner. Most individuals diagnosed with Brugada syndrome have an affected parent or another affected close relative. The proportion of individuals with Brugada syndrome caused by a de novo pathogenic variant is very low (~1%). Each child of an individual with autosomal dominant Brugada syndrome has a 50% chance of inheriting the pathogenic variant. The risk that a child will inherit the familial pathogenic variant and develop Brugada syndrome may be less than 50% because of reduced penetrance and the possibility of other genetic and environmental factors. Reduced penetrance and variable expressivity are hallmarks of Brugada syndrome. Once the Brugada syndrome-related pathogenic variant has been identified in an affected family member, prenatal testing for a pregnancy at increased risk and preimplantation genetic testing for Brugada syndrome are possible. ",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301690/"
+        },
+        "node_2": {
+            "label": "Gene",
+            "name": "KCNE5",
+            "source": "20301690: GENETIC COUNSELING: In most instances Brugada syndrome is inherited in an autosomal dominant manner; the exception is KCNE5-related Brugada syndrome, which is inherited in an X-linked manner. Most individuals diagnosed with Brugada syndrome have an affected parent or another affected close relative. The proportion of individuals with Brugada syndrome caused by a de novo pathogenic variant is very low (~1%). Each child of an individual with autosomal dominant Brugada syndrome has a 50% chance of inheriting the pathogenic variant. The risk that a child will inherit the familial pathogenic variant and develop Brugada syndrome may be less than 50% because of reduced penetrance and the possibility of other genetic and environmental factors. Reduced penetrance and variable expressivity are hallmarks of Brugada syndrome. Once the Brugada syndrome-related pathogenic variant has been identified in an affected family member, prenatal testing for a pregnancy at increased risk and preimplantation genetic testing for Brugada syndrome are possible. ",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301690/"
+        },
+        "relationship": "Causes",
+        "description": "Exception"
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "ABCC11 gene",
+            "source": "The ABCC11 gene polymorphism, which determines earwax characteristics, regulates the composition of the ear canal microbiota and its metabolic pathways. We determined the presence of genome-microbiome interactions in the resident microbiota of the ear canal. Future studies should focus on ABCC11 gene polymorphisms to elucidate the pathogenesis of ear diseases and develop therapeutic methods.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39817749/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "ear canal",
+            "source": "The ABCC11 gene polymorphism, which determines earwax characteristics, regulates the composition of the ear canal microbiota and its metabolic pathways. We determined the presence of genome-microbiome interactions in the resident microbiota of the ear canal. Future studies should focus on ABCC11 gene polymorphisms to elucidate the pathogenesis of ear diseases and develop therapeutic methods.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39817749/"
+        },
+        "relationship": "Regulates",
+        "description": "Regulation"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Oral sulfonylureas",
+            "source": "Targeted therapy: Oral sulfonylureas after initial management with insulin in those with ABCC8- or KCNJ11-related PNDM.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "PNDM",
+            "source": "Targeted therapy: Oral sulfonylureas after initial management with insulin in those with ABCC8- or KCNJ11-related PNDM.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "relationship": "Treats",
+        "description": "Oral sulfonylureas are used as a targeted therapy after initial management with insulin in patients with ABCC8- or KCNJ11-related PNDM."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Insulin",
+            "source": "Rehydration and intravenous insulin infusion promptly after diagnosis; subcutaneous insulin therapy when the infant is stable and tolerating oral feedings;",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "PNDM",
+            "source": "Rehydration and intravenous insulin infusion promptly after diagnosis; subcutaneous insulin therapy when the infant is stable and tolerating oral feedings;",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "relationship": "Treats",
+        "description": "Insulin is used for rehydration and intravenous infusion promptly after diagnosis and as a subcutaneous therapy when the infant is stable and tolerating oral feedings in patients with PNDM."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Anti-seizure medication",
+            "source": "Supportive care: ... anti-seizure medication as needed in those with DEND syndrome (developmental delay, epilepsy, and neonatal diabetes mellitus);",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "DEND syndrome",
+            "source": "Supportive care: ... anti-seizure medication as needed in those with DEND syndrome (developmental delay, epilepsy, and neonatal diabetes mellitus);",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "relationship": "Treats",
+        "description": "Anti-seizure medication is used as needed in patients with DEND syndrome."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Pancreatic enzyme replacement therapy",
+            "source": "Supportive care: ... pancreatic enzyme replacement therapy in those with exocrine pancreatic insufficiency.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Exocrine pancreatic insufficiency",
+            "source": "Supportive care: ... pancreatic enzyme replacement therapy in those with exocrine pancreatic insufficiency.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "relationship": "Treats",
+        "description": "Pancreatic enzyme replacement therapy is used in patients with exocrine pancreatic insufficiency."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "PNDM",
+            "source": "Surveillance: Frequent blood glucose monitoring; urinalysis for microalbuminuria and cystatin C measurement annually beginning at age ten years to screen for kidney manifestations of persistent hyperglycemia; ophthalmologic examination for retinopathy annually beginning at age ten years; developmental evaluation annually or as needed in those with KCNJ11-, MNX1-, NEUROD1-, or NKX2-2-related PNDM; neurology evaluation and EEG in those with KCNJ11-related DEND syndrome; evaluation of pancreatic exocrine function in those with symptoms of malabsorption; serum concentrations of fat-soluble vitamins every six months in those with known exocrine pancreatic insufficiency.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Kidney",
+            "source": "Surveillance: Frequent blood glucose monitoring; urinalysis for microalbuminuria and cystatin C measurement annually beginning at age ten years to screen for kidney manifestations of persistent hyperglycemia;",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "relationship": "Detected in",
+        "description": "Kidney manifestations of persistent hyperglycemia are screened in patients with PNDM."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "PNDM",
+            "source": "Surveillance: Frequent blood glucose monitoring; urinalysis for microalbuminuria and cystatin C measurement annually beginning at age ten years to screen for kidney manifestations of persistent hyperglycemia; ophthalmologic examination for retinopathy annually beginning at age ten years; developmental evaluation annually or as needed in those with KCNJ11-, MNX1-, NEUROD1-, or NKX2-2-related PNDM; neurology evaluation and EEG in those with KCNJ11-related DEND syndrome; evaluation of pancreatic exocrine function in those with symptoms of malabsorption; serum concentrations of fat-soluble vitamins every six months in those with known exocrine pancreatic insufficiency.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Eye",
+            "source": "Surveillance: ... ophthalmologic examination for retinopathy annually beginning at age ten years;",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "relationship": "Detected in",
+        "description": "Retinopathy is examined annually in patients with PNDM."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "PNDM",
+            "source": "Surveillance: Frequent blood glucose monitoring; urinalysis for microalbuminuria and cystatin C measurement annually beginning at age ten years to screen for kidney manifestations of persistent hyperglycemia; ophthalmologic examination for retinopathy annually beginning at age ten years; developmental evaluation annually or as needed in those with KCNJ11-, MNX1-, NEUROD1-, or NKX2-2-related PNDM; neurology evaluation and EEG in those with KCNJ11-related DEND syndrome; evaluation of pancreatic exocrine function in those with symptoms of malabsorption; serum concentrations of fat-soluble vitamins every six months in those with known exocrine pancreatic insufficiency.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Brain",
+            "source": "Surveillance: ... neurology evaluation and EEG in those with KCNJ11-related DEND syndrome;",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "relationship": "Detected in",
+        "description": "Neurology evaluation and EEG are performed in patients with KCNJ11-related DEND syndrome."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "PNDM",
+            "source": "Surveillance: Frequent blood glucose monitoring; urinalysis for microalbuminuria and cystatin C measurement annually beginning at age ten years to screen for kidney manifestations of persistent hyperglycemia; ophthalmologic examination for retinopathy annually beginning at age ten years; developmental evaluation annually or as needed in those with KCNJ11-, MNX1-, NEUROD1-, or NKX2-2-related PNDM; neurology evaluation and EEG in those with KCNJ11-related DEND syndrome; evaluation of pancreatic exocrine function in those with symptoms of malabsorption; serum concentrations of fat-soluble vitamins every six months in those with known exocrine pancreatic insufficiency.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Pancreas",
+            "source": "Surveillance: ... evaluation of pancreatic exocrine function in those with symptoms of malabsorption;",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "relationship": "Detected in",
+        "description": "Pancreatic exocrine function is evaluated in patients with symptoms of malabsorption."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "PNDM",
+            "source": "Surveillance: Frequent blood glucose monitoring; urinalysis for microalbuminuria and cystatin C measurement annually beginning at age ten years to screen for kidney manifestations of persistent hyperglycemia; ophthalmologic examination for retinopathy annually beginning at age ten years; developmental evaluation annually or as needed in those with KCNJ11-, MNX1-, NEUROD1-, or NKX2-2-related PNDM; neurology evaluation and EEG in those with KCNJ11-related DEND syndrome; evaluation of pancreatic exocrine function in those with symptoms of malabsorption; serum concentrations of fat-soluble vitamins every six months in those with known exocrine pancreatic insufficiency.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Vitamin",
+            "source": "Surveillance: ... serum concentrations of fat-soluble vitamins every six months in those with known exocrine pancreatic insufficiency.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20301620/"
+        },
+        "relationship": "Detected in",
+        "description": "Serum concentrations of fat-soluble vitamins are measured every six months in patients with known exocrine pancreatic insufficiency."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Acetohexamide",
+            "source": "Compound 70, which exhibited favorable ADME properties, demonstrated more effective binding energy with both PPAR-γ and α-glucosidase enzymes (-12,16 kcal/mol, -10.07 kcal/mol) compared to the reference compounds of Acetohexamide (-9.31 kcal/mol, -7.48 kcal/mol) and Glibenclamide (-11.12 kcal/mol, -8.66 kcal/mol).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38642318/"
+        },
+        "node_2": {
+            "label": "Enzyme",
+            "name": "α-glucosidase",
+            "source": "Several studies have suggested that dual-target agents for peroxisome proliferator-activated receptor-γ (PPAR-γ) and alpha-glucosidase (α-glucosidase) could be a potent approach for treating patients with diabetes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38642318/"
+        },
+        "relationship": "Binds to",
+        "description": "Compound 70 demonstrated more effective binding energy with α-glucosidase enzyme (-10.07 kcal/mol) compared to Acetohexamide (-7.48 kcal/mol)."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Glibenclamide",
+            "source": "Compound 70, which exhibited favorable ADME properties, demonstrated more effective binding energy with both PPAR-γ and α-glucosidase enzymes (-12,16 kcal/mol, -10.07 kcal/mol) compared to the reference compounds of Acetohexamide (-9.31 kcal/mol, -7.48 kcal/mol) and Glibenclamide (-11.12 kcal/mol, -8.66 kcal/mol).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38642318/"
+        },
+        "node_2": {
+            "label": "Enzyme",
+            "name": "α-glucosidase",
+            "source": "Several studies have suggested that dual-target agents for peroxisome proliferator-activated receptor-γ (PPAR-γ) and alpha-glucosidase (α-glucosidase) could be a potent approach for treating patients with diabetes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38642318/"
+        },
+        "relationship": "Binds to",
+        "description": "Compound 70 demonstrated more effective binding energy with α-glucosidase enzyme (-10.07 kcal/mol) compared to Glibenclamide (-8.66 kcal/mol)."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Compound 70",
+            "source": "Compound 70, which exhibited favorable ADME properties, demonstrated more effective binding energy with both PPAR-γ and α-glucosidase enzymes (-12,16 kcal/mol, -10.07 kcal/mol) compared to the reference compounds of Acetohexamide (-9.31 kcal/mol, -7.48 kcal/mol) and Glibenclamide (-11.12 kcal/mol, -8.66 kcal/mol).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38642318/"
+        },
+        "node_2": {
+            "label": "Enzyme",
+            "name": "PPAR-γ",
+            "source": "Several studies have suggested that dual-target agents for peroxisome proliferator-activated receptor-γ (PPAR-γ) and alpha-glucosidase (α-glucosidase) could be a potent approach for treating patients with diabetes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38642318/"
+        },
+        "relationship": "Binds to",
+        "description": "Compound 70 demonstrated more effective binding energy with PPAR-γ enzyme (-12.16 kcal/mol) compared to the reference compounds."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Compound 70",
+            "source": "Compound 70, which exhibited favorable ADME properties, demonstrated more effective binding energy with both PPAR-γ and α-glucosidase enzymes (-12,16 kcal/mol, -10.07 kcal/mol) compared to the reference compounds of Acetohexamide (-9.31 kcal/mol, -7.48 kcal/mol) and Glibenclamide (-11.12 kcal/mol, -8.66 kcal/mol).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38642318/"
+        },
+        "node_2": {
+            "label": "Enzyme",
+            "name": "α-glucosidase",
+            "source": "Several studies have suggested that dual-target agents for peroxisome proliferator-activated receptor-γ (PPAR-γ) and alpha-glucosidase (α-glucosidase) could be a potent approach for treating patients with diabetes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38642318/"
+        },
+        "relationship": "Binds to",
+        "description": "Compound 70 demonstrated more effective binding energy with α-glucosidase enzyme (-10.07 kcal/mol) compared to the reference compounds."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Proton pump inhibitors",
+            "source": "Proton pump inhibitors were the most common potentially inappropriate prescriptions (PIPs) detected using MedStopper and Deprescribing.org.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "stomach",
+            "source": "Proton pump inhibitors were the most common potentially inappropriate prescriptions (PIPs) detected using MedStopper and Deprescribing.org.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "relationship": "Treats",
+        "description": "Treats gastric acid-related conditions"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "furosemide",
+            "source": "Of which, furosemide, alprazolam and digoxin were identified exclusively by this online software with appropriate substantiating evidence.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "kidneys",
+            "source": "Of which, furosemide, alprazolam and digoxin were identified exclusively by this online software with appropriate substantiating evidence.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "relationship": "Treats",
+        "description": "Treats kidney-related conditions"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "alprazolam",
+            "source": "Of which, furosemide, alprazolam and digoxin were identified exclusively by this online software with appropriate substantiating evidence.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "anxiety disorders",
+            "source": "Of which, furosemide, alprazolam and digoxin were identified exclusively by this online software with appropriate substantiating evidence.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "relationship": "Treats",
+        "description": "Treats anxiety disorders"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "digoxin",
+            "source": "Of which, furosemide, alprazolam and digoxin were identified exclusively by this online software with appropriate substantiating evidence.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "heart failure",
+            "source": "Of which, furosemide, alprazolam and digoxin were identified exclusively by this online software with appropriate substantiating evidence.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39931584/"
+        },
+        "relationship": "Treats",
+        "description": "Treats heart failure"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Pharmaceutical active compounds",
+            "source": "The widespread detection of pharmaceuticals and personal care products (PPCPs) in aquatic environments has become a global concern, and wastewater discharged from hospitals is an important source. This study investigated the occurrence, removal efficiency and risk assessment of 74 commonly used pharmaceutical active compounds (PhACs), including 58 antibiotics, seven psychiatric drugs, four nonsteroidal anti-inflammatory drugs, three β-blockers and two lipid regulators, at wastewater treatment plants (WWTPs) in 11 hospitals.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39522152/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Wastewater",
+            "source": "The widespread detection of pharmaceuticals and personal care products (PPCPs) in aquatic environments has become a global concern, and wastewater discharged from hospitals is an important source. This study investigated the occurrence, removal efficiency and risk assessment of 74 commonly used pharmaceutical active compounds (PhACs), including 58 antibiotics, seven psychiatric drugs, four nonsteroidal anti-inflammatory drugs, three β-blockers and two lipid regulators, at wastewater treatment plants (WWTPs) in 11 hospitals.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39522152/"
+        },
+        "relationship": "Located in",
+        "description": "Pharmaceutical active compounds are located in the wastewater discharged from hospitals."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Generalized myasthenia gravis",
+            "source": "Generalized myasthenia gravis (MG) with antibodies against the acetylcholine receptor is a chronic disease causing muscle weakness.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "None",
+            "name": "None",
+            "source": "Generalized myasthenia gravis (MG) with antibodies against the acetylcholine receptor is a chronic disease causing muscle weakness.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "None",
+        "description": "None"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "acetylcholine receptor",
+            "source": "Generalized myasthenia gravis (MG) with antibodies against the acetylcholine receptor is a chronic disease causing muscle weakness.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Generalized myasthenia gravis",
+            "source": "Generalized myasthenia gravis (MG) with antibodies against the acetylcholine receptor is a chronic disease causing muscle weakness.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Expressed in",
+        "description": "The acetylcholine receptor is the target of antibodies in Generalized myasthenia gravis."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "MG experts and patient representatives from the five Nordic countries formed a working group to prepare treatment guidance for MG based on a systematic literature search and consensus meetings.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "None",
+            "name": "None",
+            "source": "MG experts and patient representatives from the five Nordic countries formed a working group to prepare treatment guidance for MG based on a systematic literature search and consensus meetings.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "The treatment guidance is prepared for Myasthenia Gravis."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Pyridostigmine",
+            "source": "Pyridostigmine represents the first-line symptomatic treatment,",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "Pyridostigmine represents the first-line symptomatic treatment,",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "First-line symptomatic treatment"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Ambenonium",
+            "source": "while ambenonium and beta adrenergic agonists are second-line options.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "while ambenonium and beta adrenergic agonists are second-line options.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "Second-line treatment"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Beta adrenergic agonists",
+            "source": "while ambenonium and beta adrenergic agonists are second-line options.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "while ambenonium and beta adrenergic agonists are second-line options.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "Second-line treatment"
+    },
+    {
+        "node_1": {
+            "label": "Procedure",
+            "name": "Thymectomy",
+            "source": "Early thymectomy should be undertaken if a thymoma, and in non-thymoma patients up to the age of 50-65 years if not obtaining remission on symptomatic treatment.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "Early thymectomy should be undertaken if a thymoma, and in non-thymoma patients up to the age of 50-65 years if not obtaining remission on symptomatic treatment.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "Surgical treatment"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Corticosteroids",
+            "source": "Combining corticosteroids at the lowest possible dose with azathioprine is recommended,",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "Combining corticosteroids at the lowest possible dose with azathioprine is recommended,",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "Immunosuppressive treatment"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Azathioprine",
+            "source": "Combining corticosteroids at the lowest possible dose with azathioprine is recommended,",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "Combining corticosteroids at the lowest possible dose with azathioprine is recommended,",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "Immunosuppressive treatment"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Rituximab",
+            "source": "rituximab being an alternative first-line option.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "rituximab being an alternative first-line option.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "First-line treatment"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Mycophenolate",
+            "source": "Mycophenolate, methotrexate, and tacrolimus represent second-line immunosuppression.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "Mycophenolate, methotrexate, and tacrolimus represent second-line immunosuppression.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "Second-line treatment"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Methotrexate",
+            "source": "Mycophenolate, methotrexate, and tacrolimus represent second-line immunosuppression.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "Mycophenolate, methotrexate, and tacrolimus represent second-line immunosuppression.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "Second-line treatment"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Tacrolimus",
+            "source": "Mycophenolate, methotrexate, and tacrolimus represent second-line immunosuppression.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "Mycophenolate, methotrexate, and tacrolimus represent second-line immunosuppression.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "Second-line treatment"
+    },
+    {
+        "node_1": {
+            "label": "Procedure",
+            "name": "Plasma exchange",
+            "source": "Plasma exchange and intravenous immunoglobulin are used for myasthenic crises and acute exacerbations.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "Plasma exchange and intravenous immunoglobulin are used for myasthenic crises and acute exacerbations.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "Crisis and exacerbation treatment"
+    },
+    {
+        "node_1": {
+            "label": "Procedure",
+            "name": "Intravenous immunoglobulin",
+            "source": "Plasma exchange and intravenous immunoglobulin are used for myasthenic crises and acute exacerbations.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "Plasma exchange and intravenous immunoglobulin are used for myasthenic crises and acute exacerbations.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "Crisis and exacerbation treatment"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Novel complement inhibitors",
+            "source": "Novel complement inhibitors and FcRn blockers are effective and fast-acting treatments with promising safety profiles.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "Novel complement inhibitors and FcRn blockers are effective and fast-acting treatments with promising safety profiles.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "Effective and fast-acting treatment"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "FcRn blockers",
+            "source": "Novel complement inhibitors and FcRn blockers are effective and fast-acting treatments with promising safety profiles.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "Novel complement inhibitors and FcRn blockers are effective and fast-acting treatments with promising safety profiles.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "Effective and fast-acting treatment"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Myasthenia Gravis",
+            "source": "Successful treatment of MG rests on timely combination of different interventions. Due to spontaneous disease fluctuations, comorbidities, and changes in life conditions, regular long-term specialized follow-up is needed. Most patients do reasonably well but there is room for further improvement.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "node_2": {
+            "label": "Treatment",
+            "name": "Successful treatment",
+            "source": "Successful treatment of MG rests on timely combination of different interventions. Due to spontaneous disease fluctuations, comorbidities, and changes in life conditions, regular long-term specialized follow-up is needed. Most patients do reasonably well but there is room for further improvement.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38321574/"
+        },
+        "relationship": "Treats",
+        "description": "Successful treatment of Myasthenia Gravis"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Epithelial Na+ channels",
+            "source": "Epithelial Na+ channels (ENaCs) are activated by proteolysis of the α and γ subunits at specific sites flanking embedded inhibitory tracts. To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice). On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Process",
+            "name": "Proteolysis",
+            "source": "Epithelial Na+ channels (ENaCs) are activated by proteolysis of the α and γ subunits at specific sites flanking embedded inhibitory tracts. To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice). On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Activates",
+        "description": "Proteolytic cleavage"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "Epithelial Na+ channels",
+            "source": "Epithelial Na+ channels (ENaCs) are activated by proteolysis of the α and γ subunits at specific sites flanking embedded inhibitory tracts. To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice). On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Component of",
+        "description": "α subunit is a component of Epithelial Na+ channels"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice). On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "Epithelial Na+ channels",
+            "source": "Epithelial Na+ channels (ENaCs) are activated by proteolysis of the α and γ subunits at specific sites flanking embedded inhibitory tracts. To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice). On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Expressed in",
+        "description": "α subunit is expressed in Epithelial Na+ channels"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Kidney",
+            "source": "Epithelial Na+ channels (ENaCs) are activated by proteolysis of the α and γ subunits at specific sites flanking embedded inhibitory tracts. To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice). On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Located in",
+        "description": "α subunit is located in the kidney"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Distal colon",
+            "source": "Epithelial Na+ channels (ENaCs) are activated by proteolysis of the α and γ subunits at specific sites flanking embedded inhibitory tracts. To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice). On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Located in",
+        "description": "α subunit is located in the distal colon"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "Male αF2M mice did exhibit diminished ENaC activity in the distal colon, as measured by amiloride-sensitive short-circuit current (I<sub>SC</sub>).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Process",
+            "name": "Amiloride-sensitive short-circuit current (I<sub>SC</sub>)",
+            "source": "Male αF2M mice did exhibit diminished ENaC activity in the distal colon, as measured by amiloride-sensitive short-circuit current (I<sub>SC</sub>).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Affects",
+        "description": "α subunit affects amiloride-sensitive short-circuit current (I<sub>SC</sub>)"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "Following dietary Na+ restriction, WT and αF2M mice had similar natriuretic and colonic I<sub>SC</sub> responses to amiloride. However, single-channel activity was significantly lower in kidney tubules from Na+-restricted αF2M mice compared with WT littermates.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Process",
+            "name": "Single-channel activity",
+            "source": "Following dietary Na+ restriction, WT and αF2M mice had similar natriuretic and colonic I<sub>SC</sub> responses to amiloride. However, single-channel activity was significantly lower in kidney tubules from Na+-restricted αF2M mice compared with WT littermates.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Affects",
+        "description": "α subunit affects single-channel activity"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "ENaC α and γ subunit expression in kidney and distal colon were also enhanced in Na+-restricted αF2M vs. WT mice, in association with higher aldosterone levels.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "ENaC α and γ subunits",
+            "source": "ENaC α and γ subunit expression in kidney and distal colon were also enhanced in Na+-restricted αF2M vs. WT mice, in association with higher aldosterone levels.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Regulates",
+        "description": "α subunit regulates ENaC α and γ subunits"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "ENaC α and γ subunit expression in kidney and distal colon were also enhanced in Na+-restricted αF2M vs. WT mice, in association with higher aldosterone levels.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Kidney",
+            "source": "ENaC α and γ subunit expression in kidney and distal colon were also enhanced in Na+-restricted αF2M vs. WT mice, in association with higher aldosterone levels.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Located in",
+        "description": "α subunit is located in the kidney"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "ENaC α and γ subunit expression in kidney and distal colon were also enhanced in Na+-restricted αF2M vs. WT mice, in association with higher aldosterone levels.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Distal colon",
+            "source": "ENaC α and γ subunit expression in kidney and distal colon were also enhanced in Na+-restricted αF2M vs. WT mice, in association with higher aldosterone levels.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Located in",
+        "description": "α subunit is located in the distal colon"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "These data provide evidence that disrupting α subunit proteolysis impairs ENaC activity in vivo, requiring compensation in response to Na+ restriction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "ENaC activity",
+            "source": "These data provide evidence that disrupting α subunit proteolysis impairs ENaC activity in vivo, requiring compensation in response to Na+ restriction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Affects",
+        "description": "α subunit affects ENaC activity"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "These data provide evidence that disrupting α subunit proteolysis impairs ENaC activity in vivo, requiring compensation in response to Na+ restriction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Process",
+            "name": "Compensation",
+            "source": "These data provide evidence that disrupting α subunit proteolysis impairs ENaC activity in vivo, requiring compensation in response to Na+ restriction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Requires",
+        "description": "α subunit requires compensation"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "These data provide evidence that disrupting α subunit proteolysis impairs ENaC activity in vivo, requiring compensation in response to Na+ restriction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Na+ restriction",
+            "source": "These data provide evidence that disrupting α subunit proteolysis impairs ENaC activity in vivo, requiring compensation in response to Na+ restriction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Affects",
+        "description": "α subunit affects Na+ restriction"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "Epithelial Na+ channels",
+            "source": "Epithelial Na+ channels (ENaCs) are activated by proteolysis of the α and γ subunits at specific sites flanking embedded inhibitory tracts. To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice). On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Process",
+            "name": "Proteolysis",
+            "source": "Epithelial Na+ channels (ENaCs) are activated by proteolysis of the α and γ subunits at specific sites flanking embedded inhibitory tracts. To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice). On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Activates",
+        "description": "Proteolytic cleavage"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "Epithelial Na+ channels",
+            "source": "Epithelial Na+ channels (ENaCs) are activated by proteolysis of the α and γ subunits at specific sites flanking embedded inhibitory tracts. To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice). On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Component of",
+        "description": "α subunit is a component of Epithelial Na+ channels"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice). On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "Epithelial Na+ channels",
+            "source": "Epithelial Na+ channels (ENaCs) are activated by proteolysis of the α and γ subunits at specific sites flanking embedded inhibitory tracts. To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice). On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Expressed in",
+        "description": "α subunit is expressed in Epithelial Na+ channels"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Kidney",
+            "source": "Epithelial Na+ channels (ENaCs) are activated by proteolysis of the α and γ subunits at specific sites flanking embedded inhibitory tracts. To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice). On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Located in",
+        "description": "α subunit is located in the kidney"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Distal colon",
+            "source": "Epithelial Na+ channels (ENaCs) are activated by proteolysis of the α and γ subunits at specific sites flanking embedded inhibitory tracts. To examine the role of α subunit proteolysis in channel activation in vivo, we generated mice lacking the distal furin cleavage site in the α subunit (αF2M mice). On a normal Na+ control diet, no differences in ENaC protein abundance in kidney or distal colon were noted between wild-type (WT) and αF2M mice.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Located in",
+        "description": "α subunit is located in the distal colon"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "Male αF2M mice did exhibit diminished ENaC activity in the distal colon, as measured by amiloride-sensitive short-circuit current (I<sub>SC</sub>).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Process",
+            "name": "Amiloride-sensitive short-circuit current (I<sub>SC</sub>)",
+            "source": "Male αF2M mice did exhibit diminished ENaC activity in the distal colon, as measured by amiloride-sensitive short-circuit current (I<sub>SC</sub>).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Affects",
+        "description": "α subunit affects amiloride-sensitive short-circuit current (I<sub>SC</sub>)"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "Following dietary Na+ restriction, WT and αF2M mice had similar natriuretic and colonic I<sub>SC</sub> responses to amiloride. However, single-channel activity was significantly lower in kidney tubules from Na+-restricted αF2M mice compared with WT littermates.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Process",
+            "name": "Single-channel activity",
+            "source": "Following dietary Na+ restriction, WT and αF2M mice had similar natriuretic and colonic I<sub>SC</sub> responses to amiloride. However, single-channel activity was significantly lower in kidney tubules from Na+-restricted αF2M mice compared with WT littermates.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Affects",
+        "description": "α subunit affects single-channel activity"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "ENaC α and γ subunit expression in kidney and distal colon were also enhanced in Na+-restricted αF2M vs. WT mice, in association with higher aldosterone levels.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "ENaC α and γ subunits",
+            "source": "ENaC α and γ subunit expression in kidney and distal colon were also enhanced in Na+-restricted αF2M vs. WT mice, in association with higher aldosterone levels.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Regulates",
+        "description": "α subunit regulates ENaC α and γ subunits"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "ENaC α and γ subunit expression in kidney and distal colon were also enhanced in Na+-restricted αF2M vs. WT mice, in association with higher aldosterone levels.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Kidney",
+            "source": "ENaC α and γ subunit expression in kidney and distal colon were also enhanced in Na+-restricted αF2M vs. WT mice, in association with higher aldosterone levels.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Located in",
+        "description": "α subunit is located in the kidney"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "ENaC α and γ subunit expression in kidney and distal colon were also enhanced in Na+-restricted αF2M vs. WT mice, in association with higher aldosterone levels.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Distal colon",
+            "source": "ENaC α and γ subunit expression in kidney and distal colon were also enhanced in Na+-restricted αF2M vs. WT mice, in association with higher aldosterone levels.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Located in",
+        "description": "α subunit is located in the distal colon"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "These data provide evidence that disrupting α subunit proteolysis impairs ENaC activity in vivo, requiring compensation in response to Na+ restriction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "ENaC activity",
+            "source": "These data provide evidence that disrupting α subunit proteolysis impairs ENaC activity in vivo, requiring compensation in response to Na+ restriction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Affects",
+        "description": "α subunit affects ENaC activity"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "These data provide evidence that disrupting α subunit proteolysis impairs ENaC activity in vivo, requiring compensation in response to Na+ restriction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Process",
+            "name": "Compensation",
+            "source": "These data provide evidence that disrupting α subunit proteolysis impairs ENaC activity in vivo, requiring compensation in response to Na+ restriction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Requires",
+        "description": "α subunit requires compensation"
+    },
+    {
+        "node_1": {
+            "label": "Protein",
+            "name": "α subunit",
+            "source": "These data provide evidence that disrupting α subunit proteolysis impairs ENaC activity in vivo, requiring compensation in response to Na+ restriction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Na+ restriction",
+            "source": "These data provide evidence that disrupting α subunit proteolysis impairs ENaC activity in vivo, requiring compensation in response to Na+ restriction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39196791/"
+        },
+        "relationship": "Affects",
+        "description": "α subunit affects Na+ restriction"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Atrial fibrillation",
+            "source": "This study aims to gather French expert experience on current practices and treatment strategies for managing arrhythmias and conduction disorders in CA. The main areas of interest included atrial fibrillation (AF) management, anticoagulation therapy, and criteria for implanting cardiac rhythm devices.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "node_2": {
+            "label": "Treatment",
+            "name": "Management of arrhythmias and conduction disorders",
+            "source": "This study aims to gather French expert experience on current practices and treatment strategies for managing arrhythmias and conduction disorders in CA. The main areas of interest included atrial fibrillation (AF) management, anticoagulation therapy, and criteria for implanting cardiac rhythm devices.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "relationship": "Treats",
+        "description": "Management of atrial fibrillation as a specific instance of treating arrhythmias and conduction disorders"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Cardiac Arrhythmia",
+            "source": "A modified Delphi method was employed, involving a panel of 56 cardiologists and electrophysiologists specializing in CA. The panel evaluated 248 statements over 2 rounds. Consensus was defined as agreement from at least 66.7% of the panel, with strong consensus requiring more than 50% complete agreement.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "node_2": {
+            "label": "Profession",
+            "name": "Cardiologists and electrophysiologists",
+            "source": "A modified Delphi method was employed, involving a panel of 56 cardiologists and electrophysiologists specializing in CA. The panel evaluated 248 statements over 2 rounds. Consensus was defined as agreement from at least 66.7% of the panel, with strong consensus requiring more than 50% complete agreement.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "relationship": "Treats",
+        "description": "The panel of cardiologists and electrophysiologists specializes in treating Cardiac Arrhythmia."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "amiodarone",
+            "source": "Consensus was achieved on 177 out of 248 statements across 2 rounds (71%). Key agreements included 1) the necessity for regular Holter monitoring and anticoagulation therapy in high-risk scenarios; 2) a rhythm control management strategy, including the use of amiodarone and AF ablation, particularly in the early stages of the disease; and 3) the use of cardiac devices for advanced conduction disorders, with decisions influenced by disease staging and left ventricular ejection fraction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "atrial fibrillation",
+            "source": "Consensus was achieved on 177 out of 248 statements across 2 rounds (71%). Key agreements included 1) the necessity for regular Holter monitoring and anticoagulation therapy in high-risk scenarios; 2) a rhythm control management strategy, including the use of amiodarone and AF ablation, particularly in the early stages of the disease; and 3) the use of cardiac devices for advanced conduction disorders, with decisions influenced by disease staging and left ventricular ejection fraction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "relationship": "Treats",
+        "description": "rhythm control management strategy"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Atrial fibrillation",
+            "source": "Approximately 70% of the proposed statements achieved agreement among the experts, reflecting reasonable alignment on anticoagulation therapy, AF management, and implantable cardiac devices.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "node_2": {
+            "label": "Treats",
+            "name": "Anticoagulation therapy",
+            "source": "Approximately 70% of the proposed statements achieved agreement among the experts, reflecting reasonable alignment on anticoagulation therapy, AF management, and implantable cardiac devices.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954342/"
+        },
+        "relationship": "Treats",
+        "description": "Anticoagulation therapy is used to manage atrial fibrillation."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "amlodipine",
+            "source": "39953207: ADHD is a chronic neurodevelopmental disorder that significantly affects life outcomes, and current treatments often have adverse side effects, high abuse potential, and a 25% non-response rate, highlighting the need for new therapeutics. This study investigates amlodipine, an L-type calcium channel blocker, as a potential foundation for developing a novel ADHD treatment by integrating findings from animal models and human genetic data. Amlodipine reduced hyperactivity in SHR rats and decreased both hyperactivity and impulsivity in adgrl3.1-/- zebrafish. It also crosses the blood-brain barrier, reducing telencephalic activation. Crucially, Mendelian Randomization analysis linked ADHD to genetic variations in L-type calcium channel subunits (α1-C; CACNA1C, β1; CACNB1, α2δ3; CACNA2D3) targeted by amlodipine, while polygenic risk score analysis showed symptom mitigation in individuals with high ADHD genetic liability. With its well-tolerated profile and efficacy across species, supported by genetic evidence, amlodipine shows potential to be refined and developed into a novel treatment for ADHD.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953207/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "ADHD",
+            "source": "39953207: ADHD is a chronic neurodevelopmental disorder that significantly affects life outcomes, and current treatments often have adverse side effects, high abuse potential, and a 25% non-response rate, highlighting the need for new therapeutics. This study investigates amlodipine, an L-type calcium channel blocker, as a potential foundation for developing a novel ADHD treatment by integrating findings from animal models and human genetic data. Amlodipine reduced hyperactivity in SHR rats and decreased both hyperactivity and impulsivity in adgrl3.1-/- zebrafish. It also crosses the blood-brain barrier, reducing telencephalic activation. Crucially, Mendelian Randomization analysis linked ADHD to genetic variations in L-type calcium channel subunits (α1-C; CACNA1C, β1; CACNB1, α2δ3; CACNA2D3) targeted by amlodipine, while polygenic risk score analysis showed symptom mitigation in individuals with high ADHD genetic liability. With its well-tolerated profile and efficacy across species, supported by genetic evidence, amlodipine shows potential to be refined and developed into a novel treatment for ADHD.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953207/"
+        },
+        "relationship": "Treats",
+        "description": "Mitigation"
+    },
+    {
+        "node_1": {
+            "label": "Treatment",
+            "name": "Treatment strategies",
+            "source": "Treatment strategies included attempted varicocelectomy, pharmacological intervention with amoxapine, and surgical testicular sperm extraction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39360231/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "amoxapine",
+            "source": "Treatment strategies included attempted varicocelectomy, pharmacological intervention with amoxapine, and surgical testicular sperm extraction.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39360231/"
+        },
+        "relationship": "Treats",
+        "description": "Pharmacological intervention"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "ejaculatory disorder",
+            "source": "Our approach has effectively addressed ejaculatory disorder in 45,X/46,XY mosaic men, resulting in successful pregnancy.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39360231/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "45,X/46,XY mosaic men",
+            "source": "Our approach has effectively addressed ejaculatory disorder in 45,X/46,XY mosaic men, resulting in successful pregnancy.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39360231/"
+        },
+        "relationship": "Treats",
+        "description": "Successful treatment"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "antihypertensive medication",
+            "source": "Adherence to antihypertensive medication, especially in free-dose combinations, poses a significant challenge.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "elevated blood pressure",
+            "source": "Elevated blood pressure is a major risk factor for severe medical conditions.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "relationship": "Treats",
+        "description": "Medication used for managing elevated blood pressure"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "antihypertensive therapy",
+            "source": "A register-based cohort study was conducted on individuals aged 65 years or older in Denmark who initiated antihypertensive therapy from 1996 to 2016 and followed for 730 days from the index date.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "individuals aged 65 years or older in Denmark",
+            "source": "A register-based cohort study was conducted on individuals aged 65 years or older in Denmark who initiated antihypertensive therapy from 1996 to 2016 and followed for 730 days from the index date.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "relationship": "Treats",
+        "description": "Therapy"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "bendroflumethiazide and potassium",
+            "source": "The method achieved 100% accuracy in identifying co-exposure periods. During the early stage of the follow-up (0-180 days), 54.1% of individuals were co-exposed to at least two antihypertensive medications, while 37.5% were co-exposed during the late stage of the follow-up period (181-730 days). The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the early (13.2% and 12.5% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "amlodipine",
+            "source": "The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the early (13.2% and 12.5% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "relationship": "Co-exposed",
+        "description": "13.2% of patients were co-exposed to bendroflumethiazide and potassium with amlodipine in the early stage of the follow-up period"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "bendroflumethiazide and potassium",
+            "source": "The method achieved 100% accuracy in identifying co-exposure periods. During the early stage of the follow-up (0-180 days), 54.1% of individuals were co-exposed to at least two antihypertensive medications, while 37.5% were co-exposed during the late stage of the follow-up period (181-730 days). The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the early (13.2% and 12.5% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "enalapril",
+            "source": "The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the early (13.2% and 12.5% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "relationship": "Co-exposed",
+        "description": "12.5% of patients were co-exposed to bendroflumethiazide and potassium with enalapril in the early stage of the follow-up period"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "bendroflumethiazide and potassium",
+            "source": "The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the late stage (16.9% and 15.0% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "amlodipine",
+            "source": "The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the late stage (16.9% and 15.0% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "relationship": "Co-exposed",
+        "description": "16.9% of patients were co-exposed to bendroflumethiazide and potassium with amlodipine in the late stage of the follow-up period"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "bendroflumethiazide and potassium",
+            "source": "The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the late stage (16.9% and 15.0% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "enalapril",
+            "source": "The most frequent antihypertensive combinations included bendroflumethiazide and potassium with either amlodipine or enalapril in the late stage (16.9% and 15.0% of patients, respectively)",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "relationship": "Co-exposed",
+        "description": "15.0% of patients were co-exposed to bendroflumethiazide and potassium with enalapril in the late stage of the follow-up period"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "antihypertensive medications",
+            "source": "The newly developed method effectively assesses co-exposure to antihypertensive medications, overcoming previous limitations.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "older individuals",
+            "source": "The findings reveal common co-exposure combinations and evolving trends in antihypertensive medication use among older individuals, reflecting changes in clinical practice and guidelines over two decades.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39589584/"
+        },
+        "relationship": "Treats",
+        "description": "Therapeutic"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Bethanidine",
+            "source": "In order to inhibit SENP1 using Bethanidine, molecular docking and molecular dynamics (MD) simulation of SENP1 with Bethanidine were performed. Molecular docking showed that Bethanidine can inhibit SENP1.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/34748762/"
+        },
+        "node_2": {
+            "label": "Protein",
+            "name": "SENP1",
+            "source": "In order to inhibit SENP1 using Bethanidine, molecular docking and molecular dynamics (MD) simulation of SENP1 with Bethanidine were performed. Molecular docking showed that Bethanidine can inhibit SENP1.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/34748762/"
+        },
+        "relationship": "Inhibits",
+        "description": "Inhibition"
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "Foreign language syndrome",
+            "source": "Foreign language syndrome is an exceptionally rare occurrence, with only nine documented cases to date, all involving male patients. This case presents a novel instance of foreign language syndrome in the context of NMS in a male patient, providing insight into the potential sex-specific mechanisms underlying this rare phenomenon. This case adds valuable evidence to the understanding of the clinical spectrum of NMS and highlights the importance of recognizing atypical presentations in managing patients with neuropsychiatric conditions.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39748424/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "Neuropsychiatric conditions",
+            "source": "This case adds valuable evidence to the understanding of the clinical spectrum of NMS and highlights the importance of recognizing atypical presentations in managing patients with neuropsychiatric conditions.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39748424/"
+        },
+        "relationship": "Affects",
+        "description": "Association"
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "auricular nerve",
+            "source": "The auricular nerve block is safe and involves injection sites distant from major vascular structures, utilizes a small amount of anesthetic, is easy to perform by a landmark-based technique, and does not require the use of ultrasound.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39952849/"
+        },
+        "node_2": {
+            "label": "Procedure",
+            "name": "auricular nerve block",
+            "source": "The auricular nerve block is safe and involves injection sites distant from major vascular structures, utilizes a small amount of anesthetic, is easy to perform by a landmark-based technique, and does not require the use of ultrasound.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39952849/"
+        },
+        "relationship": "Located in",
+        "description": "The auricular nerve block procedure involves injection sites in the vicinity of the auricular nerve."
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "Auricular nerve",
+            "source": "Auricular nerve blocks may provide a safe, efficient, and localized alternative for OE pain relief.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39952849/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Otitis externa",
+            "source": "Auricular nerve blocks may provide a safe, efficient, and localized alternative for OE pain relief.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39952849/"
+        },
+        "relationship": "Treats",
+        "description": "Auricular nerve blocks are used as a treatment for otitis externa."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Thiobutabarbital",
+            "source": "The gastric stability of eight barbiturates (BARs) (barbital, primidone, allobarbital, phenobarbital, cyclobarbital, pentobarbital, secobarbital, and thiobutabarbital (TBB)) was examined in artificial gastric juice using LC/UV detection. Among the eight BARs, only TBB was degraded at higher temperatures.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39111846/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "Butabarbital",
+            "source": "The degradation product of TBB was isolated, structurally analyzed, and finally identified as 5-butan-2-yl-5-ethyl-1,3-diazinane-2,4,6-trione, also known as butabarbital.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39111846/"
+        },
+        "relationship": "Metabolized by",
+        "description": "Thiobutabarbital is metabolized by substituting the sulfur atom of the carbonyl group at the 2-position with an oxygen atom under acidic condition, resulting in the formation of butabarbital."
+    },
+    {
+        "node_1": {
+            "label": "Disease",
+            "name": "embryonic growth and development",
+            "source": "A total of 4708 unique records were identified, of which 34 studies were included in the systematic review. The majority of studies investigating smoking and BMI suggested an inverse association with embryonic growth and development, while maternal age, folic acid supplement use, and folate levels were positively associated with embryonic growth and development.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953705/"
+        },
+        "node_2": {
+            "label": "Anatomy",
+            "name": "embryo",
+            "source": "A total of 4708 unique records were identified, of which 34 studies were included in the systematic review. The majority of studies investigating smoking and BMI suggested an inverse association with embryonic growth and development, while maternal age, folic acid supplement use, and folate levels were positively associated with embryonic growth and development.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39953705/"
+        },
+        "relationship": "Affects",
+        "description": "Inverse association"
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "Carbamazepine",
+            "source": "Carbamazepine is frequently the first-line treatment, making early prediction of patient response essential for personalized care. This study aims to explore the link between the ABCB1 c.3435C > T genetic variation and Carbamazepine resistance and toxicity in Algerian patients with epilepsy, with a focus on the impact of genetic variations on Carbamazepine plasma concentrations and treatment outcomes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954158/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Epilepsy",
+            "source": "39954158: Epilepsy is among the most prevalent serious neurological disorders, affecting over 70 million people worldwide, in Algeria, the prevalence of epilepsy was estimated to be eight times more common. This study aims to explore the link between the ABCB1 c.3435C > T genetic variation and Carbamazepine resistance and toxicity in Algerian patients with epilepsy, with a focus on the impact of genetic variations on Carbamazepine plasma concentrations and treatment outcomes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954158/"
+        },
+        "relationship": "Treats",
+        "description": "Carbamazepine is used as a first-line treatment for Epilepsy."
+    },
+    {
+        "node_1": {
+            "label": "Gene",
+            "name": "ABCB1 c.3435C > T",
+            "source": "This study aims to explore the link between the ABCB1 c.3435C > T genetic variation and Carbamazepine resistance and toxicity in Algerian patients with epilepsy, with a focus on the impact of genetic variations on Carbamazepine plasma concentrations and treatment outcomes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954158/"
+        },
+        "node_2": {
+            "label": "Drug",
+            "name": "Carbamazepine",
+            "source": "This study aims to explore the link between the ABCB1 c.3435C > T genetic variation and Carbamazepine resistance and toxicity in Algerian patients with epilepsy, with a focus on the impact of genetic variations on Carbamazepine plasma concentrations and treatment outcomes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954158/"
+        },
+        "relationship": "Regulates",
+        "description": "The ABCB1 c.3435C > T genetic variation has an impact on Carbamazepine resistance, toxicity, and plasma concentrations."
+    },
+    {
+        "node_1": {
+            "label": "Anatomy",
+            "name": "Algerian patients",
+            "source": "Ninety-eight Algerian patients with epilepsy were recruited and categorized as either drug-responsive or drug-resistant based on their clinical response to CBZ treatment. Genotyping of the ABCB1 c.3435 C > T polymorphism was performed using Polymerase Chain Reaction-Restriction Fragment Length Polymorphism (PCR-RFLP) method, and CBZ plasma levels were measured to assess its effect on metabolism. Clinical data, including drug response, therapy type, and adverse drug reactions (ADRs), were collected and analyzed.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954158/"
+        },
+        "node_2": {
+            "label": "Disease",
+            "name": "Epilepsy",
+            "source": "39954158: Epilepsy is among the most prevalent serious neurological disorders, affecting over 70 million people worldwide, in Algeria, the prevalence of epilepsy was estimated to be eight times more common. This study aims to explore the link between the ABCB1 c.3435C > T genetic variation and Carbamazepine resistance and toxicity in Algerian patients with epilepsy, with a focus on the impact of genetic variations on Carbamazepine plasma concentrations and treatment outcomes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39954158/"
+        },
+        "relationship": "Located in",
+        "description": "The Algerian patients are affected by Epilepsy."
+    },
+    {
+        "node_1": {
+            "label": "Drug",
+            "name": "elexacaftor/tezacaftor/ivacaftor",
+            "source": "Based on a considerable body of evidence, we believe many patients with NCFBE have disease likely to benefit from drugs such as elexacaftor/tezacaftor/ivacaftor (ETI) that activate CFTR-dependent ion transport. ETI is currently prescribed solely for treatment of CF and has not been adequately tested or proposed for patients with NCFBE, many of whom exhibit decreased CFTR function.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39951444/"
+        },
+        "node_2": {
+            "label": "Gene",
+            "name": "CFTR",
+            "source": "Based on a considerable body of evidence, we believe many patients with NCFBE have disease likely to benefit from drugs such as elexacaftor/tezacaftor/ivacaftor (ETI) that activate CFTR-dependent ion transport. ETI is currently prescribed solely for treatment of CF and has not been adequately tested or proposed for patients with NCFBE, many of whom exhibit decreased CFTR function.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/39951444/"
+        },
+        "relationship": "Activates",
+        "description": "Ion transport activation"
+    }
+]
