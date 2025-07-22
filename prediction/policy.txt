@@ -1,0 +1,13 @@
+node_descriptions_file = ./Prediction/Dataset/KG-LLM/descriptions.json
+source_nodes_file = ./Prediction/Dataset/KG-LLM/source.json
+target_nodes_file = ./Prediction/Dataset/KG-LLM/target.json
+attribut_file = ./Prediction/Dataset/KG-LLM/attribut.json
+drug_embedding_file = ./Prediction/Dataset/Embedding/drug_embedding_vector.txt
+target_embedding_file = ./Prediction/Dataset/Embedding/target_embedding_vector.txt
+missing_embedding_file = ./Prediction/Dataset/Embedding/missing_embeddings.txt
+input_file = ./Prediction/Dataset/Biparti/graph_biparti_noms.txt
+file2_path = ./Prediction/Dataset/Biparti/drug_target_all.csv
+file_path = ./Prediction/Dataset/Uniprot/uniprot_data.csv
+ontology_file = ./Prediction/Dataset/Ontology/custom_ontology-ro.owl
+validation_dataset = ./Prediction/Dataset/Evaluation/GT-neg.txt
+strategies_workflow = Simple
