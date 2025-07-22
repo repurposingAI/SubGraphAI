@@ -1,0 +1,634 @@
+Caffeine	Lysophosphatidic acid receptor 6	1.0
+Zafirlukast	Cysteinyl leukotriene receptor 1	1.0
+Amlexanox	Cysteinyl leukotriene receptor 1	1.0
+Nedocromil	Cysteinyl leukotriene receptor 1	1.0
+Astemizole	Histamine H3 receptor	1.0
+Diphenhydramine	Histamine H3 receptor	1.0
+Famotidine	Histamine H3 receptor	1.0
+Promethazine	Histamine H3 receptor	1.0
+Maprotiline	Histamine H3 receptor	1.0
+Atropine	Muscarinic acetylcholine receptor M1	1.0
+Anisotropine methylbromide	Muscarinic acetylcholine receptor M1	1.0
+Cisapride	Muscarinic acetylcholine receptor M1	1.0
+Clozapine	Muscarinic acetylcholine receptor M1	1.0
+Tropicamide	Muscarinic acetylcholine receptor M1	1.0
+Olanzapine	Muscarinic acetylcholine receptor M1	1.0
+Oxybutynin	Muscarinic acetylcholine receptor M1	1.0
+Promethazine	Muscarinic acetylcholine receptor M1	1.0
+Carbamoylcholine	Muscarinic acetylcholine receptor M1	1.0
+Pilocarpine	Muscarinic acetylcholine receptor M1	1.0
+Glycopyrronium	Muscarinic acetylcholine receptor M1	1.0
+Tolterodine	Muscarinic acetylcholine receptor M1	1.0
+Methscopolamine bromide	Muscarinic acetylcholine receptor M1	1.0
+Metoclopramide	Muscarinic acetylcholine receptor M1	1.0
+Biperiden	Muscarinic acetylcholine receptor M1	1.0
+Trospium	Muscarinic acetylcholine receptor M1	1.0
+Profenamine	Muscarinic acetylcholine receptor M1	1.0
+Solifenacin	Muscarinic acetylcholine receptor M1	1.0
+Cytarabine	Muscarinic acetylcholine receptor M1	1.0
+Metixene	Muscarinic acetylcholine receptor M1	1.0
+Homatropine methylbromide	Muscarinic acetylcholine receptor M1	1.0
+Doxylamine	Muscarinic acetylcholine receptor M1	1.0
+Thiethylperazine	Muscarinic acetylcholine receptor M1	1.0
+Verapamil	Muscarinic acetylcholine receptor M1	1.0
+Propiomazine	Muscarinic acetylcholine receptor M1	1.0
+Cyclizine	Muscarinic acetylcholine receptor M1	1.0
+Diphenidol	Muscarinic acetylcholine receptor M1	1.0
+Atropine	Muscarinic acetylcholine receptor M2	1.0
+Anisotropine methylbromide	Muscarinic acetylcholine receptor M2	1.0
+Cisapride	Muscarinic acetylcholine receptor M2	1.0
+Clozapine	Muscarinic acetylcholine receptor M2	1.0
+Tropicamide	Muscarinic acetylcholine receptor M2	1.0
+Olanzapine	Muscarinic acetylcholine receptor M2	1.0
+Oxybutynin	Muscarinic acetylcholine receptor M2	1.0
+Promethazine	Muscarinic acetylcholine receptor M2	1.0
+Carbamoylcholine	Muscarinic acetylcholine receptor M2	1.0
+Glycopyrronium	Muscarinic acetylcholine receptor M2	1.0
+Tolterodine	Muscarinic acetylcholine receptor M2	1.0
+Doxacurium	Muscarinic acetylcholine receptor M2	1.0
+Rocuronium	Muscarinic acetylcholine receptor M2	1.0
+Biperiden	Muscarinic acetylcholine receptor M2	1.0
+Metixene	Muscarinic acetylcholine receptor M2	1.0
+Homatropine methylbromide	Muscarinic acetylcholine receptor M2	1.0
+Thiethylperazine	Muscarinic acetylcholine receptor M2	1.0
+Verapamil	Muscarinic acetylcholine receptor M2	1.0
+Propiomazine	Muscarinic acetylcholine receptor M2	1.0
+Cyclizine	Muscarinic acetylcholine receptor M2	1.0
+Diphenidol	Muscarinic acetylcholine receptor M2	1.0
+Atropine	Muscarinic acetylcholine receptor M3	1.0
+Anisotropine methylbromide	Muscarinic acetylcholine receptor M3	1.0
+Olanzapine	Muscarinic acetylcholine receptor M3	1.0
+Promethazine	Muscarinic acetylcholine receptor M3	1.0
+Darifenacin	Muscarinic acetylcholine receptor M3	1.0
+Metixene	Muscarinic acetylcholine receptor M3	1.0
+Homatropine methylbromide	Muscarinic acetylcholine receptor M3	1.0
+Thiethylperazine	Muscarinic acetylcholine receptor M3	1.0
+Propiomazine	Muscarinic acetylcholine receptor M3	1.0
+Cyclizine	Muscarinic acetylcholine receptor M3	1.0
+Darifenacin	Muscarinic acetylcholine receptor M3	1.0
+Diphenidol	Muscarinic acetylcholine receptor M3	1.0
+Atropine	Muscarinic acetylcholine receptor M4	1.0
+Tropicamide	Muscarinic acetylcholine receptor M4	1.0
+Olanzapine	Muscarinic acetylcholine receptor M4	1.0
+Promethazine	Muscarinic acetylcholine receptor M4	1.0
+Metixene	Muscarinic acetylcholine receptor M4	1.0
+Homatropine methylbromide	Muscarinic acetylcholine receptor M4	1.0
+Thiethylperazine	Muscarinic acetylcholine receptor M4	1.0
+Propiomazine	Muscarinic acetylcholine receptor M4	1.0
+Atropine	Muscarinic acetylcholine receptor M5	1.0
+Olanzapine	Muscarinic acetylcholine receptor M5	1.0
+Promethazine	Muscarinic acetylcholine receptor M5	1.0
+Metixene	Muscarinic acetylcholine receptor M5	1.0
+Homatropine methylbromide	Muscarinic acetylcholine receptor M5	1.0
+Thiethylperazine	Muscarinic acetylcholine receptor M5	1.0
+Propiomazine	Muscarinic acetylcholine receptor M5	1.0
+Dexmedetomidine	C-C chemokine receptor type 5	1.0
+Zafirlukast	Leukotriene B4 receptor 1	1.0
+Dronabinol	Cannabinoid receptor 1	1.0
+Aminophylline	Adenosine receptor A1	1.0
+Gabapentin	Adenosine receptor A1	1.0
+Caffeine	Adenosine receptor A1	1.0
+Fluticasone propionate	Adenosine receptor A1	1.0
+(E)-2-Fluoro-P-Hydroxycinnamate	Adenosine receptor A1	1.0
+Aminophylline	Adenosine receptor A2a	1.0
+Caffeine	Adenosine receptor A2a	1.0
+Fluticasone propionate	Adenosine receptor A2a	1.0
+(E)-2-Fluoro-P-Hydroxycinnamate	Adenosine receptor A2a	1.0
+Theophylline	Adenosine receptor A2b	1.0
+Caffeine	Adenosine receptor A2b	1.0
+Enprofylline	Adenosine receptor A2b	1.0
+Aminophylline	Adenosine receptor A3	1.0
+Caffeine	Adenosine receptor A3	1.0
+Carvedilol	Alpha-1D adrenergic receptor	1.0
+Clonidine	Alpha-1D adrenergic receptor	1.0
+Clozapine	Alpha-1D adrenergic receptor	1.0
+Risperidone	Alpha-1D adrenergic receptor	1.0
+Nifedipine	Alpha-1D adrenergic receptor	1.0
+Olanzapine	Alpha-1D adrenergic receptor	1.0
+Meperidine	Alpha-1D adrenergic receptor	1.0
+Pindolol	Alpha-1D adrenergic receptor	1.0
+Clonidine	Alpha-1D adrenergic receptor	1.0
+Guanadrel	Alpha-1D adrenergic receptor	1.0
+Cimetidine	Alpha-1D adrenergic receptor	1.0
+Epinephrine	Alpha-1D adrenergic receptor	1.0
+Methoxamine	Alpha-1D adrenergic receptor	1.0
+Oxymetazoline	Alpha-1D adrenergic receptor	1.0
+Tamsulosin	Alpha-1D adrenergic receptor	1.0
+Lysergic acid diethylamide	Alpha-1D adrenergic receptor	1.0
+Meperidine	Alpha-1D adrenergic receptor	1.0
+Bethanidine	Alpha-1D adrenergic receptor	1.0
+Epinastine	Alpha-1D adrenergic receptor	1.0
+Silodosin	Alpha-1D adrenergic receptor	1.0
+Pantoprazole	Alpha-1D adrenergic receptor	1.0
+AG-24322	Alpha-1D adrenergic receptor	1.0
+Guanethidine	Alpha-1D adrenergic receptor	1.0
+Verapamil	Alpha-1D adrenergic receptor	1.0
+Propiomazine	Alpha-1D adrenergic receptor	1.0
+Carvedilol	Alpha-1B adrenergic receptor	1.0
+Clonidine	Alpha-1B adrenergic receptor	1.0
+Clozapine	Alpha-1B adrenergic receptor	1.0
+Risperidone	Alpha-1B adrenergic receptor	1.0
+Olanzapine	Alpha-1B adrenergic receptor	1.0
+Meperidine	Alpha-1B adrenergic receptor	1.0
+Pindolol	Alpha-1B adrenergic receptor	1.0
+Guanadrel	Alpha-1B adrenergic receptor	1.0
+Cimetidine	Alpha-1B adrenergic receptor	1.0
+Epinephrine	Alpha-1B adrenergic receptor	1.0
+Methoxamine	Alpha-1B adrenergic receptor	1.0
+Oxymetazoline	Alpha-1B adrenergic receptor	1.0
+Tamsulosin	Alpha-1B adrenergic receptor	1.0
+Lysergic acid diethylamide	Alpha-1B adrenergic receptor	1.0
+Meperidine	Alpha-1B adrenergic receptor	1.0
+Bethanidine	Alpha-1B adrenergic receptor	1.0
+Epinastine	Alpha-1B adrenergic receptor	1.0
+Silodosin	Alpha-1B adrenergic receptor	1.0
+Pantoprazole	Alpha-1B adrenergic receptor	1.0
+AG-24322	Alpha-1B adrenergic receptor	1.0
+Guanethidine	Alpha-1B adrenergic receptor	1.0
+Verapamil	Alpha-1B adrenergic receptor	1.0
+Propiomazine	Alpha-1B adrenergic receptor	1.0
+Epinephrine	Alpha-1A adrenergic receptor	1.0
+Carvedilol	Alpha-1A adrenergic receptor	1.0
+Clonidine	Alpha-1A adrenergic receptor	1.0
+Clozapine	Alpha-1A adrenergic receptor	1.0
+Risperidone	Alpha-1A adrenergic receptor	1.0
+Nifedipine	Alpha-1A adrenergic receptor	1.0
+Olanzapine	Alpha-1A adrenergic receptor	1.0
+Promethazine	Alpha-1A adrenergic receptor	1.0
+Perphenazine	Alpha-1A adrenergic receptor	1.0
+Meperidine	Alpha-1A adrenergic receptor	1.0
+Pindolol	Alpha-1A adrenergic receptor	1.0
+Guanadrel	Alpha-1A adrenergic receptor	1.0
+Cimetidine	Alpha-1A adrenergic receptor	1.0
+Norgestrel	Alpha-1A adrenergic receptor	1.0
+Nilutamide	Alpha-1A adrenergic receptor	1.0
+Epinephrine	Alpha-1A adrenergic receptor	1.0
+Methoxamine	Alpha-1A adrenergic receptor	1.0
+Oxymetazoline	Alpha-1A adrenergic receptor	1.0
+Tamsulosin	Alpha-1A adrenergic receptor	1.0
+Lysergic acid diethylamide	Alpha-1A adrenergic receptor	1.0
+Meperidine	Alpha-1A adrenergic receptor	1.0
+Bethanidine	Alpha-1A adrenergic receptor	1.0
+2-(3,4-Dihydroxyphenyl)Acetic Acid	Alpha-1A adrenergic receptor	1.0
+Epinastine	Alpha-1A adrenergic receptor	1.0
+Silodosin	Alpha-1A adrenergic receptor	1.0
+Pantoprazole	Alpha-1A adrenergic receptor	1.0
+AG-24322	Alpha-1A adrenergic receptor	1.0
+Guanethidine	Alpha-1A adrenergic receptor	1.0
+Verapamil	Alpha-1A adrenergic receptor	1.0
+Propiomazine	Alpha-1A adrenergic receptor	1.0
+Maprotiline	Alpha-1A adrenergic receptor	1.0
+Amiodarone	Alpha-1A adrenergic receptor	1.0
+Haloperidol	Alpha-2A adrenergic receptor	1.0
+Carvedilol	Alpha-2A adrenergic receptor	1.0
+Chlorpromazine	Alpha-2A adrenergic receptor	1.0
+Clonidine	Alpha-2A adrenergic receptor	1.0
+Clozapine	Alpha-2A adrenergic receptor	1.0
+Gabapentin	Alpha-2A adrenergic receptor	1.0
+Nifedipine	Alpha-2A adrenergic receptor	1.0
+Olanzapine	Alpha-2A adrenergic receptor	1.0
+Meperidine	Alpha-2A adrenergic receptor	1.0
+Pindolol	Alpha-2A adrenergic receptor	1.0
+Dexmedetomidine	Alpha-2A adrenergic receptor	1.0
+Mirtazapine	Alpha-2A adrenergic receptor	1.0
+Clonidine	Alpha-2A adrenergic receptor	1.0
+Lysergic acid diethylamide	Alpha-2A adrenergic receptor	1.0
+Guanadrel	Alpha-2A adrenergic receptor	1.0
+Cimetidine	Alpha-2A adrenergic receptor	1.0
+Fenoldopam	Alpha-2A adrenergic receptor	1.0
+Epinephrine	Alpha-2A adrenergic receptor	1.0
+Oxymetazoline	Alpha-2A adrenergic receptor	1.0
+Bethanidine	Alpha-2A adrenergic receptor	1.0
+Epinastine	Alpha-2A adrenergic receptor	1.0
+Brimonidine	Alpha-2A adrenergic receptor	1.0
+Pantoprazole	Alpha-2A adrenergic receptor	1.0
+Guanethidine	Alpha-2A adrenergic receptor	1.0
+Dipivefrin	Alpha-2A adrenergic receptor	1.0
+Verapamil	Alpha-2A adrenergic receptor	1.0
+Meperidine	Alpha-2A adrenergic receptor	1.0
+Doxylamine	Alpha-2A adrenergic receptor	1.0
+Guanabenz	Alpha-2A adrenergic receptor	1.0
+Haloperidol	Alpha-2B adrenergic receptor	1.0
+Carvedilol	Alpha-2B adrenergic receptor	1.0
+Chlorpromazine	Alpha-2B adrenergic receptor	1.0
+Clonidine	Alpha-2B adrenergic receptor	1.0
+Clozapine	Alpha-2B adrenergic receptor	1.0
+Nifedipine	Alpha-2B adrenergic receptor	1.0
+Olanzapine	Alpha-2B adrenergic receptor	1.0
+Meperidine	Alpha-2B adrenergic receptor	1.0
+Pindolol	Alpha-2B adrenergic receptor	1.0
+Mirtazapine	Alpha-2B adrenergic receptor	1.0
+Clonidine	Alpha-2B adrenergic receptor	1.0
+Lysergic acid diethylamide	Alpha-2B adrenergic receptor	1.0
+Guanadrel	Alpha-2B adrenergic receptor	1.0
+Cimetidine	Alpha-2B adrenergic receptor	1.0
+Fenoldopam	Alpha-2B adrenergic receptor	1.0
+Epinephrine	Alpha-2B adrenergic receptor	1.0
+Oxymetazoline	Alpha-2B adrenergic receptor	1.0
+Bethanidine	Alpha-2B adrenergic receptor	1.0
+Epinastine	Alpha-2B adrenergic receptor	1.0
+Brimonidine	Alpha-2B adrenergic receptor	1.0
+Pantoprazole	Alpha-2B adrenergic receptor	1.0
+Guanethidine	Alpha-2B adrenergic receptor	1.0
+Verapamil	Alpha-2B adrenergic receptor	1.0
+Meperidine	Alpha-2B adrenergic receptor	1.0
+Doxylamine	Alpha-2B adrenergic receptor	1.0
+Clonidine	Alpha-2C adrenergic receptor	1.0
+Meperidine	Alpha-2C adrenergic receptor	1.0
+Clonidine	Alpha-2C adrenergic receptor	1.0
+Lysergic acid diethylamide	Alpha-2C adrenergic receptor	1.0
+Guanadrel	Alpha-2C adrenergic receptor	1.0
+Cimetidine	Alpha-2C adrenergic receptor	1.0
+Fenoldopam	Alpha-2C adrenergic receptor	1.0
+Epinephrine	Alpha-2C adrenergic receptor	1.0
+Oxymetazoline	Alpha-2C adrenergic receptor	1.0
+Bethanidine	Alpha-2C adrenergic receptor	1.0
+Brimonidine	Alpha-2C adrenergic receptor	1.0
+Pantoprazole	Alpha-2C adrenergic receptor	1.0
+Guanethidine	Alpha-2C adrenergic receptor	1.0
+Meperidine	Alpha-2C adrenergic receptor	1.0
+Doxylamine	Alpha-2C adrenergic receptor	1.0
+Epinephrine	Beta-1 adrenergic receptor	1.0
+Atenolol	Beta-1 adrenergic receptor	1.0
+Carvedilol	Beta-1 adrenergic receptor	1.0
+Nadolol	Beta-1 adrenergic receptor	1.0
+Nifedipine	Beta-1 adrenergic receptor	1.0
+Olanzapine	Beta-1 adrenergic receptor	1.0
+Meperidine	Beta-1 adrenergic receptor	1.0
+Pindolol	Beta-1 adrenergic receptor	1.0
+Betaxolol	Beta-1 adrenergic receptor	1.0
+Etodolac	Beta-1 adrenergic receptor	1.0
+Glutathione	Beta-1 adrenergic receptor	1.0
+Metoprolol	Beta-1 adrenergic receptor	1.0
+Bretylium	Beta-1 adrenergic receptor	1.0
+Epinephrine	Beta-1 adrenergic receptor	1.0
+Isoprenaline	Beta-1 adrenergic receptor	1.0
+Celecoxib	Beta-1 adrenergic receptor	1.0
+Dexrazoxane	Beta-1 adrenergic receptor	1.0
+Pantoprazole	Beta-1 adrenergic receptor	1.0
+Agerafenib	Beta-1 adrenergic receptor	1.0
+Acebutolol	Beta-1 adrenergic receptor	1.0
+Bisoprolol	Beta-1 adrenergic receptor	1.0
+Metoprolol	Beta-1 adrenergic receptor	1.0
+Metipranolol	Beta-1 adrenergic receptor	1.0
+Demeclocycline	Beta-1 adrenergic receptor	1.0
+Amiodarone	Beta-1 adrenergic receptor	1.0
+Lysergic acid diethylamide	Beta-1 adrenergic receptor	1.0
+Dacarbazine	Beta-1 adrenergic receptor	1.0
+Dobutamine	Beta-1 adrenergic receptor	1.0
+Cholecalciferol	Beta-1 adrenergic receptor	1.0
+Cytarabine	Beta-1 adrenergic receptor	1.0
+Isoetharine	Beta-1 adrenergic receptor	1.0
+Epinephrine	Beta-2 adrenergic receptor	1.0
+Atenolol	Beta-2 adrenergic receptor	1.0
+Carvedilol	Beta-2 adrenergic receptor	1.0
+Nadolol	Beta-2 adrenergic receptor	1.0
+Nifedipine	Beta-2 adrenergic receptor	1.0
+Olanzapine	Beta-2 adrenergic receptor	1.0
+Meperidine	Beta-2 adrenergic receptor	1.0
+Pindolol	Beta-2 adrenergic receptor	1.0
+Betaxolol	Beta-2 adrenergic receptor	1.0
+Etodolac	Beta-2 adrenergic receptor	1.0
+Glutathione	Beta-2 adrenergic receptor	1.0
+Metoprolol	Beta-2 adrenergic receptor	1.0
+Bretylium	Beta-2 adrenergic receptor	1.0
+Hydroxypropyl cellulose	Beta-2 adrenergic receptor	1.0
+Bitolterol	Beta-2 adrenergic receptor	1.0
+Salmeterol	Beta-2 adrenergic receptor	1.0
+Terbutaline	Beta-2 adrenergic receptor	1.0
+Epinephrine	Beta-2 adrenergic receptor	1.0
+Pentobarbital	Beta-2 adrenergic receptor	1.0
+Isoprenaline	Beta-2 adrenergic receptor	1.0
+Celecoxib	Beta-2 adrenergic receptor	1.0
+Dexrazoxane	Beta-2 adrenergic receptor	1.0
+Salbutamol	Beta-2 adrenergic receptor	1.0
+Pantoprazole	Beta-2 adrenergic receptor	1.0
+Agerafenib	Beta-2 adrenergic receptor	1.0
+Acebutolol	Beta-2 adrenergic receptor	1.0
+Bisoprolol	Beta-2 adrenergic receptor	1.0
+Ritodrine	Beta-2 adrenergic receptor	1.0
+Metipranolol	Beta-2 adrenergic receptor	1.0
+Lysergic acid diethylamide	Beta-2 adrenergic receptor	1.0
+Dacarbazine	Beta-2 adrenergic receptor	1.0
+Dobutamine	Beta-2 adrenergic receptor	1.0
+Cholecalciferol	Beta-2 adrenergic receptor	1.0
+Cytarabine	Beta-2 adrenergic receptor	1.0
+Salmeterol	Beta-2 adrenergic receptor	1.0
+Carvedilol	Beta-3 adrenergic receptor	1.0
+Nadolol	Beta-3 adrenergic receptor	1.0
+Nifedipine	Beta-3 adrenergic receptor	1.0
+Olanzapine	Beta-3 adrenergic receptor	1.0
+Meperidine	Beta-3 adrenergic receptor	1.0
+Pindolol	Beta-3 adrenergic receptor	1.0
+Epinephrine	Beta-3 adrenergic receptor	1.0
+Isoprenaline	Beta-3 adrenergic receptor	1.0
+Celecoxib	Beta-3 adrenergic receptor	1.0
+Dexrazoxane	Beta-3 adrenergic receptor	1.0
+Pantoprazole	Beta-3 adrenergic receptor	1.0
+Agerafenib	Beta-3 adrenergic receptor	1.0
+Acebutolol	Beta-3 adrenergic receptor	1.0
+Metipranolol	Beta-3 adrenergic receptor	1.0
+Lysergic acid diethylamide	Beta-3 adrenergic receptor	1.0
+Dobutamine	Beta-3 adrenergic receptor	1.0
+Levodopa	D	1.0
+Cocaine	D	1.0
+Chlorpromazine	D	1.0
+Clozapine	D	1.0
+Olanzapine	D	1.0
+Prochlorperazine	D	1.0
+Perphenazine	D	1.0
+Pimozide	D	1.0
+Fenoldopam	D	1.0
+Chlorprothixene	D	1.0
+Cinnarizine	D	1.0
+Thiethylperazine	D	1.0
+Propiomazine	D	1.0
+Mesoridazine	D	1.0
+Levodopa	D	1.0
+Haloperidol	D	1.0
+Chlorpromazine	D	1.0
+Clozapine	D	1.0
+Olanzapine	D	1.0
+Prochlorperazine	D	1.0
+Promethazine	D	1.0
+Perphenazine	D	1.0
+Pimozide	D	1.0
+Metoclopramide	D	1.0
+Bromocriptine	D	1.0
+Chlorprothixene	D	1.0
+Cabergoline	D	1.0
+Aripiprazole	D	1.0
+Cinnarizine	D	1.0
+Lisuride	D	1.0
+Domperidone	D	1.0
+Loxapine	D	1.0
+Thiethylperazine	D	1.0
+Propiomazine	D	1.0
+Mesoridazine	D	1.0
+Bromocriptine	D	1.0
+Cocaine	D	1.0
+Haloperidol	D	1.0
+Chlorpromazine	D	1.0
+Olanzapine	D	1.0
+Prochlorperazine	D	1.0
+Perphenazine	D	1.0
+Pramipexole	D	1.0
+Pimozide	D	1.0
+Metoclopramide	D	1.0
+Aripiprazole	D	1.0
+Cinnarizine	D	1.0
+Loxapine	D	1.0
+Mesoridazine	D	1.0
+Clozapine	D	1.0
+Olanzapine	D	1.0
+Thiethylperazine	D	1.0
+Propiomazine	D	1.0
+Chlorpromazine	D	1.0
+Clozapine	D	1.0
+Olanzapine	D	1.0
+Prochlorperazine	D	1.0
+Pimozide	D	1.0
+Fenoldopam	D	1.0
+Cinnarizine	D	1.0
+Mesoridazine	D	1.0
+Valsartan	Type-1 angiotensin II receptor	1.0
+Spironolactone	Type-1 angiotensin II receptor	1.0
+Candesartan	Type-1 angiotensin II receptor	1.0
+Irbesartan	Type-1 angiotensin II receptor	1.0
+Telmisartan	Type-1 angiotensin II receptor	1.0
+Eprosartan	Type-1 angiotensin II receptor	1.0
+Eprosartan	Type-1 angiotensin II receptor	1.0
+Olmesartan	Type-1 angiotensin II receptor	1.0
+Bosentan	Endothelin-1 receptor	1.0
+Bosentan	Endothelin receptor type B	1.0
+Arginine	G-protein coupled receptor family C group 6 member A	1.0
+Lysine	G-protein coupled receptor family C group 6 member A	1.0
+Liothyronine	G-protein coupled receptor family C group 6 member A	1.0
+Levocabastine	Neurotensin receptor type 2	1.0
+Baclofen	Gamma-aminobutyric acid type B receptor subunit 1	1.0
+Caffeine	Lysophosphatidic acid receptor 4	1.0
+Riluzole	Metabotropic glutamate receptor 1	1.0
+Riluzole	Metabotropic glutamate receptor 2	1.0
+Prednisolone	Metabotropic glutamate receptor 2	1.0
+Riluzole	Metabotropic glutamate receptor 3	1.0
+Prednisolone	Metabotropic glutamate receptor 3	1.0
+Riluzole	Metabotropic glutamate receptor 4	1.0
+Riluzole	Metabotropic glutamate receptor 5	1.0
+Riluzole	Metabotropic glutamate receptor 6	1.0
+Prednisolone	Metabotropic glutamate receptor 6	1.0
+Riluzole	Metabotropic glutamate receptor 7	1.0
+Riluzole	Metabotropic glutamate receptor 8	1.0
+Bentiromide	Metabotropic glutamate receptor 8	1.0
+Prednisolone	Metabotropic glutamate receptor 8	1.0
+Astemizole	Histamine H1 receptor	1.0
+Clozapine	Histamine H1 receptor	1.0
+Diphenhydramine	Histamine H1 receptor	1.0
+Loratadine	Histamine H1 receptor	1.0
+Olanzapine	Histamine H1 receptor	1.0
+Promethazine	Histamine H1 receptor	1.0
+Prochlorperazine	Histamine H1 receptor	1.0
+Promethazine	Histamine H1 receptor	1.0
+Dimenhydrinate	Histamine H1 receptor	1.0
+Terfenadine	Histamine H1 receptor	1.0
+Chlorpheniramine	Histamine H1 receptor	1.0
+Clemastine	Histamine H1 receptor	1.0
+CH-5132799	Histamine H1 receptor	1.0
+Cinnarizine	Histamine H1 receptor	1.0
+Mequitazine	Histamine H1 receptor	1.0
+Ketotifen	Histamine H1 receptor	1.0
+Epinastine	Histamine H1 receptor	1.0
+Levocabastine	Histamine H1 receptor	1.0
+Triprolidine	Histamine H1 receptor	1.0
+Doxylamine	Histamine H1 receptor	1.0
+Thiethylperazine	Histamine H1 receptor	1.0
+Propiomazine	Histamine H1 receptor	1.0
+Maprotiline	Histamine H1 receptor	1.0
+Cyclizine	Histamine H1 receptor	1.0
+Methdilazine	Histamine H1 receptor	1.0
+Nedocromil	Histamine H1 receptor	1.0
+Cimetidine	Histamine H2 receptor	1.0
+Famotidine	Histamine H2 receptor	1.0
+Ranitidine	Histamine H2 receptor	1.0
+Nizatidine	Histamine H2 receptor	1.0
+Ranitidine	Histamine H2 receptor	1.0
+Epinastine	Histamine H2 receptor	1.0
+Cimetidine	Histamine H2 receptor	1.0
+Clozapine	5-hydroxytryptamine receptor 1A	1.0
+Sumatriptan	5-hydroxytryptamine receptor 1A	1.0
+Pindolol	5-hydroxytryptamine receptor 1A	1.0
+Metoclopramide	5-hydroxytryptamine receptor 1A	1.0
+Lysergic acid diethylamide	5-hydroxytryptamine receptor 1A	1.0
+Aripiprazole	5-hydroxytryptamine receptor 1A	1.0
+Eletriptan	5-hydroxytryptamine receptor 1A	1.0
+Clozapine	5-hydroxytryptamine receptor 1B	1.0
+Zolmitriptan	5-hydroxytryptamine receptor 1B	1.0
+Sumatriptan	5-hydroxytryptamine receptor 1B	1.0
+Pindolol	5-hydroxytryptamine receptor 1B	1.0
+Rizatriptan	5-hydroxytryptamine receptor 1B	1.0
+Sumatriptan	5-hydroxytryptamine receptor 1B	1.0
+Metoclopramide	5-hydroxytryptamine receptor 1B	1.0
+Eletriptan	5-hydroxytryptamine receptor 1B	1.0
+Pentobarbital	5-hydroxytryptamine receptor 1B	1.0
+Pentobarbital	5-hydroxytryptamine receptor 1B	1.0
+Clozapine	5-hydroxytryptamine receptor 1D	1.0
+Zolmitriptan	5-hydroxytryptamine receptor 1D	1.0
+Sumatriptan	5-hydroxytryptamine receptor 1D	1.0
+Pindolol	5-hydroxytryptamine receptor 1D	1.0
+Rizatriptan	5-hydroxytryptamine receptor 1D	1.0
+Sumatriptan	5-hydroxytryptamine receptor 1D	1.0
+Metoclopramide	5-hydroxytryptamine receptor 1D	1.0
+Eletriptan	5-hydroxytryptamine receptor 1D	1.0
+Pentobarbital	5-hydroxytryptamine receptor 1D	1.0
+Pentobarbital	5-hydroxytryptamine receptor 1D	1.0
+Clozapine	5-hydroxytryptamine receptor 1E	1.0
+Sumatriptan	5-hydroxytryptamine receptor 1E	1.0
+Pindolol	5-hydroxytryptamine receptor 1E	1.0
+Metoclopramide	5-hydroxytryptamine receptor 1E	1.0
+Eletriptan	5-hydroxytryptamine receptor 1E	1.0
+Clozapine	5-hydroxytryptamine receptor 1F	1.0
+Sumatriptan	5-hydroxytryptamine receptor 1F	1.0
+Pindolol	5-hydroxytryptamine receptor 1F	1.0
+Naratriptan	5-hydroxytryptamine receptor 1F	1.0
+Sumatriptan	5-hydroxytryptamine receptor 1F	1.0
+Metoclopramide	5-hydroxytryptamine receptor 1F	1.0
+Eletriptan	5-hydroxytryptamine receptor 1F	1.0
+Chlorpromazine	5-hydroxytryptamine receptor 2A	1.0
+Clozapine	5-hydroxytryptamine receptor 2A	1.0
+Risperidone	5-hydroxytryptamine receptor 2A	1.0
+Sumatriptan	5-hydroxytryptamine receptor 2A	1.0
+Olanzapine	5-hydroxytryptamine receptor 2A	1.0
+Prochlorperazine	5-hydroxytryptamine receptor 2A	1.0
+Promethazine	5-hydroxytryptamine receptor 2A	1.0
+Pindolol	5-hydroxytryptamine receptor 2A	1.0
+Mirtazapine	5-hydroxytryptamine receptor 2A	1.0
+Metoclopramide	5-hydroxytryptamine receptor 2A	1.0
+Lysergic acid diethylamide	5-hydroxytryptamine receptor 2A	1.0
+Aripiprazole	5-hydroxytryptamine receptor 2A	1.0
+Meperidine	5-hydroxytryptamine receptor 2A	1.0
+Epinastine	5-hydroxytryptamine receptor 2A	1.0
+Loxapine	5-hydroxytryptamine receptor 2A	1.0
+Thiethylperazine	5-hydroxytryptamine receptor 2A	1.0
+Methysergide	5-hydroxytryptamine receptor 2A	1.0
+Propiomazine	5-hydroxytryptamine receptor 2A	1.0
+Mesoridazine	5-hydroxytryptamine receptor 2A	1.0
+Clozapine	5-hydroxytryptamine receptor 2B	1.0
+Sumatriptan	5-hydroxytryptamine receptor 2B	1.0
+Pindolol	5-hydroxytryptamine receptor 2B	1.0
+Metoclopramide	5-hydroxytryptamine receptor 2B	1.0
+Aripiprazole	5-hydroxytryptamine receptor 2B	1.0
+Eletriptan	5-hydroxytryptamine receptor 2B	1.0
+Clozapine	5-hydroxytryptamine receptor 2C	1.0
+Sumatriptan	5-hydroxytryptamine receptor 2C	1.0
+Olanzapine	5-hydroxytryptamine receptor 2C	1.0
+Pindolol	5-hydroxytryptamine receptor 2C	1.0
+Mirtazapine	5-hydroxytryptamine receptor 2C	1.0
+Metoclopramide	5-hydroxytryptamine receptor 2C	1.0
+Aripiprazole	5-hydroxytryptamine receptor 2C	1.0
+Thiethylperazine	5-hydroxytryptamine receptor 2C	1.0
+Propiomazine	5-hydroxytryptamine receptor 2C	1.0
+Agomelatine	5-hydroxytryptamine receptor 2C	1.0
+Cisapride	5-hydroxytryptamine receptor 4	1.0
+Clozapine	5-hydroxytryptamine receptor 4	1.0
+Sumatriptan	5-hydroxytryptamine receptor 4	1.0
+Pindolol	5-hydroxytryptamine receptor 4	1.0
+Metoclopramide	5-hydroxytryptamine receptor 4	1.0
+Dihydromorphine	5-hydroxytryptamine receptor 4	1.0
+Tegaserod	5-hydroxytryptamine receptor 4	1.0
+Cisapride	5-hydroxytryptamine receptor 4	1.0
+Clozapine	5-hydroxytryptamine receptor 5A	1.0
+Sumatriptan	5-hydroxytryptamine receptor 5A	1.0
+Pindolol	5-hydroxytryptamine receptor 5A	1.0
+Metoclopramide	5-hydroxytryptamine receptor 5A	1.0
+Clozapine	5-hydroxytryptamine receptor 6	1.0
+Sumatriptan	5-hydroxytryptamine receptor 6	1.0
+Olanzapine	5-hydroxytryptamine receptor 6	1.0
+Pindolol	5-hydroxytryptamine receptor 6	1.0
+Metoclopramide	5-hydroxytryptamine receptor 6	1.0
+Clozapine	5-hydroxytryptamine receptor 7	1.0
+Lysergic acid diethylamide	5-hydroxytryptamine receptor 7	1.0
+Eletriptan	5-hydroxytryptamine receptor 7	1.0
+Niacin	Hydroxycarboxylic acid receptor 2	1.0
+Methoxsalen	C-X-C chemokine receptor type 1	1.0
+Alprazolam	C-X-C chemokine receptor type 1	1.0
+Tolbutamide	C-X-C chemokine receptor type 1	1.0
+Trimipramine	C-X-C chemokine receptor type 1	1.0
+Metyrapone	C-X-C chemokine receptor type 1	1.0
+Nifedipine	C-X-C chemokine receptor type 1	1.0
+Caffeine	C-X-C chemokine receptor type 1	1.0
+Halothane	C-X-C chemokine receptor type 1	1.0
+Aminoglutethimide	C-X-C chemokine receptor type 1	1.0
+Hexobarbital	C-X-C chemokine receptor type 1	1.0
+Agomelatine	Melatonin receptor type 1A	1.0
+Pimozide	Delta-type opioid receptor	1.0
+Oxycodone	Delta-type opioid receptor	1.0
+Cocaine	Kappa-type opioid receptor	1.0
+Butorphanol	Kappa-type opioid receptor	1.0
+Dezocine	Kappa-type opioid receptor	1.0
+Oxycodone	Kappa-type opioid receptor	1.0
+Diphenoxylate	Mu-type opioid receptor	1.0
+Pentazocine	Mu-type opioid receptor	1.0
+Butorphanol	Mu-type opioid receptor	1.0
+Dezocine	Mu-type opioid receptor	1.0
+Sufentanil	Mu-type opioid receptor	1.0
+Levacetylmethadol	Mu-type opioid receptor	1.0
+Naltrexone	Mu-type opioid receptor	1.0
+Oxycodone	Mu-type opioid receptor	1.0
+Sufentanil	Mu-type opioid receptor	1.0
+Caffeine	P2Y purinoceptor 1	1.0
+Caffeine	P2Y purinoceptor 2	1.0
+Caffeine	P2Y purinoceptor 4	1.0
+Caffeine	P2Y purinoceptor 6	1.0
+Caffeine	P2Y purinoceptor 11	1.0
+Glucosamine	Vasopressin V1a receptor	1.0
+Glucosamine	Vasopressin V2 receptor	1.0
+Zafirlukast	Leukotriene B4 receptor 2	1.0
+Zafirlukast	Cysteinyl leukotriene receptor 2	1.0
+Nedocromil	Cysteinyl leukotriene receptor 2	1.0
+Pentobarbital	Platelet-activating factor receptor	1.0
+Nedocromil	Prostaglandin D2 receptor	1.0
+Alprostadil	Prostaglandin E2 receptor EP1 subtype	1.0
+Carboprost tromethamine	Prostaglandin E2 receptor EP1 subtype	1.0
+CH-5132799	Prostaglandin E2 receptor EP1 subtype	1.0
+Pentobarbital	Prostaglandin E2 receptor EP1 subtype	1.0
+Alprostadil	Prostaglandin E2 receptor EP2 subtype	1.0
+Misoprostol	Prostaglandin E2 receptor EP2 subtype	1.0
+Pentobarbital	Prostaglandin E2 receptor EP2 subtype	1.0
+Misoprostol	Prostaglandin E2 receptor EP3 subtype	1.0
+Pentobarbital	Prostaglandin E2 receptor EP3 subtype	1.0
+Pentobarbital	Prostaglandin E2 receptor EP3 subtype	1.0
+Latanoprost	Prostaglandin F2-alpha receptor	1.0
+Dinoprost tromethamine	Prostaglandin F2-alpha receptor	1.0
+Travoprost	Prostaglandin F2-alpha receptor	1.0
+Dinoprostone	Prostacyclin receptor	1.0
+Alprostadil	Prostacyclin receptor	1.0
+Dinoprost tromethamine	Prostacyclin receptor	1.0
+CH-5132799	Prostacyclin receptor	1.0
+Astemizole	Histamine H4 receptor	1.0
+Clozapine	Histamine H4 receptor	1.0
+Diphenhydramine	Histamine H4 receptor	1.0
+Famotidine	Histamine H4 receptor	1.0
+Promethazine	Histamine H4 receptor	1.0
+Maprotiline	Histamine H4 receptor	1.0
+Palmitic Acid	Rhodopsin	1.0
+Epoprostenol	P2Y purinoceptor 12	1.0
+Caffeine	P2Y purinoceptor 12	1.0
+Clopidogrel	P2Y purinoceptor 12	1.0
+Octreotide	Somatostatin receptor type 1	1.0
+Octreotide	Somatostatin receptor type 2	1.0
+Octreotide	Somatostatin receptor type 2	1.0
+Octreotide	Somatostatin receptor type 3	1.0
+Octreotide	Somatostatin receptor type 5	1.0
+Glyburide	Thromboxane A2 receptor	1.0
+Pentobarbital	Thromboxane A2 receptor	1.0
+Pentobarbital	Thyrotropin-releasing hormone receptor	1.0
+Pentobarbital	Thyrotropin-releasing hormone receptor	1.0
+Pentobarbital	Thyrotropin-releasing hormone receptor	1.0
+Pentobarbital	Thyrotropin-releasing hormone receptor	1.0
+Carbamoylcholine	Thyrotropin-releasing hormone receptor	1.0
+Metoclopramide	Thyrotropin-releasing hormone receptor	1.0
+Nicotine	Thyrotropin-releasing hormone receptor	1.0
+Ceruletide	Cholecystokinin receptor type A	1.0
+Ceruletide	Gastrin/cholecystokinin type B receptor	1.0
+Tretinoin	Retinoic acid-induced protein 3	1.0
+Imatinib	G-protein coupled receptor 37-like 1	1.0
+Caffeine	P2Y purinoceptor 14	1.0
