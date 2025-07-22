@@ -217,7 +217,7 @@ login("your_token")
 This image shows how the drug (R)-lipoic acid is represented as an individual within the BioGenOnt ontology, loaded in Protégé. The ontology captures rich semantic information through annotations (such as labels, descriptions, and synonyms) and property assertions that link the drug to related biomedical entities :
 
 <p align="center">
-<img src="https://github.com/compbiolabucf/DTI-LM/blob/main/overall-1.png" width="450" height="450">
+<img src="https://github.com/khalilhermi/SubGraphAI/blob/main/interface/drug.png" width="450" height="450">
 </p>
 
 
