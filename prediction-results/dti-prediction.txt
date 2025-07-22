@@ -1,0 +1,300 @@
+Pyridoxal phosphate	Glycogen phosphorylase, liver form	1
+Ertapenem	Peptidoglycan D,D-transpeptidase FtsI	1
+Pyridoxal phosphate	Histidine decarboxylase	1
+Glutamic acid	Glutaminase liver isoform, mitochondrial	1
+Propylene glycol	Coagulation factor XIII A chain	1
+N-Acetyl-Serine	Coagulation factor XIII A chain	1
+Arginine	Nitric oxide synthase, inducible	1
+Citrulline	Nitric oxide synthase, inducible	1
+Miconazole	Nitric oxide synthase, inducible	1
+Dexamethasone	Nitric oxide synthase, inducible	1
+N,N-dimethylarginine	Nitric oxide synthase, inducible	1
+4R-Fluoro-N6-ethanimidoyl-L-lysine	Nitric oxide synthase, inducible	1
+3-Bromo-7-Nitroindazole	Nitric oxide synthase, inducible	1
+N-[3-(aminomethyl)benzyl]acetamidine	Nitric oxide synthase, inducible	1
+7-Nitroindazole	Nitric oxide synthase, inducible	1
+S-Ethylisothiourea	Nitric oxide synthase, inducible	1
+Thiocoumarin	Nitric oxide synthase, inducible	1
+N-omega-propyl-L-arginine	Nitric oxide synthase, inducible	1
+6-Nitroindazole	Nitric oxide synthase, inducible	1
+N(5)-[(hydroxyamino)(imino)methyl]-L-ornithine	Nitric oxide synthase, inducible	1
+Imidazole	Nitric oxide synthase, inducible	1
+N-(4-{2-[(3-chlorobenzyl)amino]ethyl}phenyl)thiophene-2-carboximidamide	Nitric oxide synthase, inducible	1
+Thiocitrulline	Nitric oxide synthase, inducible	1
+L-erythro-7,8-dihydrobiopterin	Nitric oxide synthase, inducible	1
+5-Nitroindazole	Nitric oxide synthase, inducible	1
+Fenoxaprop-ethyl	Nitric oxide synthase, inducible	1
+Pimagedine	Nitric oxide synthase, inducible	1
+5-(4'-AMINO-1'-ETHYL-5',8'-DIFLUORO-1'H-SPIRO[PIPERIDINE-4,2'-QUINAZOLINE]-1-YLCARBONYL)PICOLINONITRILE	Nitric oxide synthase, inducible	1
+N-[2-(1,3-BENZODIOXOL-5-YL)ETHYL]-1-[2-(1H-IMIDAZOL-1-YL)-6-METHYLPYRIMIDIN-4-YL]-D-PROLINAMIDE	Nitric oxide synthase, inducible	1
+4-({4-[(4-methoxypyridin-2-yl)amino]piperidin-1-yl}carbonyl)benzonitrile	Nitric oxide synthase, inducible	1
+(2S)-2-methyl-2,3-dihydrothieno[2,3-f][1,4]oxazepin-5-amine	Nitric oxide synthase, inducible	1
+(3R)-3-[(1,2,3,4-tetrahydroisoquinolin-7-yloxy)methyl]-2,3-dihydrothieno[2,3-f][1,4]oxazepin-5-amine	Nitric oxide synthase, inducible	1
+4-(1,3-BENZODIOXOL-5-YLOXY)-2-[4-(1H-IMIDAZOL-1-YL)PHENOXY]PYRIMIDINE	Nitric oxide synthase, inducible	0
+(3S)-1-(1,3-BENZODIOXOL-5-YLMETHYL)-3-[4-(1H-IMIDAZOL-1-YL)PHENOXY]PIPERIDINE	Nitric oxide synthase, inducible	1
+4-(1,3-BENZODIOXOL-5-YLOXY)-2-[4-(1H-IMIDAZOL-1-YL)PHENOXY]-6-METHYLPYRIMIDINE	Nitric oxide synthase, inducible	1
+ETHYL 4-[(4-CHLOROPYRIDIN-2-YL)AMINO]PIPERIDINE-1-CARBOXYLATE	Nitric oxide synthase, inducible	1
+N-[2-(4-AMINO-5,8-DIFLUORO-1,2-DIHYDROQUINAZOLIN-2-YL)ETHYL]-3-FURAMIDE	Nitric oxide synthase, inducible	1
+ETHYL 4-[(4-METHYLPYRIDIN-2-YL)AMINO]PIPERIDINE-1-CARBOXYLATE	Nitric oxide synthase, inducible	1
+N-[2-(6-AMINO-4-METHYLPYRIDIN-2-YL)ETHYL]-4-CYANOBENZAMIDE	Nitric oxide synthase, inducible	1
+1-(6-CYANO-3-PYRIDYLCARBONYL)-5',8'-DIFLUOROSPIRO[PIPERIDINE-4,2'(1'H)-QUINAZOLINE]-4'-AMINE	Nitric oxide synthase, inducible	1
+4-(1H-IMIDAZOL-1-YL)PHENOL	Nitric oxide synthase, inducible	1
+1-[4-(AMINOMETHYL)BENZOYL]-5'-FLUORO-1'H-SPIRO[PIPERIDINE-4,2'-QUINAZOLIN]-4'-AMINE	Nitric oxide synthase, inducible	1
+Triflusal	Nitric oxide synthase, inducible	1
+Levamlodipine	Nitric oxide synthase, inducible	1
+Dipyrithione	Nitric oxide synthase, inducible	1
+NADH	17-beta-hydroxysteroid dehydrogenase type 2	1
+Estradiol	17-beta-hydroxysteroid dehydrogenase type 2	1
+Estradiol acetate	17-beta-hydroxysteroid dehydrogenase type 2	1
+Estradiol benzoate	17-beta-hydroxysteroid dehydrogenase type 2	1
+Estradiol cypionate	17-beta-hydroxysteroid dehydrogenase type 2	1
+Estradiol dienanthate	17-beta-hydroxysteroid dehydrogenase type 2	1
+Estradiol valerate	17-beta-hydroxysteroid dehydrogenase type 2	1
+CP-526423	Glycogen phosphorylase, liver form	1
+N-beta-D-glucopyranosylacetamide	Glycogen phosphorylase, liver form	1
+Beta-D-Glucose	Glycogen phosphorylase, liver form	1
+5-Chloro-1h-Indole-2-Carboxylic Acid{[Cyclopentyl-(2-Hydroxy-Ethyl)-Carbamoyl]-Methyl}-Amide	Glycogen phosphorylase, liver form	1
+Alvocidib	Glycogen phosphorylase, liver form	1
+Cp403700, (S)-1-{2-[(5-Chloro-1h-Indole-2-Carbonyl)-Amino]-3-Phenyl-Propionyl}-Azetidine-3-Carboxylate	Glycogen phosphorylase, liver form	1
+Dexfosfoserine	Glycogen phosphorylase, liver form	1
+5-chloro-N-{4-[(1R)-1,2-dihydroxyethyl]phenyl}-1H-indole-2-carboxamide	Glycogen phosphorylase, liver form	1
+4-[3-(2-Chloro-4,5-difluoro-benzoyl)ureido]-3-trifluoromethoxybenzoic acid	Glycogen phosphorylase, liver form	1
+AVE-2865	Glycogen phosphorylase, liver form	1
+N-(2-CHLORO-4-FLUOROBENZOYL)-N'-(5-HYDROXY-2-METHOXYPHENYL)UREA	Glycogen phosphorylase, liver form	1
+Uric acid	Glycogen phosphorylase, liver form	1
+NADH	Alcohol dehydrogenase class-3	1
+Lauric acid	Alcohol dehydrogenase class-3	1
+12-Hydroxydodecanoic Acid	Alcohol dehydrogenase class-3	1
+S-Hydroxymethyl Glutathione	Alcohol dehydrogenase class-3	1
+Tetrahydrofolic acid	Aminomethyltransferase, mitochondrial	0
+NADH	Aminomethyltransferase, mitochondrial	1
+5-methyltetrahydrofolic acid	Aminomethyltransferase, mitochondrial	1
+NADH	Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial	1
+Xanthinol	Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial	1
+Tramadol	Adenosine receptor A1	1
+Theobromine	Adenosine receptor A1	1
+Tecadenoson	Adenosine receptor A1	1
+Naxifylline	Adenosine receptor A1	1
+Cannabidiol	Adenosine receptor A1	1
+Istradefylline	Adenosine receptor A1	1
+Tonapofylline	Adenosine receptor A1	1
+Rolofylline	Adenosine receptor A1	1
+ATP	Tyrosine-protein kinase ABL1	1
+Dasatinib	Tyrosine-protein kinase ABL1	1
+N-[4-Methyl-3-[[4-(3-Pyridinyl)-2-Pyrimidinyl]Amino]Phenyl]-3-Pyridinecarboxamide	Tyrosine-protein kinase ABL1	1
+Nilotinib	Tyrosine-protein kinase ABL1	1
+2-{[(6-OXO-1,6-DIHYDROPYRIDIN-3-YL)METHYL]AMINO}-N-[4-PROPYL-3-(TRIFLUOROMETHYL)PHENYL]BENZAMIDE	Tyrosine-protein kinase ABL1	1
+1-[4-(PYRIDIN-4-YLOXY)PHENYL]-3-[3-(TRIFLUOROMETHYL)PHENYL]UREA	Tyrosine-protein kinase ABL1	1
+Myristic acid	Tyrosine-protein kinase ABL1	1
+PD-166326	Tyrosine-protein kinase ABL1	1
+5-[3-(2-METHOXYPHENYL)-1H-PYRROLO[2,3-B]PYRIDIN-5-YL]-N,N-DIMETHYLPYRIDINE-3-CARBOXAMIDE	Tyrosine-protein kinase ABL1	1
+2-amino-5-[3-(1-ethyl-1H-pyrazol-5-yl)-1H-pyrrolo[2,3-b]pyridin-5-yl]-N,N-dimethylbenzamide	Tyrosine-protein kinase ABL1	1
+Regorafenib	Tyrosine-protein kinase ABL1	1
+Ponatinib	Tyrosine-protein kinase ABL1	1
+Fostamatinib	Tyrosine-protein kinase ABL1	1
+Brigatinib	Tyrosine-protein kinase ABL1	1
+Radotinib	Tyrosine-protein kinase ABL1	1
+Dihomo-gamma-linolenic acid	Prostaglandin G/H synthase 1	1
+Icosapent	Prostaglandin G/H synthase 1	1
+Diethylcarbamazine	Prostaglandin G/H synthase 1	1
+Carprofen	Prostaglandin G/H synthase 1	1
+Bromfenac	Prostaglandin G/H synthase 1	1
+Balsalazide	Prostaglandin G/H synthase 1	1
+Salsalate	Prostaglandin G/H synthase 1	1
+Antrafenine	Prostaglandin G/H synthase 1	1
+Antipyrine	Prostaglandin G/H synthase 1	1
+O-acetyl-L-serine	Prostaglandin G/H synthase 1	1
+Hyperforin	Prostaglandin G/H synthase 1	1
+(+)-2-(4-biphenyl)propionic acid	Prostaglandin G/H synthase 1	1
+Protoporphyrin Ix Containing Co	Prostaglandin G/H synthase 1	1
+2-Bromoacetyl Group	Prostaglandin G/H synthase 1	1
+Flufenamic acid	Prostaglandin G/H synthase 1	1
+Beta-D-Glucose	Prostaglandin G/H synthase 1	1
+Resveratrol	Prostaglandin G/H synthase 1	1
+(3-Chloro-4-Propoxy-Phenyl)-Acetic Acid	Prostaglandin G/H synthase 1	1
+Acetic Acid Salicyloyl-Amino-Ester	Prostaglandin G/H synthase 1	1
+P-(2'-Iodo-5'-Thenoyl)Hydrotropic Acid	Prostaglandin G/H synthase 1	1
+Flurbiprofen Methyl Ester	Prostaglandin G/H synthase 1	1
+Niflumic acid	Prostaglandin G/H synthase 1	1
+Arachidonic Acid	Prostaglandin G/H synthase 1	1
+Metamizole	Prostaglandin G/H synthase 1	1
+Aceclofenac	Prostaglandin G/H synthase 1	1
+Nepafenac	Prostaglandin G/H synthase 1	1
+2-[1-(4-chlorobenzoyl)-5-methoxy-2-methyl-1H-indol-3-yl]-n-[(1R)-1-(hydroxymethyl)propyl]acetamide	Prostaglandin G/H synthase 1	1
+1-(4-IODOBENZOYL)-5-METHOXY-2-METHYL INDOLE-3-ACETIC ACID	Prostaglandin G/H synthase 1	1
+2-[1-(4-chlorobenzoyl)-5-methoxy-2-methyl-1H-indol-3-yl]-n-[(1S)-1-(hydroxymethyl)propyl]acetamide	Prostaglandin G/H synthase 1	1
+Triflusal	Prostaglandin G/H synthase 1	1
+Cannabidiol	Prostaglandin G/H synthase 1	1
+Loxoprofen	Prostaglandin G/H synthase 1	1
+Dexibuprofen	Prostaglandin G/H synthase 1	1
+Dexketoprofen	Prostaglandin G/H synthase 1	1
+Droxicam	Prostaglandin G/H synthase 1	1
+Propacetamol	Prostaglandin G/H synthase 1	1
+Talniflumate	Prostaglandin G/H synthase 1	1
+Phenyl salicylate	Prostaglandin G/H synthase 1	1
+Menthyl salicylate	Prostaglandin G/H synthase 1	1
+Glycol salicylate	Prostaglandin G/H synthase 1	1
+Nitroaspirin	Prostaglandin G/H synthase 1	1
+Bufexamac	Prostaglandin G/H synthase 1	1
+Bendazac	Prostaglandin G/H synthase 1	1
+ATP	G protein-coupled receptor kinase 3	1
+Lymecycline	Small ribosomal subunit protein uS4	1
+Clomocycline	Small ribosomal subunit protein uS4	0
+Oxytetracycline	Small ribosomal subunit protein uS4	1
+Demeclocycline	Small ribosomal subunit protein uS4	1
+Minocycline	Small ribosomal subunit protein uS4	1
+Eravacycline	Small ribosomal subunit protein uS4	1
+Flucytosine	Thymidylate synthase	0
+Succinic acid	Solute carrier family 13 member 1	1
+Sorafenib	Vascular endothelial growth factor receptor 3	1
+Sunitinib	Vascular endothelial growth factor receptor 3	1
+Vatalanib	Vascular endothelial growth factor receptor 3	1
+TG-100801	Vascular endothelial growth factor receptor 3	1
+Denibulin	Vascular endothelial growth factor receptor 3	1
+Pazopanib	Vascular endothelial growth factor receptor 3	1
+Regorafenib	Vascular endothelial growth factor receptor 3	1
+Lenvatinib	Vascular endothelial growth factor receptor 3	1
+Nintedanib	Vascular endothelial growth factor receptor 3	1
+Fostamatinib	Vascular endothelial growth factor receptor 3	1
+Triamterene	Epithelial sodium channel subunit beta	1
+Halofuginone	Collagen alpha-1	0
+Vindesine	Tubulin beta-1 chain	1
+Paclitaxel	Tubulin beta-1 chain	1
+Docetaxel	Tubulin beta-1 chain	1
+Epothilone D	Tubulin beta-1 chain	1
+Patupilone	Tubulin beta-1 chain	1
+Cabazitaxel	Tubulin beta-1 chain	1
+Eribulin	Tubulin beta-1 chain	1
+Milataxel	Tubulin beta-1 chain	1
+Phenethyl Isothiocyanate	Tubulin beta-1 chain	0
+NADH	NADH dehydrogenase [ubiquinone] flavoprotein 3, mitochondrial	1
+Ubidecarenone	NADH dehydrogenase [ubiquinone] flavoprotein 3, mitochondrial	1
+Sorafenib	Vascular endothelial growth factor receptor 1	1
+Sunitinib	Vascular endothelial growth factor receptor 1	1
+Vatalanib	Vascular endothelial growth factor receptor 1	1
+TG-100801	Vascular endothelial growth factor receptor 1	1
+OSI-930	Vascular endothelial growth factor receptor 1	1
+Denibulin	Vascular endothelial growth factor receptor 1	1
+Pazopanib	Vascular endothelial growth factor receptor 1	1
+N-(4-chlorophenyl)-2-[(pyridin-4-ylmethyl)amino]benzamide	Vascular endothelial growth factor receptor 1	1
+Regorafenib	Vascular endothelial growth factor receptor 1	1
+Lenvatinib	Vascular endothelial growth factor receptor 1	1
+Nintedanib	Vascular endothelial growth factor receptor 1	1
+Fostamatinib	Vascular endothelial growth factor receptor 1	1
+Cystine	Cystine/glutamate transporter	1
+Glutamic acid	Cystine/glutamate transporter	1
+Riluzole	Cystine/glutamate transporter	1
+Sulfasalazine	Cystine/glutamate transporter	1
+Acetylcysteine	Cystine/glutamate transporter	1
+NADH	7-dehydrocholesterol reductase	1
+Vitamin A	Dehydrogenase/reductase SDR family member 4	1
+Adenosine-5'-[Beta, Gamma-Methylene]Triphosphate	Insulin receptor	1
+[4-({5-(AMINOCARBONYL)-4-[(3-METHYLPHENYL)AMINO]PYRIMIDIN-2-YL}AMINO)PHENYL]ACETIC ACID	Insulin receptor	1
+Fostamatinib	Insulin receptor	1
+Brigatinib	Insulin receptor	1
+Ethambutol	Probable arabinosyltransferase A	1
+Cystine	Cystinosin	1
+Sorafenib	RAF proto-oncogene serine/threonine-protein kinase	1
+Regorafenib	RAF proto-oncogene serine/threonine-protein kinase	1
+Dabrafenib	RAF proto-oncogene serine/threonine-protein kinase	1
+Fostamatinib	RAF proto-oncogene serine/threonine-protein kinase	1
+NADH	NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial	1
+Pyridoxal	Pyridoxal kinase	1
+Pyridoxine	Pyridoxal kinase	1
+Adenosine-5'-[Beta, Gamma-Methylene]Triphosphate	Pyridoxal kinase	1
+O6-(R)-ROSCOVITINE, R-2-(6-BENZYLOXY-9-ISOPROPYL-9H-PURIN-2-YLAMINO)-BUTAN-1-OL	Pyridoxal kinase	1
+(2R)-2-({6-[benzyl(methyl)amino]-9-isopropyl-9H-purin-2-yl}amino)butan-1-ol	Pyridoxal kinase	1
+Sitaxentan	Endothelin receptor type B	1
+Ambrisentan	Endothelin receptor type B	1
+Enrasentan	Endothelin receptor type B	1
+Tezosentan	Endothelin receptor type B	1
+Macitentan	Endothelin receptor type B	1
+NADH	Sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating	1
+Cevimeline	Muscarinic acetylcholine receptor M3	1
+Tramadol	Muscarinic acetylcholine receptor M3	1
+Succinylcholine	Muscarinic acetylcholine receptor M3	1
+Ziprasidone	Muscarinic acetylcholine receptor M3	1
+Ipratropium	Muscarinic acetylcholine receptor M3	1
+Trihexyphenidyl	Muscarinic acetylcholine receptor M3	1
+Oxyphencyclimine	Muscarinic acetylcholine receptor M3	1
+Procyclidine	Muscarinic acetylcholine receptor M3	1
+Promazine	Muscarinic acetylcholine receptor M3	1
+Hyoscyamine	Muscarinic acetylcholine receptor M3	1
+Imipramine	Muscarinic acetylcholine receptor M3	1
+Tridihexethyl	Muscarinic acetylcholine receptor M3	1
+Nortriptyline	Muscarinic acetylcholine receptor M3	1
+Thiopental	Muscarinic acetylcholine receptor M3	1
+Nicardipine	Muscarinic acetylcholine receptor M3	1
+Scopolamine	Muscarinic acetylcholine receptor M3	1
+Benzquinamide	Muscarinic acetylcholine receptor M3	1
+Brompheniramine	Muscarinic acetylcholine receptor M3	1
+Bethanechol	Muscarinic acetylcholine receptor M3	1
+Doxepin	Muscarinic acetylcholine receptor M3	1
+Quetiapine	Muscarinic acetylcholine receptor M3	1
+Mivacurium	Muscarinic acetylcholine receptor M3	1
+Pancuronium	Muscarinic acetylcholine receptor M3	1
+Pipecuronium	Muscarinic acetylcholine receptor M3	1
+Methotrimeprazine	Muscarinic acetylcholine receptor M3	1
+Tiotropium	Muscarinic acetylcholine receptor M3	1
+Isopropamide	Muscarinic acetylcholine receptor M3	1
+Acetylcholine	Muscarinic acetylcholine receptor M3	1
+Arecoline	Muscarinic acetylcholine receptor M3	1
+Mepenzolate	Muscarinic acetylcholine receptor M3	1
+Pizotifen	Muscarinic acetylcholine receptor M3	1
+Fesoterodine	Muscarinic acetylcholine receptor M3	1
+Methacholine	Muscarinic acetylcholine receptor M3	1
+Hexocyclium	Muscarinic acetylcholine receptor M3	1
+Aclidinium	Muscarinic acetylcholine receptor M3	1
+Umeclidinium	Muscarinic acetylcholine receptor M3	1
+Trimebutine	Muscarinic acetylcholine receptor M3	1
+Dosulepin	Muscarinic acetylcholine receptor M3	1
+Imidafenacin	Muscarinic acetylcholine receptor M3	1
+Butylscopolamine	Muscarinic acetylcholine receptor M3	1
+Homatropine	Muscarinic acetylcholine receptor M3	1
+Thonzylamine	Muscarinic acetylcholine receptor M3	1
+Propiverine	Muscarinic acetylcholine receptor M3	1
+Rociverine	Muscarinic acetylcholine receptor M3	1
+Diphemanil	Muscarinic acetylcholine receptor M3	1
+Aripiprazole lauroxil	Muscarinic acetylcholine receptor M3	1
+Pyruvic acid	Pyruvate kinase PKLR	1
+2-Phosphoglycolic Acid	Pyruvate kinase PKLR	1
+beta-D-fructofuranose 1,6-bisphosphate	Pyruvate kinase PKLR	1
+Bumetanide	Solute carrier family 12 member 5	1
+Bivalirudin	Prothrombin	1
+Argatroban	Prothrombin	1
+Proflavine	Prothrombin	0
+2-{2-hydroxy-[1,1'-biphenyl]-3-yl}-1H-1,3-benzodiazole-5-carboximidamide	Prothrombin	1
+Beta-(2-Naphthyl)-Alanine	Prothrombin	1
+Hemi-Babim	Prothrombin	1
+2-(2-hydroxy-phenyl)-3H-benzoimidazole-5-carboxamidine	Prothrombin	1
+4-Oxo-2-Phenylmethanesulfonyl-Octahydro-Pyrrolo[1,2-a]Pyrazine-6-Carboxylic Acid [1-(N-Hydroxycarbamimidoyl)-Piperidin-4-Ylmethyl]-Amide	Prothrombin	1
+4-Iodobenzo[B]Thiophene-2-Carboxamidine	Prothrombin	1
+CRA_8696	Prothrombin	1
+gamma-carboxy-L-glutamic acid	Prothrombin	1
+6-Chloro-2-(2-Hydroxy-Biphenyl-3-Yl)-1h-Indole-5-Carboxamidine	Prothrombin	1
+Lysophosphotidylserine	Prothrombin	1
+N-{2,2-DIFLUORO-2-[(2R)-PIPERIDIN-2-YL]ETHYL}-2-[2-(1H-1,2,4-TRIAZOL-1-YL)BENZYL][1,3]OXAZOLO[4,5-C]PYRIDIN-4-AMINE	Prothrombin	1
+TRANS-4-(GUANIDINOMETHYL)-CYCLOHEXANE-L-YL-D-3-CYCLOHEXYLALANYL-L-AZETIDINE-2-YL-D-TYROSINYL-L-HOMOARGININAMIDE	Prothrombin	1
+2-[3-chloro-6-[2,2-difluoro-2-(1-oxidopyridin-1-ium-2-yl)ethyl]imino-1-hydroxypyridin-2-yl]-N-[(1R)-1-(3-chlorophenyl)ethyl]acetamide	Prothrombin	1
+1-GUANIDINO-4-(N-NITRO-BENZOYLAMINO-L-LEUCYL-L-PROLYLAMINO)BUTANE	Prothrombin	1
+1-GUANIDINO-4-(N-PHENYLMETHANESULFONYL-L-LEUCYL-L-PROLYLAMINO)BUTANE	Prothrombin	0
+Suramin	Prothrombin	1
+Ximelagatran	Prothrombin	0
+Flovagatran	Prothrombin	0
+Dabigatran etexilate	Prothrombin	1
+methyl L-phenylalaninate	Prothrombin	1
+[(2R)-1-[(2S)-2-[[(2S,3S)-1-Chloro-6-(diaminomethylideneamino)-2-hydroxyhexan-3-yl]carbamoyl]pyrrolidin-1-yl]-1-oxo-3-phenylpropan-2-yl]azanium	Prothrombin	1
+(S)-N-(4-carbamimidoylbenzyl)-1-(2-(cyclopentylamino)ethanoyl)pyrrolidine-2-carboxamide	Prothrombin	1
+(S)-N-(4-carbamimidoylbenzyl)-1-(2-(cyclohexylamino)ethanoyl)pyrrolidine-2-carboxamide	Prothrombin	1
+N-cycloheptylglycyl-N-(4-carbamimidoylbenzyl)-L-prolinamide	Prothrombin	1
+N-cyclooctylglycyl-N-(4-carbamimidoylbenzyl)-L-prolinamide	Prothrombin	1
+N-ALLYL-5-AMIDINOAMINOOXY-PROPYLOXY-3-CHLORO-N-CYCLOPENTYLBENZAMIDE	Prothrombin	1
+6-(2-HYDROXY-CYCLOPENTYL)-7-OXO-HEPTANAMIDINE	Prothrombin	1
+6-CARBAMIMIDOYL-2-[2-HYDROXY-6-(4-HYDROXY-PHENYL)-INDAN-1-YL]-HEXANOIC ACID	Prothrombin	1
+6-CARBAMIMIDOYL-2-[2-HYDROXY-5-(3-METHOXY-PHENYL)-INDAN-1-YL]-HEXANOIC ACID	Prothrombin	1
+N-(3-chlorobenzyl)-1-(4-methylpentanoyl)-L-prolinamide	Prothrombin	1
+1-[2-AMINO-2-CYCLOHEXYL-ACETYL]-PYRROLIDINE-3-CARBOXYLIC ACID 5-CHLORO-2-(2-ETHYLCARBAMOYL-ETHOXY)-BENZYLAMIDE	Prothrombin	1
+1-[(2R)-2-aminobutanoyl]-N-(3-chlorobenzyl)-L-prolinamide	Prothrombin	1
+D-leucyl-N-(3-chlorobenzyl)-L-prolinamide	Prothrombin	1
+D-phenylalanyl-N-(3-chlorobenzyl)-L-prolinamide	Prothrombin	1
+1-butanoyl-N-(4-carbamimidoylbenzyl)-L-prolinamide	Prothrombin	1
