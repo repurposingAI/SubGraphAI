@@ -1,0 +1,817 @@
+Lysophosphatidic acid receptor 6
+Cysteinyl leukotriene receptor 1
+Amlexanox
+Cysteinyl leukotriene receptor 1
+Nedocromil
+Cysteinyl leukotriene receptor 1
+Astemizole
+Muscarinic acetylcholine receptor M1
+Anisotropine methylbromide
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M1
+Oxybutynin
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M1
+Carbamoylcholine
+Muscarinic acetylcholine receptor M1
+Pilocarpine
+Muscarinic acetylcholine receptor M1
+Glycopyrronium
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M1
+Methscopolamine bromide
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M1
+Profenamine
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M1
+Metixene
+Muscarinic acetylcholine receptor M1
+Homatropine methylbromide
+Muscarinic acetylcholine receptor M1
+Doxylamine
+Muscarinic acetylcholine receptor M1
+Thiethylperazine
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M1
+Propiomazine
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M1
+Muscarinic acetylcholine receptor M2
+Anisotropine methylbromide
+Muscarinic acetylcholine receptor M2
+Muscarinic acetylcholine receptor M2
+Muscarinic acetylcholine receptor M2
+Muscarinic acetylcholine receptor M2
+Muscarinic acetylcholine receptor M2
+Oxybutynin
+Muscarinic acetylcholine receptor M2
+Muscarinic acetylcholine receptor M2
+Carbamoylcholine
+Muscarinic acetylcholine receptor M2
+Glycopyrronium
+Muscarinic acetylcholine receptor M2
+Muscarinic acetylcholine receptor M2
+Muscarinic acetylcholine receptor M2
+Muscarinic acetylcholine receptor M2
+Muscarinic acetylcholine receptor M2
+Metixene
+Muscarinic acetylcholine receptor M2
+Homatropine methylbromide
+Muscarinic acetylcholine receptor M2
+Thiethylperazine
+Muscarinic acetylcholine receptor M2
+Muscarinic acetylcholine receptor M2
+Propiomazine
+Muscarinic acetylcholine receptor M2
+Muscarinic acetylcholine receptor M2
+Muscarinic acetylcholine receptor M2
+Muscarinic acetylcholine receptor M3
+Anisotropine methylbromide
+Muscarinic acetylcholine receptor M3
+Muscarinic acetylcholine receptor M3
+Muscarinic acetylcholine receptor M3
+Darifenacin
+Muscarinic acetylcholine receptor M3
+Metixene
+Muscarinic acetylcholine receptor M3
+Homatropine methylbromide
+Muscarinic acetylcholine receptor M3
+Thiethylperazine
+Muscarinic acetylcholine receptor M3
+Propiomazine
+Muscarinic acetylcholine receptor M3
+Muscarinic acetylcholine receptor M3
+Darifenacin
+Muscarinic acetylcholine receptor M3
+Muscarinic acetylcholine receptor M3
+Muscarinic acetylcholine receptor M4
+Muscarinic acetylcholine receptor M4
+Muscarinic acetylcholine receptor M4
+Muscarinic acetylcholine receptor M4
+Metixene
+Muscarinic acetylcholine receptor M4
+Homatropine methylbromide
+Muscarinic acetylcholine receptor M4
+Thiethylperazine
+Muscarinic acetylcholine receptor M4
+Propiomazine
+Muscarinic acetylcholine receptor M4
+Muscarinic acetylcholine receptor M5
+Muscarinic acetylcholine receptor M5
+Muscarinic acetylcholine receptor M5
+Metixene
+Muscarinic acetylcholine receptor M5
+Homatropine methylbromide
+Muscarinic acetylcholine receptor M5
+Thiethylperazine
+Muscarinic acetylcholine receptor M5
+Propiomazine
+Muscarinic acetylcholine receptor M5
+Leukotriene B4 receptor 1
+Dronabinol
+Adenosine receptor A1
+Adenosine receptor A1
+Adenosine receptor A1
+Fluticasone propionate
+Adenosine receptor A1
+(E)-2-Fluoro-P-Hydroxycinnamate
+Adenosine receptor A1
+Adenosine receptor A2a
+Adenosine receptor A2a
+Fluticasone propionate
+Adenosine receptor A2a
+(E)-2-Fluoro-P-Hydroxycinnamate
+Adenosine receptor A2a
+Adenosine receptor A2b
+Adenosine receptor A2b
+Adenosine receptor A2b
+Adenosine receptor A3
+Adenosine receptor A3
+Alpha-1D adrenergic receptor
+Alpha-1D adrenergic receptor
+Alpha-1D adrenergic receptor
+Alpha-1D adrenergic receptor
+Alpha-1D adrenergic receptor
+Alpha-1D adrenergic receptor
+Meperidine
+Alpha-1D adrenergic receptor
+Pindolol
+Alpha-1D adrenergic receptor
+Alpha-1D adrenergic receptor
+Alpha-1D adrenergic receptor
+Cimetidine
+Alpha-1D adrenergic receptor
+Alpha-1D adrenergic receptor
+Methoxamine
+Alpha-1D adrenergic receptor
+Alpha-1D adrenergic receptor
+Tamsulosin
+Alpha-1D adrenergic receptor
+Lysergic acid diethylamide
+Alpha-1D adrenergic receptor
+Meperidine
+Alpha-1D adrenergic receptor
+Alpha-1D adrenergic receptor
+Alpha-1D adrenergic receptor
+Alpha-1D adrenergic receptor
+Pantoprazole
+Alpha-1D adrenergic receptor
+AG-24322
+Alpha-1D adrenergic receptor
+Alpha-1D adrenergic receptor
+Alpha-1D adrenergic receptor
+Propiomazine
+Alpha-1D adrenergic receptor
+Alpha-1B adrenergic receptor
+Alpha-1B adrenergic receptor
+Alpha-1B adrenergic receptor
+Alpha-1B adrenergic receptor
+Alpha-1B adrenergic receptor
+Meperidine
+Alpha-1B adrenergic receptor
+Pindolol
+Alpha-1B adrenergic receptor
+Alpha-1B adrenergic receptor
+Cimetidine
+Alpha-1B adrenergic receptor
+Alpha-1B adrenergic receptor
+Methoxamine
+Alpha-1B adrenergic receptor
+Alpha-1B adrenergic receptor
+Tamsulosin
+Alpha-1B adrenergic receptor
+Lysergic acid diethylamide
+Alpha-1B adrenergic receptor
+Meperidine
+Alpha-1B adrenergic receptor
+Alpha-1B adrenergic receptor
+Alpha-1B adrenergic receptor
+Alpha-1B adrenergic receptor
+Pantoprazole
+Alpha-1B adrenergic receptor
+AG-24322
+Alpha-1B adrenergic receptor
+Alpha-1B adrenergic receptor
+Alpha-1B adrenergic receptor
+Propiomazine
+Alpha-1B adrenergic receptor
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Meperidine
+Alpha-1A adrenergic receptor
+Pindolol
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Cimetidine
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Methoxamine
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Tamsulosin
+Alpha-1A adrenergic receptor
+Lysergic acid diethylamide
+Alpha-1A adrenergic receptor
+Meperidine
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+2-(3,4-Dihydroxyphenyl)Acetic Acid
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Pantoprazole
+Alpha-1A adrenergic receptor
+AG-24322
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Propiomazine
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Alpha-1A adrenergic receptor
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Meperidine
+Alpha-2A adrenergic receptor
+Pindolol
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Lysergic acid diethylamide
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Cimetidine
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Pantoprazole
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Dipivefrin
+Alpha-2A adrenergic receptor
+Alpha-2A adrenergic receptor
+Meperidine
+Alpha-2A adrenergic receptor
+Doxylamine
+Alpha-2A adrenergic receptor
+Guanabenz
+Alpha-2A adrenergic receptor
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Meperidine
+Alpha-2B adrenergic receptor
+Pindolol
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Lysergic acid diethylamide
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Cimetidine
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Pantoprazole
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Alpha-2B adrenergic receptor
+Meperidine
+Alpha-2B adrenergic receptor
+Doxylamine
+Alpha-2B adrenergic receptor
+Alpha-2C adrenergic receptor
+Meperidine
+Alpha-2C adrenergic receptor
+Alpha-2C adrenergic receptor
+Lysergic acid diethylamide
+Alpha-2C adrenergic receptor
+Alpha-2C adrenergic receptor
+Cimetidine
+Alpha-2C adrenergic receptor
+Alpha-2C adrenergic receptor
+Alpha-2C adrenergic receptor
+Alpha-2C adrenergic receptor
+Alpha-2C adrenergic receptor
+Alpha-2C adrenergic receptor
+Pantoprazole
+Alpha-2C adrenergic receptor
+Alpha-2C adrenergic receptor
+Meperidine
+Alpha-2C adrenergic receptor
+Doxylamine
+Alpha-2C adrenergic receptor
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Nadolol
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Meperidine
+Beta-1 adrenergic receptor
+Pindolol
+Beta-1 adrenergic receptor
+Betaxolol
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Isoprenaline
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Pantoprazole
+Beta-1 adrenergic receptor
+Agerafenib
+Beta-1 adrenergic receptor
+Acebutolol
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Metipranolol
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Lysergic acid diethylamide
+Beta-1 adrenergic receptor
+Dacarbazine
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Beta-1 adrenergic receptor
+Isoetharine
+Beta-1 adrenergic receptor
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Nadolol
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Meperidine
+Beta-2 adrenergic receptor
+Pindolol
+Beta-2 adrenergic receptor
+Betaxolol
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Salmeterol
+Beta-2 adrenergic receptor
+Terbutaline
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Pentobarbital
+Beta-2 adrenergic receptor
+Isoprenaline
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Pantoprazole
+Beta-2 adrenergic receptor
+Agerafenib
+Beta-2 adrenergic receptor
+Acebutolol
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Metipranolol
+Beta-2 adrenergic receptor
+Lysergic acid diethylamide
+Beta-2 adrenergic receptor
+Dacarbazine
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Beta-2 adrenergic receptor
+Salmeterol
+Beta-2 adrenergic receptor
+Beta-3 adrenergic receptor
+Nadolol
+Beta-3 adrenergic receptor
+Beta-3 adrenergic receptor
+Beta-3 adrenergic receptor
+Meperidine
+Beta-3 adrenergic receptor
+Pindolol
+Beta-3 adrenergic receptor
+Beta-3 adrenergic receptor
+Isoprenaline
+Beta-3 adrenergic receptor
+Beta-3 adrenergic receptor
+Beta-3 adrenergic receptor
+Pantoprazole
+Beta-3 adrenergic receptor
+Agerafenib
+Beta-3 adrenergic receptor
+Acebutolol
+Beta-3 adrenergic receptor
+Metipranolol
+Beta-3 adrenergic receptor
+Lysergic acid diethylamide
+Beta-3 adrenergic receptor
+Beta-3 adrenergic receptor
+D
+D
+D
+D
+D
+Prochlorperazine
+D
+D
+Pimozide
+D
+D
+Chlorprothixene
+D
+D
+Thiethylperazine
+D
+Propiomazine
+D
+D
+D
+D
+D
+D
+D
+Prochlorperazine
+D
+D
+D
+Pimozide
+D
+D
+D
+Chlorprothixene
+D
+D
+D
+D
+D
+D
+D
+Thiethylperazine
+D
+Propiomazine
+D
+D
+D
+D
+D
+D
+D
+Prochlorperazine
+D
+D
+D
+Pimozide
+D
+D
+D
+D
+D
+D
+D
+D
+Thiethylperazine
+D
+Propiomazine
+D
+D
+D
+D
+Prochlorperazine
+D
+Pimozide
+D
+D
+D
+D
+Type-1 angiotensin II receptor
+Type-1 angiotensin II receptor
+Type-1 angiotensin II receptor
+Irbesartan
+Type-1 angiotensin II receptor
+Type-1 angiotensin II receptor
+Type-1 angiotensin II receptor
+Type-1 angiotensin II receptor
+Olmesartan
+Type-1 angiotensin II receptor
+Endothelin-1 receptor
+Endothelin receptor type B
+Arginine
+G-protein coupled receptor family C group 6 member A
+Lysine
+G-protein coupled receptor family C group 6 member A
+Liothyronine
+G-protein coupled receptor family C group 6 member A
+Levocabastine
+Neurotensin receptor type 2
+Gamma-aminobutyric acid type B receptor subunit 1
+Lysophosphatidic acid receptor 4
+Metabotropic glutamate receptor 1
+Metabotropic glutamate receptor 2
+Metabotropic glutamate receptor 2
+Metabotropic glutamate receptor 3
+Metabotropic glutamate receptor 3
+Metabotropic glutamate receptor 4
+Metabotropic glutamate receptor 5
+Metabotropic glutamate receptor 6
+Metabotropic glutamate receptor 6
+Metabotropic glutamate receptor 7
+Metabotropic glutamate receptor 8
+Bentiromide
+Metabotropic glutamate receptor 8
+Metabotropic glutamate receptor 8
+Astemizole
+Prochlorperazine
+Terfenadine
+Clemastine
+CH-5132799
+Mequitazine
+Levocabastine
+Doxylamine
+Thiethylperazine
+Propiomazine
+Methdilazine
+Nedocromil
+Cimetidine
+Nizatidine
+Cimetidine
+5-hydroxytryptamine receptor 1A
+5-hydroxytryptamine receptor 1A
+Pindolol
+5-hydroxytryptamine receptor 1A
+5-hydroxytryptamine receptor 1A
+Lysergic acid diethylamide
+5-hydroxytryptamine receptor 1A
+5-hydroxytryptamine receptor 1A
+5-hydroxytryptamine receptor 1A
+5-hydroxytryptamine receptor 1B
+5-hydroxytryptamine receptor 1B
+5-hydroxytryptamine receptor 1B
+Pindolol
+5-hydroxytryptamine receptor 1B
+5-hydroxytryptamine receptor 1B
+5-hydroxytryptamine receptor 1B
+5-hydroxytryptamine receptor 1B
+5-hydroxytryptamine receptor 1B
+Pentobarbital
+5-hydroxytryptamine receptor 1B
+Pentobarbital
+5-hydroxytryptamine receptor 1B
+5-hydroxytryptamine receptor 1D
+5-hydroxytryptamine receptor 1D
+5-hydroxytryptamine receptor 1D
+Pindolol
+5-hydroxytryptamine receptor 1D
+5-hydroxytryptamine receptor 1D
+5-hydroxytryptamine receptor 1D
+5-hydroxytryptamine receptor 1D
+5-hydroxytryptamine receptor 1D
+Pentobarbital
+5-hydroxytryptamine receptor 1D
+Pentobarbital
+5-hydroxytryptamine receptor 1D
+5-hydroxytryptamine receptor 1E
+5-hydroxytryptamine receptor 1E
+Pindolol
+5-hydroxytryptamine receptor 1E
+5-hydroxytryptamine receptor 1E
+5-hydroxytryptamine receptor 1E
+5-hydroxytryptamine receptor 1F
+5-hydroxytryptamine receptor 1F
+Pindolol
+5-hydroxytryptamine receptor 1F
+5-hydroxytryptamine receptor 1F
+5-hydroxytryptamine receptor 1F
+5-hydroxytryptamine receptor 1F
+5-hydroxytryptamine receptor 1F
+5-hydroxytryptamine receptor 2A
+5-hydroxytryptamine receptor 2A
+5-hydroxytryptamine receptor 2A
+5-hydroxytryptamine receptor 2A
+5-hydroxytryptamine receptor 2A
+Prochlorperazine
+5-hydroxytryptamine receptor 2A
+5-hydroxytryptamine receptor 2A
+Pindolol
+5-hydroxytryptamine receptor 2A
+5-hydroxytryptamine receptor 2A
+5-hydroxytryptamine receptor 2A
+Lysergic acid diethylamide
+5-hydroxytryptamine receptor 2A
+5-hydroxytryptamine receptor 2A
+Meperidine
+5-hydroxytryptamine receptor 2A
+5-hydroxytryptamine receptor 2A
+5-hydroxytryptamine receptor 2A
+Thiethylperazine
+5-hydroxytryptamine receptor 2A
+Methysergide
+5-hydroxytryptamine receptor 2A
+Propiomazine
+5-hydroxytryptamine receptor 2A
+5-hydroxytryptamine receptor 2A
+5-hydroxytryptamine receptor 2B
+5-hydroxytryptamine receptor 2B
+Pindolol
+5-hydroxytryptamine receptor 2B
+5-hydroxytryptamine receptor 2B
+5-hydroxytryptamine receptor 2B
+5-hydroxytryptamine receptor 2B
+5-hydroxytryptamine receptor 2C
+5-hydroxytryptamine receptor 2C
+5-hydroxytryptamine receptor 2C
+Pindolol
+5-hydroxytryptamine receptor 2C
+5-hydroxytryptamine receptor 2C
+5-hydroxytryptamine receptor 2C
+5-hydroxytryptamine receptor 2C
+Thiethylperazine
+5-hydroxytryptamine receptor 2C
+Propiomazine
+5-hydroxytryptamine receptor 2C
+5-hydroxytryptamine receptor 2C
+5-hydroxytryptamine receptor 4
+5-hydroxytryptamine receptor 4
+5-hydroxytryptamine receptor 4
+Pindolol
+5-hydroxytryptamine receptor 4
+5-hydroxytryptamine receptor 4
+Dihydromorphine
+5-hydroxytryptamine receptor 4
+Tegaserod
+5-hydroxytryptamine receptor 4
+5-hydroxytryptamine receptor 4
+5-hydroxytryptamine receptor 5A
+5-hydroxytryptamine receptor 5A
+Pindolol
+5-hydroxytryptamine receptor 5A
+5-hydroxytryptamine receptor 5A
+5-hydroxytryptamine receptor 6
+5-hydroxytryptamine receptor 6
+5-hydroxytryptamine receptor 6
+Pindolol
+5-hydroxytryptamine receptor 6
+5-hydroxytryptamine receptor 6
+5-hydroxytryptamine receptor 7
+Lysergic acid diethylamide
+5-hydroxytryptamine receptor 7
+5-hydroxytryptamine receptor 7
+Hydroxycarboxylic acid receptor 2
+C-X-C chemokine receptor type 1
+C-X-C chemokine receptor type 1
+C-X-C chemokine receptor type 1
+C-X-C chemokine receptor type 1
+C-X-C chemokine receptor type 1
+C-X-C chemokine receptor type 1
+C-X-C chemokine receptor type 1
+C-X-C chemokine receptor type 1
+Aminoglutethimide
+C-X-C chemokine receptor type 1
+C-X-C chemokine receptor type 1
+Melatonin receptor type 1A
+Pimozide
+Delta-type opioid receptor
+Delta-type opioid receptor
+Kappa-type opioid receptor
+Kappa-type opioid receptor
+Kappa-type opioid receptor
+Kappa-type opioid receptor
+Diphenoxylate
+Mu-type opioid receptor
+Pentazocine
+Mu-type opioid receptor
+Mu-type opioid receptor
+Mu-type opioid receptor
+Mu-type opioid receptor
+Levacetylmethadol
+Mu-type opioid receptor
+Naltrexone
+Mu-type opioid receptor
+Mu-type opioid receptor
+Mu-type opioid receptor
+P2Y purinoceptor 1
+P2Y purinoceptor 2
+P2Y purinoceptor 4
+P2Y purinoceptor 6
+P2Y purinoceptor 11
+Glucosamine
+Vasopressin V1a receptor
+Glucosamine
+Vasopressin V2 receptor
+Leukotriene B4 receptor 2
+Nedocromil
+Pentobarbital
+Platelet-activating factor receptor
+Nedocromil
+Prostaglandin D2 receptor
+Prostaglandin E2 receptor EP1 subtype
+Prostaglandin E2 receptor EP1 subtype
+CH-5132799
+Prostaglandin E2 receptor EP1 subtype
+Pentobarbital
+Prostaglandin E2 receptor EP1 subtype
+Prostaglandin E2 receptor EP2 subtype
+Prostaglandin E2 receptor EP2 subtype
+Pentobarbital
+Prostaglandin E2 receptor EP2 subtype
+Prostaglandin E2 receptor EP3 subtype
+Pentobarbital
+Prostaglandin E2 receptor EP3 subtype
+Pentobarbital
+Prostaglandin E2 receptor EP3 subtype
+Prostaglandin F2-alpha receptor
+Prostaglandin F2-alpha receptor
+Prostaglandin F2-alpha receptor
+Dinoprostone
+Prostacyclin receptor
+Prostacyclin receptor
+Prostacyclin receptor
+CH-5132799
+Prostacyclin receptor
+Astemizole
+Histamine H4 receptor
+Histamine H4 receptor
+Histamine H4 receptor
+Histamine H4 receptor
+Histamine H4 receptor
+Histamine H4 receptor
+Epoprostenol
+P2Y purinoceptor 12
+P2Y purinoceptor 12
+P2Y purinoceptor 12
+Somatostatin receptor type 1
+Somatostatin receptor type 2
+Somatostatin receptor type 2
+Somatostatin receptor type 3
+Somatostatin receptor type 5
+Thromboxane A2 receptor
+Pentobarbital
+Thromboxane A2 receptor
+Pentobarbital
+Thyrotropin-releasing hormone receptor
+Pentobarbital
+Thyrotropin-releasing hormone receptor
+Pentobarbital
+Thyrotropin-releasing hormone receptor
+Pentobarbital
+Thyrotropin-releasing hormone receptor
+Carbamoylcholine
+Thyrotropin-releasing hormone receptor
+Thyrotropin-releasing hormone receptor
+Thyrotropin-releasing hormone receptor
+Ceruletide
+Cholecystokinin receptor type A
+Ceruletide
+Gastrin/cholecystokinin type B receptor
+Tretinoin
+Retinoic acid-induced protein 3
+G-protein coupled receptor 37-like 1
+P2Y purinoceptor 14
