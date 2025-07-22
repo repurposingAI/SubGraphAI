@@ -223,3 +223,8 @@ This image shows how the drug (R)-lipoic acid is represented as an individual wi
 
 This image shows how a specific biomedical entity—the protein 6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 4—is represented as an individual within the BioGenOnt ontology using the Protégé editor. The ontology includes annotations that capture metadata such as labels, descriptions, and synonyms, as well as property assertions that define semantic relationships between this protein and other biomedical concepts:
 
+<p align="center">
+<img src="https://github.com/khalilhermi/SubGraphAI/blob/main/interface/protein.png" width="450" height="450">
+</p>
+
+
