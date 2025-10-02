@@ -10,7 +10,7 @@ from transformers import AutoTokenizer, AutoModel
 from huggingface_hub import login
 
 # Collez ici votre clé d'accès Hugging Face
-login("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")
+login("")
 
 MODEL_NAME = "dmis-lab/biobert-base-cased-v1.1"
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
