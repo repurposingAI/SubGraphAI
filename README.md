@@ -88,7 +88,7 @@ target_embedding_file: File with embedding vectors for protein targets.
 
 missing_embedding_file: List of entities with missing embeddings.
 
-input_file: Bipartite graph file with drug-target pairs to evaluate.
+input_file: Bipartite graph file containing drug–target pairs with their binding affinity scores (see the file affinity.txt in the folder prediction/dataset/evaluation) for evaluation.
 
 file2_path: CSV file listing all drug-target pairs used.
 
