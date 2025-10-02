@@ -1,0 +1,400 @@
+Fusicoccin Methionine	aminopeptidase	0.0
+Iodobenzene L-fucose	isomerase	-3.728
+Erteberel Keratin, type I cytoskeletal	12	-0.355
+Epoprostenol Fatty acid-binding protein	TM_1468	27.247
+Levomilnacipran Tubulin beta-3	chain	-4.68
+Monofluorophosphate ion Acetyl-CoA	acetyltransferase	-2.684
+Dexrazoxane Large ribosomal subunit protein	uL29	-4.916
+Lomerizine UDP-N-acetylenolpyruvoylglucosamine	reductase	-2.33
+Alendronic acid 1-deoxy-D-xylulose 5-phosphate	reductoisomerase	-4.343
+Edoxudine Cytochrome	c-552	-3.152
+Alvimopan Peptide	deformylase	-3.519
+Bretylium	Galectin-2	-4.25
+Pyruvic acid Sterol O-acyltransferase	2	-3.129
+Arginine Ribose-5-phosphate isomerase	A	-4.631
+(R,R)-2,3-Butanediol Ferripyoverdine	receptor	-4.153
+2s,4r-4-Methylglutamate Corrinoid adenosyltransferase	MMAB	-4.4
+Tanespimycin Ferredoxin--NADP	reductase	-3.711
+S-(2,4-dinitrophenyl)glutathione Phosphopantetheine	adenylyltransferase	-3.584
+Arformoterol Vitamin K-dependent protein	C	14.189
+Vortioxetine DNA	beta-glucosyltransferase	-3.425
+Carglumic acid	Caspase-1	-0.002
+Clopidogrel ATP	phosphoribosyltransferase	-4.716
+Olsalazine Cathepsin	G	-2.444
+Sarpogrelate Iron-dependent extradiol	dioxygenase	-4.996
+N-Valeric Acid Aspartate	ammonia-lyase	-3.051
+(2s)-Pyrrolidin-2-Ylmethylamine	tRNA	-3.326
+Remifentanil NADPH-flavin	oxidoreductase	35.007
+Gemifloxacin GDP-mannose	6-dehydrogenase	0.0
+Niflumic acid Uridine phosphorylase	1	-4.931
+trans-2-hydroxycinnamic acid Aminoglycoside	N	-3.899
+Fluticasone furoate Glutamate receptor ionotropic, kainate	4	-4.522
+Baricitinib Arabinose operon regulatory	protein	-4.088
+Avasimibe Mitogen-activated protein kinase kinase kinase kinase	1	-4.846
+2-Cyclopropylmethylenepropanal Uridine-cytidine kinase	2	-3.589
+S-Adenosyl-L-Homoselenocysteine Reaction center protein L	chain	-1.365
+5,6-Dimethylbenzimidazole Interleukin-1 receptor-associated kinase	1	-4.675
+2-Decenoyl N-Acetyl Cysteamine Reaction center protein H	chain	-1.465
+2-O-Methyl-beta-L-fucopyranose	Octanoyltransferase	-4.713
+Nonivamide Muscarinic acetylcholine receptor	M3	-4.362
+5-[(4-AMINOCYCLOHEXYL)AMINO]-7-(PROPAN-2-YLAMINO)PYRAZOLO[1,5-A]PYRIMIDINE-3-CARBONITRILE Annexin	A4	-4.159
+Cefiderocol Sodium-dependent proline	transporter	60.368
+Alpha-D-Galactose-1-Phosphate N-acetylglucosamine-6-phosphate	deacetylase	-3.889
+Formycin L-lactate dehydrogenase C	chain	-4.76
+RPR131247 Geranylgeranyl transferase type-2 subunit	alpha	3.58
+L-Leucyl-Hydroxylamine Uncharacterized serine/threonine-protein kinase	SBK3	-4.187
+Etafedrine 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase	delta-1	-4.086
+2-Iminiopropanoate Mitogen-activated protein kinase	10	-3.635
+Trans-O-Hydroxy-Alpha-Methyl Cinnamate Synaptic vesicle glycoprotein	2A	-4.982
+1-Naphthyl-L-alanine CAI-1 autoinducer	synthase	-0.151
+6-Amino-4-Hydroxymethyl-Cyclohex-4-Ene-1,2,3-Triol Myosin light chain	6B	-4.202
+Carfilzomib 72 kDa type IV	collagenase	-2.739
+3-AMINO-AZACYCLOTRIDECAN-2-ONE Elongation factor 1-alpha	1	-4.056
+Propidium Ribosomal small subunit pseudouridine synthase	A	-4.077
+(3r)-1-Acetyl-3-Methylpiperidine ADP/ATP translocase	2	-2.983
+Tolterodine Organic cation/carnitine transporter	2	-4.852
+Miconazole Reaction center protein H	chain	-2.581
+Aclidinium Methionine aminopeptidase	2	0.0
+Palmitoleic Acid Ephrin type-A receptor	1	-4.203
+Rosuvastatin Purine nucleoside phosphorylase	YfiH	-1.295
+1,1,1-TRIFLUORO-3-(OCTYLTHIO)ACETONE Serine/threonine-protein kinase PAK	2	-3.949
+Sumanirole Cytochrome	c-552	-3.3
+3-(Oxalyl-Amino)-Naphthalene-2-Carboxylic Acid Phosphocarrier protein	HPr	-4.55
+(2s)-Pyrrolidin-2-Ylmethylamine Cyclin-dependent kinase	1	-4.899
+1-[2-(3-ACETYL-2-HYDROXY-6-METHOXY-PHENYL)-CYCLOPROPYL]-3-(5-CYANO-PYRIDIN-2-YL)-THIOUREA Valacyclovir	hydrolase	-4.992
+Paromomycin Rhomboid protease	GlpG	-4.741
+N5-Methylglutamine ADP-ribosylation factor-like protein	5B	-4.504
+3-phospho-D-glyceric acid ATP	phosphoribosyltransferase	-4.229
+Isocitric Acid ATP synthase subunit g,	mitochondrial	-3.209
+4-Methylcoumarin Metallo-beta-lactamase type	2	-3.313
+8-Hydroxy-4-(1-Hydroxyethyl)Quinoline-2-Carboxylic Acid	Kallikrein-7	-4.987
+2',3'-O-{4-[Hydroxy(oxido)-λ5-azanylidene]-2,6-dinitro-2,5-cyclohexadiene-1,1-diyl}adenosine 5'-(tetrahydrogen triphosphate) Mitogen-activated protein kinase	4	-4.397
+Tirbanibulin 5-hydroxytryptamine receptor	3B	-4.025
+3,5-Dimethyl-1-(3-Nitrophenyl)-1h-Pyrazole-4-Carboxylic Acid Ethyl Ester 3-dehydroquinate	dehydratase	-0.077
+Lidocaine Serine/threonine-protein kinase	Nek1	-3.834
+2-(Sec-Butyl)Thiazole Hyaluronan and proteoglycan link protein	4	-2.412
+N-[1-(5-bromo-2,3-dimethoxybenzyl)piperidin-4-yl]-4-sulfanylbutanamide Aldehyde dehydrogenase, dimeric	NADP-preferring	-4.653
+B-2-Octylglucoside Peroxiredoxin-5,	mitochondrial	-4.628
+Iopodic acid Mersacidin	decarboxylase	-1.189
+[{2-bromo-4-[(2R)-3-oxo-2,3-diphenylpropyl]phenyl}(difluoro)methyl]phosphonic acid G-protein coupled receptor	55	-1.297
+Bicalutamide Nucleoside	deoxyribosyltransferase	-4.773
+Mestranol Interleukin-12 subunit	beta	-4.253
+S-9-(2-hydroxypropyl)adenine Probable cysteine--tRNA ligase,	mitochondrial	-4.621
+1-hydroxy-2-isopropylguanidine	Sialidase	-2.757
+Cyclohexanol P2Y purinoceptor	12	-3.557
+Glutathione sulfonic acid Peptidyl-prolyl cis-trans isomerase	A	8.006
+Fenoterol Mitogen-activated protein kinase	7	-4.775
+Teverelix Glucose-6-phosphate	1-dehydrogenase	-4.127
+3-(HYDROXY-PHENYL-PHOSPHINOYLOXY)-8-METHYL-8-AZA-BICYCLO[3.2.1]OCTANE-2-CARBOXYLIC ACID METHYL ESTER Carbonic anhydrase	14	-4.873
+2-Hydroxyethyl Disulfide Endochitinase	B1	-2.678
+1-Hydroxy-2-S-glutathionyl-3-para-nitrophenoxy-propane Taste receptor type 2 member	16	-3.456
+Navitoclax Non-fluorescent	flavoprotein	-3.882
+(2S)-2-HYDROXY-2H-CHROMENE-2-CARBOXYLIC ACID Tumor necrosis factor ligand superfamily member	11	-4.05
+D-tartaric acid Phosphatidylserine synthase	2	-4.57
+Benzoic acid Peptidyl-prolyl cis-trans isomerase	C	-4.285
+2-CHLORO-N-[(3R)-2-OXO-1,2,3,4-TETRAHYDROQUINOLIN-3-YL]-6H-THIENO[2,3-B]PYRROLE-5-CARBOXAMIDE Endo-1,4-beta-xylanase	A	-3.861
+Fumaric acid 2-hydroxymuconate	tautomerase	-3.199
+1,3-Dinitrobenzene NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit	11	-4.315
+2-(5-CHLORO-2-THIENYL)-N-{(3S)-1-[(1S)-1-METHYL-2-MORPHOLIN-4-YL-2-OXOETHYL]-2-OXOPYRROLIDIN-3-YL}ETHANESULFONAMIDE Glucan	1,3-beta-glucosidase	-4.66
+Glutaric Acid Tropomyosin alpha-1	chain	-3.056
+Fenofibrate Small ribosomal subunit protein	eS6	-3.934
+Lauric acid 3-dehydroquinate	dehydratase	-3.787
+Para-Bromobenzyl Alcohol Growth factor receptor-bound protein	2	-4.637
+Ergotamine Phosphocarrier protein	HPr	4.664
+3'-1-carboxy-1-phosphonooxy-ethoxy-uridine-diphosphate-N-acetylglucosamine DNA polymerase III subunit	epsilon	-4.764
+N,N'-[biphenyl-4,4'-diyldi(2R)propane-2,1-diyl]dimethanesulfonamide Cytochrome	c-552	-3.666
+6-(2,6-dibromophenyl)pyrido[2,3-d]pyrimidine-2,7-diamine 4-hydroxybenzoyl-CoA	thioesterase	-4.936
+Testosterone undecanoate Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit	gamma	-1.242
+Alimemazine Peroxisome proliferator-activated receptor	delta	-3.750
+scyllo-inositol Serine/threonine-protein kinase	Sgk1	-4.450
+3-Fluoro-2-(Phosphonooxy)Propanoic Acid	Serotransferrin	-3.364
+Amobarbital Interferon-inducible GTPase	5	-4.744
+N-[Tosyl-D-Prolinyl]Amino-Ethanethiol Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma	isoform	14.942
+(3R,4S)-1-[(4-AMINO-5H-PYRROLO[3,2-D]PYRIMIDIN-7-YL)METHYL]-4-[(METHYLSULFANYL)METHYL]PYRROLIDIN-3-OL Pyruvate dehydrogenase E1 component subunit alpha, testis-specific form,	mitochondrial	-4.875
+2-deoxy-2-fluoro-β-D-galactose Myosin regulatory light chain	12A	-3.952
+1,4-Butanediol 1,4-dihydroxy-2-naphthoyl-CoA	synthase	-3.754
+5-[2-(1H-pyrrol-1-yl)ethoxy]-1H-indole Trafficking protein particle complex subunit	3	-4.895
+2,4-Dinitrophenyl 2-Deoxy-2-Fluoro-Beta-D-Allopyranoside Alpha-aminoadipic semialdehyde synthase,	mitochondrial	-4.902
+5-Hydroxymethyl-Chonduritol Transaldolase	B	-4.202
+2-Anhydro-3-Fluoro-Quinic Acid Retinoid-inducible serine	carboxypeptidase	-3.918
+3'-O-N-Octanoyl-a-D-Glucopyranosyl-B-D-Fructofuranoside Glucan	1,3-beta-glucosidase	-4.335
+methyl (3S)-3-[(tert-butoxycarbonyl)amino]-4-oxopentanoate Serine/threonine-protein kinase	16	-4.031
+4-(1,3-BENZODIOXOL-5-YLOXY)-2-[4-(1H-IMIDAZOL-1-YL)PHENOXY]-6-METHYLPYRIMIDINE S-formylglutathione	hydrolase	17.803
+N-(carboxycarbonyl)-D-phenylalanine Multidrug resistance protein	MexA	-4.682
+Trans-O-Hydroxy-Alpha-Methyl Cinnamate Elongation factor	Tu-B	-3.643
+Warfarin Large ribosomal subunit protein	uL14	-2.571
+Decyl(dimethyl)phosphine oxide Lanosterol 14-alpha	demethylase	-4.661
+Probucol DNA-directed RNA polymerase subunit	beta'	-3.128
+Inulin ATP synthase subunit alpha,	mitochondrial	-4.472
+2-O-methyl-alpha-L-fucopyranose Sterol O-acyltransferase	2	-4.638
+(8E,10S,12Z)-10-hydroxy-6-oxooctadeca-8,12-dienoic acid	Interleukin-6	-2.744
+N(G)-Iminoethylornithine Ras-related C3 botulinum toxin substrate	1	-3.707
+4-Bromo-2,5-dimethoxyphenethylamine Bifunctional lipase/adenylate cyclase LipJ [Includes:	Lipase	-4.841
+5-(hexahydro-2-oxo-1H-thieno[3,4-D]imidazol-6-yl)pentanal	Interleukin-3	-3.592
+(5R)-4-HYDROXY-3,5-DIMETHYL-5-[(1E,3E)-2-METHYLPENTA-1,3-DIENYL]THIOPHEN-2(5H)-ONE	Beta-lactamase	-2.418
+Propranolol Nucleoside diphosphate kinase	A	-3.839
+Thiothixene Methane monooxygenase component A alpha	chain	-0.928
+Miltefosine Arsenite	methyltransferase	-4.932
+(2s,5s)-5-Carboxymethylproline Complement factor	B	-4.518
+ETHYL 3-[4-(AMINOSULFONYL)PHENYL]PROPANOATE Prolactin	receptor	-3.494
+Pentaglyme Interstitial	collagenase	-2.825
+Ragaglitazar Glutathione peroxidase	6	53.236
+(C8-S)-Hydantocidin 5'-phosphate Neuronal acetylcholine receptor subunit	alpha-3	-3.793
+N-[(Furan-2-Yl)Carbonyl]-(S)-Leucyl-(R)-[1-Amino-2(1h-Indol-3-Yl)Ethyl]-Phosphonic Acid	Beta-lactamase	-3.551
+Tamatinib Naphthalene 1,2-dioxygenase system, small oxygenase	component	56.806
+Tenocyclidine Large ribosomal subunit protein	uL23	-4.798
+Sevoflurane Deoxyribodipyrimidine	photo-lyase	-4.901
+Isatin MAP/microtubule affinity-regulating kinase	4	-4.731
+(C8-S)-Hydantocidin 5'-phosphate L-fuculose phosphate	aldolase	24.522
+2-Deoxy-D-Glucitol 6-(E)-Vinylhomophosphonate 14-3-3 protein	eta	-4.168
+Tobramycin Dihydroneopterin	aldolase	-3.706
+N-{2'-[(4-FLUOROPHENYL)AMINO]-4,4'-BIPYRIDIN-2-YL}-4-METHOXYCYCLOHEXANECARBOXAMIDE Isocitrate	lyase	51.448
+Heptanamide Small ribosomal subunit protein	uS5	-3.452
+Echothiophate Virulence sensor histidine kinase	PhoQ	-3.124
+Pentaglyme Beta-lactamase	SHV-1	-2.637
+Fenoxaprop-ethyl Dihydrofolate	reductase	-4.945
+Histamine Tryptophan 5-hydroxylase	1	-3.717
+Indole Naphthyridinone Inositol monophosphatase	1	0.302
+2-(6-CHLORO-3-{[2,2-DIFLUORO-2-(2-PYRIDINYL)ETHYL]AMINO}-2-OXO-1(2H)-PYRAZINYL)-N-[(2-FLUORO-3-METHYL-6-PYRIDINYL)METHYL]ACETAMIDE D-tagatose-1,6-bisphosphate aldolase subunit	KbaY	-0.986
+Olcegepant Small ribosomal subunit protein	uS4	12.213
+Acetylphosphate Serine/threonine-protein kinase PAK	1	-3.209
+3-nitro-L-tyrosine Beta-2-glycoprotein	1	-1.776
+Choline alfoscerate Recombination protein	RecR	-3.378
+WRR-112	Maltoporin	-4.453
+Dasatinib Putative 4-hydroxy-4-methyl-2-oxoglutarate	aldolase	30.034
+H-89 Glutathione peroxidase	6	45.230
+2-[3,4-Dihydroxy-2-Hydroxymethyl-5-(2-Hydroxy-Nonyl)-Tetrahydro-Furan-2-Yloxy]-6-Hydroxymethyl-Tetra Hydro-Pyran-3,4,5-Triol Epithelial sodium channel subunit	gamma	-4.150
+3-Fluoro-2-Methyl-Aniline Ferredoxin	CarAc	-3.653
+Adamantanone	Glutaminase-asparaginase	-1.399
+Homocysteine Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase	1B	-4.281
+D-Glutamic Acid Annexin	A4	-3.421
+Monofluorophosphate ion Trefoil factor	2	-1.579
+Cephalosporin C Glutathione peroxidase	1	-4.940
+Etretinate Cytochrome c oxidase subunit	1	-2.397
+4-Methylpiperazin-1-Yl Carbonyl Group Matrix	metalloproteinase-15	-2.854
+Trametinib Serine/threonine-protein kinase	ULK3	-4.308
+Buprenorphine Parathion	hydrolase	-4.403
+2-Aminobenzyl alcohol NADPH oxidase organizer	1	-4.006
+Didecyldimethylammonium	N	-3.954
+Proline DNA polymerase catalytic	subunit	-4.079
+1,2-Di-N-Pentanoyl-Sn-Glycero-3-Dithiophosphocholine Alkyl hydroperoxide reductase subunit	F	-4.696
+Pyridoxamine-5'-Phosphate Guanine nucleotide-binding protein	G	-4.895
+3-Methyl-5-(7-{4-[(4R)-4-methyl-4,5-dihydro-1,3-oxazol-2-yl]phenoxy}heptyl)-1,2-oxazole Myosin regulatory light chain	12A	-4.987
+Finafloxacin Serine/threonine-protein kinase	haspin	0.005
+Isothipendyl Rhomboid protease	GlpG	-4.966
+Cidofovir Small ribosomal subunit protein	uS9	-3.621
+4-{(1E)-3-OXO-3-[(2-PHENYLETHYL)AMINO]PROP-1-EN-1-YL}-1,2-PHENYLENE DIACETATE Peptide	deformylase	-4.968
+Cefmenoxime Tubulin beta	chain	-3.533
+4-methoxybenzenesulfinate MIO-dependent tyrosine	2,3-aminomutase	-3.968
+[N-(3-dibenzylcarbamoyl-oxiranecarbonyl)-hydrazino]-acetic acid	Amylosucrase	22.576
+Isoflurophate Y+L amino acid transporter	1	-4.873
+Bisindolylmaleimide VIII 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase	KdsC	47.799
+Pentolinium Beta-Ala-Xaa	dipeptidase	-2.741
+2-decyl-5,6-dimethoxy-3-methylcyclohexa-2,5-diene-1,4-dione Rho-associated protein kinase	2	-4.007
+N-Acetylmannosaminitol Acetyl-CoA	acetyltransferase	-4.628
+Zinc Valine--tRNA	ligase	-1.267
+Deacetoxycephalosporin C Mitogen-activated protein kinase	4	-4.562
+Imidacloprid DNA gyrase subunit	A	-4.230
+3-(Mercaptomethylene)Pyridine Probable arabinosyltransferase	B	-3.869
+Vilanterol	Cofilin-1	7.016
+6-Aminohexyl-uridine-C1,5'-diphosphate Respiratory nitrate reductase 1 alpha	chain	-3.856
+Barnidipine Nicotinate-nucleotide pyrophosphorylase	[carboxylating]	3.543
+Captodiame Gamma-aminobutyric acid receptor subunit	pi	0.000
+4-Deoxy-Alpha-D-Glucose Isobutyryl-CoA dehydrogenase,	mitochondrial	-4.121
+Daxalipram Penicillin-binding protein	2x	-2.535
+S-Hydroxymethyl Glutathione Penicillin-binding protein	2B	-4.733
+Phenylbutyric acid ATP synthase subunit O,	mitochondrial	-4.149
+Succinobucol Coenzyme A biosynthesis bifunctional protein	CoaBC	-4.700
+Cyclopropyl-{4-[5-(3,4-Dichlorophenyl)-2-[(1-Methyl)-Piperidin]-4-Yl-3-Propyl-3h-Imidazol-4-Yl]-Pyrimidin-2-Yl}Amine Photosystem II extrinsic protein	V	-4.962
+Docosanol Small ribosomal subunit protein	uS10	-3.979
+beta-D-glucuronic acid Beta-1,4-galactosyltransferase	3	-3.784
+CP-744809 Serine/threonine-protein kinase	Nek9	2.223
+Amrubicin Adenylate kinase	8	-3.929
+Pyridoxal Enoyl-[acyl-carrier-protein] reductase [NADPH]	FabI	-4.775
+1-Deoxy-6-O-Phosphono-1-[(Phosphonomethyl)Amino]-L-Threo-Hexitol Metallo-beta-lactamase	IMP-1	-3.429
+Oxybuprocaine Beta-secretase	1	-3.207
+Lysergic acid diethylamide Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase	3	-4.842
+Nitisinone Chorismate	pyruvate-lyase	-1.878
+Abemaciclib Monocarboxylate transporter	1	-4.389
+Marimastat Immunoglobulin heavy constant alpha	2	-4.505
+4-[4-(4-Fluorophenyl)-2-[4-[(R)-methylsulfinyl]phenyl]-1H-imidazol-5-yl]pyridine Hyaluronan and proteoglycan link protein	1	-4.146
+Propyl acetate Peptide	deformylase	-3.303
+Diacerein D-galactose/methyl-galactoside binding periplasmic protein	MglB	-4.550
+(2r)-2-{[Formyl(Hydroxy)Amino]Methyl}Hexanoic Acid	Levansucrase	-4.082
+CIS-(1R,2S)-2-AMINO-1,2,3,4-TETRAHYDRONAPHTHALEN-1-OL Small ribosomal subunit protein	uS19	-3.988
+Vandetanib Elongation factor	Tu-B	22.889
+5-Oxoprolinal Epoxide hydrolase	B	-3.835
+Melperone Vesicle-fusing	ATPase	-3.866
+4-(4-methyl-1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)benzonitrile Small ribosomal subunit protein	uS13	-4.865
+N,O6-Disulfo-Glucosamine Inward rectifier potassium channel	2	-4.853
+Meglutol Non-secretory	ribonuclease	-3.360
+Glutathione Cytochrome c oxidase subunit 7A1,	mitochondrial	0.000
+4-CHLORO-3',3''-DIBROMOPHENOL-1,8-NAPHTHALEIN Photoactive yellow	protein	77.345
+Profenamine 2-aminobenzoylacetyl-CoA	thioesterase	-1.451
+5-Methoxy-1,2-Dimethyl-3-(Phenoxymethyl)Indole-4,7-Dione DNA polymerase epsilon subunit	4	-4.462
+4,6-dideoxy-4-amino-alpha-D-glucose Sterol-4-alpha-carboxylate 3-dehydrogenase,	decarboxylating	-3.963
+Pardoprunox T cell receptor beta constant	1	-3.349
+4-ethyl-5-methyl-2-(1H-tetrazol-5-yl)-1,2-dihydro-3H-pyrazol-3-one	Levansucrase	-4.739
+S-Methyl glutathione Calcium-activated potassium channel subunit	alpha-1	-4.973
+Febuxostat NADPH oxidase	2	-4.793
+4-PHOSPHONOOXY-PHENYL-METHYL-[4-PHOSPHONOOXY]BENZEN Ras-related C3 botulinum toxin substrate	2	-4.308
+4-ethyl-5-methyl-2-(1H-tetrazol-5-yl)-1,2-dihydro-3H-pyrazol-3-one Metallo-beta-lactamase	IMP-1	-3.367
+Lansoprazole Beta-lactamase	OXA-1	-4.701
+Ubiquinone Q2 Nuclear factor NF-kappa-B p100	subunit	-4.331
+Sphingosine	Beta-hexosaminidase	-2.929
+6-fluoro-2-(2-hydroxy-3-isobutoxy-phenyl)-1H-benzoimidazole-5-carboxamidine Ornithine carbamoyltransferase subunit	I	-4.771
+Sulfamethazine DNA	helicase/primase	-3.101
+N-[4-(AMINOSULFONYL)PHENYL]-2-MERCAPTOBENZAMIDE Fructose-bisphosphate	aldolase	12.960
+Prostaglandin G2 Protein	NrdI	-3.737
+Famciclovir	Glutaredoxin-1	-3.840
+Laevulinic Acid NADH	dehydrogenase	-3.697
+3-fluoro-4-[2-hydroxy-2-(5,5,8,8-tetramethyl-5,6,7,8,-tetrahydro-naphtalen-2-yl)-acetylamino]-benzoic acid Death-associated protein kinase	2	-4.997
+Coumarin Hepatocyte growth factor	receptor	-4.027
+S-(2-Acetamidoethyl) hexadecanethioate Vitamin K-dependent protein	C	-4.427
+Dasotraline Protein arginine N-methyltransferase	1	-4.542
+Managlinat dialanetil Collagen	alpha-1	-4.741
+Carbinoxamine Thioredoxin domain-containing protein	12	-3.485
+(+)-1-bromo-2-propanol Aspartate	1-decarboxylase	-2.560
+Beclomethasone dipropionate Adenylosuccinate synthetase isozyme	1	-4.779
+4-Fluorobenzylamine Deoxyuridine 5'-triphosphate	nucleotidohydrolase	-3.715
+4-BROMO-3-(CARBOXYMETHOXY)-5-[3-(CYCLOHEXYLAMINO)PHENYL]THIOPHENE-2-CARBOXYLIC ACID Peptide	deformylase	-4.993
+Alanine Alpha-ketoglutarate-dependent dioxygenase alkB homolog	3	-2.306
+2'-Deoxyuridine 3'-Monophosphate Beta-lactamase	SHV-2	-4.724
+Deoxyamidinoproclavaminic acid Gamma-aminobutyric acid type B receptor subunit	2	-4.453
+5-[1-(4-methoxyphenyl)-1H-benzimidazol-6-yl]-1,3,4-oxadiazole-2(3H)-thione Ribonuclease	PH	-4.356
+4-({4-[(6-CHLORO-1-BENZOTHIEN-2-YL)SULFONYL]-2-OXOPIPERAZIN-1-YL}METHYL)BENZENECARBOXIMIDAMIDE PTS system N,N'-diacetylchitobiose-specific EIIB	component	-2.366
+RU78299 Small ribosomal subunit protein	bS18	-4.130
+(2S)-2-{3-[({[2-fluoro-4-(trifluoromethyl)phenyl]carbonyl}amino)methyl]-4-methoxybenzyl}butanoic acid 10 kDa heat shock protein,	mitochondrial	-3.462
+Irosustat	Elastase	-4.363
+N'-(3-CHLORO-4-METHOXY-PHENYL)-N-(3,4,5-TRIMETHOXYPHENYL)-1,3,5-TRIAZINE-2,4-DIAMINE Polyunsaturated fatty acid	5-lipoxygenase	9.769
+Beta-L-Arabinose Secreted aspartic protease	2	-4.040
+1-O-Octyl-2-Heptylphosphonyl-Sn-Glycero-3-Phosphoethanolamine Soluble lytic murein	transglycosylase	-4.069
+4-(ACETYLAMINO)-3-HYDROXY-5-NITROBENZOIC ACID Soluble calcium-activated nucleotidase	1	-3.540
+4-methoxybenzenesulfinate Metalloproteinase inhibitor	3	-3.724
+Xanthinol D-alanyl-D-alanine	endopeptidase	-3.080
+Ketorolac	Dihydroorotase	8.685
+Iopodic acid Endochitinase	B1	-4.328
+Tromethamine Guanine nucleotide-binding protein	G	-3.335
+(S)-AMPA Heat shock protein HSP	90-alpha	-0.970
+4-[(6-phenyl[1,2,4]triazolo[4,3-b]pyridazin-3-yl)methyl]phenol Protein	cereblon	0.824
+beta-Hydroxyasparagine Carboxylesterase	2	-3.742
+Acetazolamide Nuclease	P1	1.961
+N-METHYL-N-[(1R)-1-METHYL-2-PHENYLETHYL]PROP-2-EN-1-AMINE	6-phosphogluconolactonase	-4.432
+Halofantrine Cell division protein	ZipA	-4.999
+3-{[(1r)-1-Benzyl-2-Sulfanylethyl]Amino}-3-Oxopropanoic Acid	Chitobiase	-4.808
+Misoprostol Histone-lysine N-methyltransferase	EZH2	-3.417
+5-[(3R)-3-(5-methoxy-2',6'-dimethylbiphenyl-3-yl)but-1-yn-1-yl]-6-methylpyrimidine-2,4-diamine	b	29.749
+Pyruvic acid 5-hydroxytryptamine receptor	7	-2.620
+Azelaic acid Aclacinomycin 10-hydroxylase	RdmB	-4.122
+3-Methylphenylalanine Uracil-DNA glycosylase	inhibitor	-4.070
+Lisdexamfetamine Microsomal glutathione S-transferase	1	-4.001
+Etretinate Isocitrate dehydrogenase [NADP],	mitochondrial	-4.154
+2-Amino-6-Aminomethyl-8-Phenylsulfanylmethyl-3h-Quinazolin-4-One Hyaluronan-binding protein	2	-1.839
+Acetylcholine Naphthalene 1,2-dioxygenase system, small oxygenase	component	2.311
+Levomenthol Beta-1,4-galactosyltransferase	2	-4.946
+Monothioglycerol Mitogen-activated protein kinase	4	-2.163
+2-O-methyl-alpha-L-fucopyranose Small ribosomal subunit protein	uS2	-2.912
+Methyl(6s)-1-Thio-L-Manno-Hexodialdo-6,2-Pyranoside	Alpha-N-acetylgalactosaminidase	-4.550
+N-[2-Chloro-5-(trifluoromethyl)phenyl]imidodicarbonimidic diamide Mitogen-activated protein kinase kinase kinase	1	-4.262
+Streptomycin Interferon	gamma	-3.420
+N-{(3S,4S)-4-[(6-AMINO-4-METHYLPYRIDIN-2-YL)METHYL]PYRROLIDIN-3-YL}-N'-(4-CHLOROBENZYL)ETHANE-1,2-DIAMINE 6-pyruvoyl tetrahydrobiopterin	synthase	-4.044
+S-Ethyl-N-Phenyl-Isothiourea Acetylcholine receptor subunit alpha-type	unc-38	-3.339
+Guanosine 5'-diphosphate 2':3'-cyclic monophosphate Phospho-2-dehydro-3-deoxyheptonate	aldolase	-4.919
+4,7-Dioxosebacic Acid Melanocyte-stimulating hormone	receptor	-3.631
+Arundic acid Electron transfer flavoprotein-ubiquinone oxidoreductase,	mitochondrial	-3.792
+3,3-Dichloro-2-Phosphonomethyl-Acrylic Acid Metallo-beta-lactamase type	2	-2.589
+Erythrityl tetranitrate Ephrin type-B receptor	1	-2.043
+4-Methoxyamphetamine Spermine	oxidase	-4.512
+Pterin-6-Yl-Methyl-Monophosphate Type 3 secretion system	pilotin	-4.473
+Remikiren	Sialidase-1	-2.518
+6-o-Capryloylsucrose Small ribosomal subunit protein	uS15	-4.396
+Citrulline Small ribosomal subunit protein	uS9	-3.362
+1-Methylhistidine Voltage-dependent calcium channel gamma-1	subunit	-2.874
+2',3'-Dideoxythymidine-5'-Monophosphate Large ribosomal subunit protein	uL5	-4.429
+N-Acetylalanine	Carboxylesterase	-4.307
+(4S)-5-Fluoro-4-hydroxy-3,4-dihydro-2(1H)-pyrimidinone Chloramphenicol	acetyltransferase	-4.029
+Loxapine Beta-secretase	1	-4.232
+Olaparib HTH-type transcriptional regulator	QacR	-4.785
+Chlorobutanol Penicillin-binding protein	2X	-2.003
+2-[4-({[(3,5-DICHLOROPHENYL)AMINO]CARBONYL}AMINO)PHENOXY]-2-METHYLPROPANOIC ACID Prolactin	receptor	-4.792
+Ulixertinib	Delta-hemolysin	-4.900
+Cloxacillin Methylaspartate	ammonia-lyase	8.273
+Trehalose-6-Phosphate	4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1	-4.276
+beta-D-Ribopyranose Actin nucleation-promoting factor	WAS	-4.061
+1-(2-Fluorobenzyl)-3-Butyl-8-(N-Acetyl-4-Aminobenzyl)-Xanthine Retinol dehydrogenase	8	-4.294
+DCFBC Potassium-transporting ATPase subunit	beta	-0.774
+(S)-2-{Methyl-[2-(Naphthalene-2-Sulfonylamino)-5-(Naphthalene-2-Sulfonyloxy)-Benzoyl]-Amino}-Succinicacid Calcium/calmodulin-dependent protein kinase type II subunit	delta	14.955
+2-deoxy-2-fluoro-β-D-galactose DNA polymerase III subunit	tau	-3.160
+AL5927 Monocarboxylate transporter	6	-4.608
+Glycerin Peptide deformylase	1	-4.020
+(3aS)-3a-hydroxy-5-methyl-1-phenyl-1,2,3,3a-tetrahydro-4H-pyrrolo[2,3-b]quinolin-4-one FMN-dependent NADH:quinone	oxidoreductase	3.958
+Phenylphosphate Serine/arginine-rich splicing factor	4	-4.311
+Febuxostat Thymidine	phosphorylase	-3.534
+Ropivacaine Kynurenine--oxoglutarate transaminase	3	-4.199
+S-[2-({N-[(2S)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoyl]-beta-alanyl}amino)ethyl] octanethioate	Nucleophosmin	-4.526
+Nefazodone 5'-methylthioadenosine/S-adenosylhomocysteine	nucleosidase	35.229
+Grazoprevir O-GlcNAcase	BT_4395	-3.851
+6-(2,6-DIMETHOXYPHENYL)PYRIDO[2,3-D]PYRIMIDINE-2,7-DIAMINE Cytochrome c oxidase subunit	2	-3.479
+Beta-D-Glucose NADPH--cytochrome P450	reductase	-4.120
+Ethyl N-methylcarbamate 4-hydroxybenzoyl-CoA	thioesterase	-2.865
+N-cyclopropyl-4-methyl-3-[1-(2-methylphenyl)phthalazin-6-yl]benzamide Cytochrome c oxidase subunit	2	-3.596
+N-({4-[(1R)-4-[(2R,4S,5S)-2,4-diamino-6-oxohexahydropyrimidin-5-yl]-1-(2,2,2-trifluoro-1,1-dihydroxyethyl)butyl]phenyl}carbonyl)-L-glutamic acid Peptidoglycan-N-acetylmuramic acid deacetylase	PdaA	-4.723
+4-{[4-AMINO-6-(CYCLOHEXYLMETHOXY)-5-NITROSOPYRIMIDIN-2-YL]AMINO}BENZAMIDE Matrix	metalloproteinase-23	-4.925
+2-[4-(DIMETHYLAMINO)PHENYL]-6-HYDROXY-3-METHYL-1,3-BENZOTHIAZOL-3-IUM Ribose-5-phosphate isomerase	A	-4.780
+8-azaxanthine 2-methylisocitrate	lyase	-4.775
+Cefroxadine 6-phosphogluconate dehydrogenase,	decarboxylating	-4.504
+N-(4-chlorophenyl)-2-[(pyridin-4-ylmethyl)amino]benzamide	Interleukin-2	-0.346
+4,6-Dideoxyglucose Serine protease	hepsin	-1.721
+(1S)-2-{[{[(2S)-2,3-DIHYDROXYPROPYL]OXY}(HYDROXY)PHOSPHORYL]OXY}-1-[(PENTANOYLOXY)METHYL]ETHYL OCTANOATE Sex hormone-binding	globulin	-3.208
+Hexylcaine Mitogen-activated protein kinase kinase kinase kinase	5	-3.025
+Tridihexethyl Small ribosomal subunit protein	uS3	-3.705
+1-Amino-2,3-Dihydroxy-5-Hydroxymethyl Cyclohex-5-Ene DNA	ligase	-3.554
+2-Amino-3-(5-Tert-Butyl-3-(Phosphonomethoxy)-4-Isoxazolyl)Propionic Acid Peroxisome proliferator-activated receptor	alpha	-4.599
+Neramexane Receptor tyrosine-protein kinase	erbB-2	-4.696
+6-phospho-D-gluconic acid Merozoite surface protein	1	-3.739
+Cilostazol Serine/threonine-protein kinase	NIM1	-4.495
+Bevantolol Ribonuclease	pancreatic	-2.909
+Tridihexethyl Alanine--tRNA ligase,	cytoplasmic	-4.962
+PARA-NITROBENZYL GLUTARYL GLYCINIC ACID Cathepsin	B	-4.331
+Biliverdine IX Alpha Tyrosine-protein kinase	ABL1	62.027
+S-NONYL-CYSTEINE Protein	TonB	-3.322
+S-METHYL-4,5,6,7-TETRABROMO-BENZIMIDAZOLE Transient receptor potential cation channel subfamily V member	4	-3.440
+N~3~-[3-(5-METHOXYPYRIDIN-3-YL)BENZYL]PYRIDINE-2,3-DIAMINE Monocarboxylate transporter	2	-4.998
+N-({(3R,4R)-4-[(benzyloxy)methyl]pyrrolidin-3-yl}methyl)-N-(2-methylpropyl)benzenesulfonamide Small ribosomal subunit protein	eS6	-2.599
+(S)-N-(4-carbamimidoylbenzyl)-1-(2-(cyclopentylamino)ethanoyl)pyrrolidine-2-carboxamide Nuclear receptor subfamily 0 group B member	1	-0.923
+2-(Oxalyl-Amino)-4,5,6,7-Tetrahydro-Thieno[2,3-C]Pyridine-3-Carboxylic Acid 2-dehydro-3-deoxyphosphooctonate	aldolase	1.460
+(2R)-2-(5-CHLORO-2-THIENYL)-N-{(3S)-1-[(1S)-1-METHYL-2-MORPHOLIN-4-YL-2-OXOETHYL]-2-OXOPYRROLIDIN-3-YL}PROPENE-1-SULFONAMIDE Activin receptor	type-1B	-4.578
+1-(O-Carboxy-Phenylamino)-1-Deoxy-D-Ribulose-5-Phosphate Small ribosomal subunit protein	uS11	-4.711
+(9S)-9-[(8-AMMONIOOCTYL)AMINO]-1,2,3,4,9,10-HEXAHYDROACRIDINIUM Parathyroid	hormone	-3.672
+Melperone	Alpha-enolase	6.649
+(2S)-2-(BUTYRYLOXY)-3-HYDROXYPROPYL NONANOATE NADPH oxidase	2	-3.567
+(S)-Mandelic acid Capsid scaffolding	protein	-3.907
+Glimepiride ADP-ribosylation factor-like protein	5A	48.912
+Hypoxanthine Hydroxylamine	reductase	-3.989
+7-{[(CYCLOHEXYLAMINO)CARBONYL]AMINO}HEPTANOIC ACID Cyclin-dependent kinase inhibitor	1	-3.980
+3-Fluoro-4-{[(2R)-2-hydroxy-2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydro-2-naphthalenyl)acetyl]amino}benzoic acid Methylglyoxal	synthase	-4.824
+Benzene Hexacarboxylic Acid Neuronal acetylcholine receptor subunit	alpha-5	-3.791
+2-Hydroxymethyl-Pyrrolidine-3,4-Diol Endo-1,4-beta-xylanase	Z	-2.410
+beta-D-Galactopyranuronic acid Insulin-like growth factor-binding protein	3	-2.977
+ICI-164384 Putative ketoacyl	reductase	10.350
+O2-Sulfo-Glucuronic Acid Dihydrofolate synthase/folylpolyglutamate	synthase	-4.783
+(5S)-5-Iododihydro-2,4(1H,3H)-pyrimidinedione	Glucose-1-phosphatase	-4.655
+(5S)-2-{[(1S)-1-(4-Fluorophenyl)ethyl]amino}-5-(2-hydroxy-2-propanyl)-5-methyl-1,3-thiazol-4(5H)-one Peptide methionine sulfoxide reductase	MsrA	-0.390
+N-HYDROXY-2-[4-(4-PHENOXY-BENZENESULFONYL)-TETRAHYDRO-PYRAN-4-YL]-ACETAMIDE Ribosyldihydronicotinamide dehydrogenase	[quinone]	15.789
+S-{2-[Amino(Dihydroxy)-Lambda~4~-Sulfanyl]Ethyl}-D-Cysteine Aspartate	ammonia-lyase	-2.815
+5-HYDROXY-2-(4-HYDROXYPHENYL)-1-BENZOFURAN-7-CARBONITRILE Ephrin type-B receptor	1	-2.940
+Methocarbamol Heterogeneous nuclear ribonucleoprotein	D0	-3.797
+Aminodi(Ethyloxy)Ethylaminocarbonylbenzenesulfonamide Alpha-2C adrenergic	receptor	-4.938
+2-deoxy-2-fluoro-β-D-mannose Gamma-aminobutyric acid receptor subunit	beta-3	-3.587
+Hexamethylene diamine Proteasome subunit alpha	type-2	-3.710
+N-Carbamyl-D-Methionine V-type proton ATPase subunit B, brain	isoform	-4.274
+MK-0354 Cathepsin	B	-4.373
+N(2)-succinyl-L-arginine	Interleukin-2	0.000
+Ertiprotafib Putative glucose-6-phosphate	1-epimerase	36.116
+Iopodic acid Large ribosomal subunit protein	uL23	-4.132
+Roxithromycin	Interleukin-2	0.000
+Gliquidone Receptor activity-modifying protein	2	-4.526
+ICI-164384 Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase	1	-4.291
+Cinolazepam	Aspartate--tRNA	-4.423
+Bromamphenicol	Beclin-1	-2.660
+Nz-(Dicarboxymethyl)Lysine NADH-ubiquinone oxidoreductase chain	3	-2.808
