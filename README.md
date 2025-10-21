@@ -129,6 +129,15 @@ Interaction Reasoning: Final interaction decision, accompanied by a concise rati
 
 This file serves as a transparent explanation of the model’s decision-making process and facilitates interpretability in biomedical applications.
 
+### Interaction Validation Using External Databases
+
+The check-interaction folder contains the code used to validate predicted drug–protein interactions by cross-referencing them with established biomedical databases such as DrugBank, KEGG, and ChEMBL.
+
+The main script, Check_KEGG_DrugBank_chembl.py, performs automated verification to determine whether the interactions predicted by our approach are already documented in these reference databases.
+
+This validation process serves as an external consistency check, helping to assess the biological plausibility and credibility of the model’s predictions by confirming which predicted interactions have prior experimental or literature support.
+
+
 ### The process of fine-tuning our large language model using Alpaca
 
 The alpaca directory contains the script alpaca-llama.py, which provides the code for performing Alpaca-style fine-tuning on the model `meta-llama/Llama-2-7b-chat-hf`. This fine-tuning process follows the self-instruct methodology to adapt the base model to biomedical question-answering tasks.
