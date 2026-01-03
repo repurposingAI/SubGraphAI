@@ -137,7 +137,7 @@ The main script, Check_KEGG_DrugBank_chembl.py, performs automated verification 
 
 This validation process serves as an external consistency check, helping to assess the biological plausibility and credibility of the model’s predictions by confirming which predicted interactions have prior experimental or literature support.
 
-### Disambiguation module
+### Disambiguation rules
 
 The disambiguation_rules directory contains the file disambiguation_rules_kg_to_nodes.py, which implements the ontology alignment disambiguation strategy used in this project. The process follows a progressive approach that first performs an exact lexical verification using the Ontology Lookup Service (OLS). If an exact preferred-label match is found, the corresponding ontology IRI is directly assigned. When no exact match exists, a semantic disambiguation phase is triggered, where candidate ontology terms returned by OLS are compared to the input label using BioBERT embeddings and cosine similarity. The candidate with the highest semantic similarity is selected if it exceeds a predefined threshold. Based on this strategy, entities are classified as aligned (exact or semantic match), unaligned (below similarity threshold), or mismatched (technical or ontological failures). This design balances computational efficiency with robust semantic alignment for biomedical entities.
 
