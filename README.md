@@ -6,23 +6,55 @@ This repository contains the code for our proposed approach, which builds a sema
 
 ### For Running `prediction-dti.py`
 
-To run the DTI prediction pipeline, please ensure the following Python dependencies are installed:
+Create a conda environment and install the required libraries:
 
-```
-pip install timeout_decorator
-pip install langchain
-pip install langgraph
-pip install python-dotenv
-pip install sentence_transformers
-pip install torch_geometric
-pip install sentencepiece
-pip install protobuf
-pip install langchain_community
-pip install 'accelerate>=0.26.0'
-pip install -U bitsandbytes
-pip install bioservices
-pip install chembl_webresource_client
-```
+```bash
+# create environment
+conda create -n dtima python=3.10.19 -y
+
+# activate environment
+conda activate dtima
+
+# install core scientific libraries
+pip install numpy==1.26.4
+pip install pandas==2.3.3
+pip install scipy==1.15.3
+pip install scikit-learn==1.7.2
+pip install networkx==3.3
+pip install matplotlib==3.10.7
+
+# install deep learning libraries
+pip install torch==2.9.0
+pip install torchvision==0.24.0
+pip install torchaudio==2.9.0
+
+# install PyTorch Geometric
+pip install torch-geometric==2.7.0
+pip install torch-scatter==2.1.2
+
+# install transformers and embeddings
+pip install transformers==4.57.1
+pip install sentence-transformers==5.1.2
+pip install sentencepiece==0.2.1
+pip install accelerate==1.11.0
+
+# install LangChain ecosystem
+pip install langchain==0.1.20
+pip install langchain-community==0.0.38
+pip install langchain-core==0.1.53
+pip install langgraph==0.0.51
+pip install langgraph-sdk==0.2.9
+pip install langsmith==0.1.147
+
+# install graph and KG tools
+pip install rdflib==7.3.0
+pip install pcst-fast==1.0.10
+
+# install utility libraries
+pip install tqdm==4.67.1
+pip install requests==2.32.5
+pip install pyyaml==6.0.3
+pip install huggingface-hub==0.36.0
 
 ### For Running `extract-kg.py`
 To run the knowledge graph extraction pipeline from PubMed abstracts using LLMs, install the following:
