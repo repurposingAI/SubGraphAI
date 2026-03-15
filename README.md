@@ -6,7 +6,7 @@ This repository contains the code for our proposed approach, which builds a sema
 
 ### For Running `prediction-dti.py`
 
-Create a conda environment and install the required libraries:
+Create a conda environment and install the required libraries (the code was executed on a server with 49 GB GPU memory):
 
 ```
 # create environment
