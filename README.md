@@ -8,7 +8,7 @@ This repository contains the code for our proposed approach, which builds a sema
 
 Create a conda environment and install the required libraries:
 
-```bash
+```
 # create environment
 conda create -n dtima python=3.10.19 -y
 
@@ -55,6 +55,7 @@ pip install tqdm==4.67.1
 pip install requests==2.32.5
 pip install pyyaml==6.0.3
 pip install huggingface-hub==0.36.0
+```
 
 ### For Running `extract-kg.py`
 To run the knowledge graph extraction pipeline from PubMed abstracts using LLMs, install the following:
