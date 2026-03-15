@@ -248,3 +248,24 @@ This image shows how a specific biomedical entity—the protein 6-phosphofructo-
 </p>
 
 
+### Testing on Large-Scale Knowledge Graph (PharmKG)
+
+To evaluate our approach on a large-scale knowledge graph containing more than one million triples, we used the **PharmKG** KG. For this purpose, we provide two important resources:
+
+1. **Embedding Script (`embedding.py`)**: A single script that generates embeddings for both nodes and edges of the PharmKG. This script stores the resulting embeddings in two separate `.npy` files, which can then be directly loaded for inference to reduce runtime overhead.
+
+2. **DTI Prediction Script (`dti-prediction.py`)**: Our main approach adapted to work with the full PharmKG, using the pre-computed embeddings.
+
+You can download the necessary files from the following link:  
+[Download PharmKG Embeddings and Scripts](https://drive.google.com/file/d/1CO5M7RitddOusvdMh11615be9INgm9vJ/view?usp=sharing)
+
+**Usage Example:**
+
+```bash
+# Step 1: Generate node and edge embeddings
+python embedding.py
+
+# Step 2: Run DTI prediction on PharmKG using pre-computed embeddings
+python dti-prediction.py
+
+
