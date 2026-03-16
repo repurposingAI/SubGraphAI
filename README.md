@@ -292,7 +292,7 @@ To evaluate our approach on a large-scale knowledge graph containing more than o
 You can download the necessary files from the following link:  
 [Download PharmKG Embeddings and Scripts](https://drive.google.com/file/d/1CO5M7RitddOusvdMh11615be9INgm9vJ/view?usp=sharing)
 
-The PharmKG dataset adapted for our approach can be downloaded from the following link. To facilitate its use, the knowledge graph has been divided into four JSON files following the structure adopted in our framework:  
+The PharmKG KG adapted for our approach can be downloaded from the following link. To facilitate its use, the knowledge graph has been divided into four JSON files following the structure adopted in our framework:  
 [Download PharmKG Embeddings and Scripts](https://drive.google.com/file/d/1SigP-9hBBqpfnMVs5l1MS2xU3GHz4xNa/view?usp=sharing)
 
 **Usage Example:**
