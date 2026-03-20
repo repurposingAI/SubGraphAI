@@ -304,4 +304,13 @@ python embedding.py
 # Step 2: Run DTI prediction on PharmKG using pre-computed embeddings
 python dti-prediction.py
 
+### 🎥 Demonstration Video
+
+We provide a demonstration video showcasing the functionality of our approach for predicting drug–target interactions (DTI). The video highlights the outputs of the multi-agent system described in the paper and illustrates how the system operates in practice.
+
+This demonstration aims to help readers better understand the objective of the application and its potential to streamline and enhance the DTI prediction process.
+
+📥 **Download the video here:**  
+[DTI Demo Video](https://drive.google.com/file/d/1CQ_T7gysdMek6NFdGIZ0CwAVj5LPV4J0/view)
+
 
