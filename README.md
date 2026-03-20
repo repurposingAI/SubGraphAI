@@ -303,6 +303,7 @@ python embedding.py
 
 # Step 2: Run DTI prediction on PharmKG using pre-computed embeddings
 python dti-prediction.py
+```
 
 ### 🎥 Demonstration Video
 
