@@ -265,6 +265,42 @@ from huggingface_hub import login
 login("your_token")
 ```
 
+
+## 🧠 Model Fine-Tuning Setup
+
+Alpaca is an instruction-following language model developed by fine-tuning Meta’s LLaMA 7B using a technique known as self-instruct. This approach begins with a limited set of human-written examples and expands the training set through automatic generation of question-answer pairs using OpenAI’s text-davinci-003, resulting in a dataset of 52,000 examples. Designed to offer an open, low-cost, and reproducible alternative to proprietary models such as GPT-3.5, Alpaca demonstrates strong instruction-following performance despite its smaller size, making it particularly suitable for academic research in NLP.
+
+Building on this methodology, we applied the Alpaca fine-tuning strategy to train two domain-specific models, LLaMA-2-7B-Chat and BioMistral-7B, for DTI prediction. For fine-tuning, we utilized the Asclepius-Synthetic-Clinical-Notes dataset, a publicly available high-quality clinical corpus specifically designed to support the development of medical language models while preserving patient privacy. Since accessing real clinical notes is difficult due to strict regulations, the dataset was constructed using synthetic clinical notes generated from PMC-Patients, a collection of anonymized case reports from PubMed Central. Instruction-answer pairs were created with the help of GPT-3.5-turbo, and medical professionals contributed to prompt design to ensure clinical accuracy and relevance. This method enables the use of realistic clinical content while avoiding privacy issues and allows the dataset to be openly shared. Asclepius-Synthetic-Clinical-Notes has already supported the development of powerful models such as Asclepius-7B and Asclepius-13B, and in our case, it serves as a foundation for fine-tuning instruction-following models for biomedical applications.
+
+---
+
+# ⚙️ Fine-Tuning Hyperparameters
+
+| Category | Details |
+|----------|--------|
+| Hardware | Jupyter Notebook server, 47 GB RAM, single GPU (auto-mapped) |
+| Precision | 4-bit quantization (nf4), compute dtype: float16 |
+| LoRA rank (r) | 32 |
+| LoRA alpha | 64 |
+| LoRA dropout | 0.05 |
+| Target modules | q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj, lm_head |
+| Optimizer | paged_adamw_32bit |
+| Learning rate | 2e-4 |
+| Weight decay | 0.001 |
+| Scheduler | Cosine |
+| Warmup ratio | 0.03 |
+| Epochs | 1 |
+| Batch size (train/eval) | 4 / 4 per device |
+| Gradient accumulation | 1 |
+| Gradient clipping | 0.3 |
+| Gradient checkpointing | Enabled |
+| Max steps | Epoch-based |
+| Max sequence length | Default |
+| Packing | Disabled |
+| Checkpoint saving | Disabled (save_steps = 0) |
+| Logging | Every 25 steps |
+| Runtime | ~3 hours |
+
 ## Ontology Visualization of Drug and Protein Entities in Protégé
 
 This image shows how the drug (R)-lipoic acid is represented as an individual within the BioGenOnt ontology, loaded in Protégé. The ontology captures rich semantic information through annotations (such as labels, descriptions, and synonyms) and property assertions that link the drug to related biomedical entities :
